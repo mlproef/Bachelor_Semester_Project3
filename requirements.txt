@@ -1,0 +1,27 @@
+# Shared / Condition A (spaCy NER)
+spacy>=3.7
+tqdm
+numpy
+
+# Condition B (LLM generalization via university OpenAI-compatible API)
+# Uses the modern openai package (v1+).
+openai>=1.0,<2
+python-dotenv
+
+# Condition C helpers (Staab client historically pins openai==0.28.1).
+# Install C deps in a separate venv if you need both B and C:
+#   pip install "openai==0.28.1" tiktoken pyyaml pydantic python-Levenshtein \
+#     sentence-transformers rouge-score nltk regex
+tiktoken
+pyyaml
+pydantic
+python-Levenshtein
+rouge-score
+nltk
+regex
+
+# So1 utility (BGE embeddings + token-change metrics)
+sentence-transformers
+
+# After install for Condition A:
+#   python -m spacy download en_core_web_lg

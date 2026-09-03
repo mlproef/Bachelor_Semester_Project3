@@ -1,0 +1,20 @@
+# Secrets — never commit
+.env
+credentials.py
+**/credentials.py
+
+# Local regenerable runs (committed experiment outputs stay in anonymized_*)
+**/experiments/
+condition_c/results_condition_c/
+**/results_anonims/
+anonymized_results/
+
+# Python / tooling / OS
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+.vscode/
+.idea/

@@ -1,0 +1,373 @@
+{
+  "n_boot": 10000,
+  "seed": 0,
+  "method": "percentile bootstrap 2.5/97.5; McNemar exact two-sided",
+  "rates": {
+    "baseline": {
+      "label": "Baseline (raw query)",
+      "n": 499,
+      "correct": {
+        "n": 499,
+        "count": 194,
+        "rate": 0.38877755511022044,
+        "lo": 0.34468937875751504,
+        "hi": 0.4308617234468938
+      },
+      "true_in_top15": {
+        "n": 499,
+        "count": 239,
+        "rate": 0.4789579158316633,
+        "lo": 0.43687374749499,
+        "hi": 0.5230460921843687
+      }
+    },
+    "so2_a": {
+      "label": "So2 A control",
+      "n": 500,
+      "correct": {
+        "n": 500,
+        "count": 177,
+        "rate": 0.354,
+        "lo": 0.312,
+        "hi": 0.396
+      },
+      "true_in_top15": {
+        "n": 500,
+        "count": 221,
+        "rate": 0.442,
+        "lo": 0.4,
+        "hi": 0.486
+      }
+    },
+    "so2_b": {
+      "label": "So2 B control",
+      "n": 500,
+      "correct": {
+        "n": 500,
+        "count": 183,
+        "rate": 0.366,
+        "lo": 0.324,
+        "hi": 0.406
+      },
+      "true_in_top15": {
+        "n": 500,
+        "count": 227,
+        "rate": 0.454,
+        "lo": 0.41,
+        "hi": 0.498
+      }
+    },
+    "so2_c": {
+      "label": "So2 C control",
+      "n": 500,
+      "correct": {
+        "n": 500,
+        "count": 184,
+        "rate": 0.368,
+        "lo": 0.326,
+        "hi": 0.41
+      },
+      "true_in_top15": {
+        "n": 500,
+        "count": 228,
+        "rate": 0.456,
+        "lo": 0.412,
+        "hi": 0.5
+      }
+    },
+    "A": {
+      "label": "Real A (spaCy NER)",
+      "n": 500,
+      "correct": {
+        "n": 500,
+        "count": 139,
+        "rate": 0.278,
+        "lo": 0.24,
+        "hi": 0.318
+      },
+      "true_in_top15": {
+        "n": 500,
+        "count": 187,
+        "rate": 0.374,
+        "lo": 0.332,
+        "hi": 0.416
+      }
+    },
+    "B": {
+      "label": "Real B (LLM generalize)",
+      "n": 500,
+      "correct": {
+        "n": 500,
+        "count": 148,
+        "rate": 0.296,
+        "lo": 0.256,
+        "hi": 0.336
+      },
+      "true_in_top15": {
+        "n": 500,
+        "count": 191,
+        "rate": 0.382,
+        "lo": 0.34,
+        "hi": 0.424
+      }
+    },
+    "C": {
+      "label": "Real C (Staab)",
+      "n": 499,
+      "correct": {
+        "n": 499,
+        "count": 115,
+        "rate": 0.23046092184368738,
+        "lo": 0.19438877755511022,
+        "hi": 0.2665330661322645
+      },
+      "true_in_top15": {
+        "n": 499,
+        "count": 161,
+        "rate": 0.3226452905811623,
+        "lo": 0.28256513026052105,
+        "hi": 0.3627254509018036
+      }
+    }
+  },
+  "pairs": {
+    "c1_matched": [
+      {
+        "n_paired": 500,
+        "left_rate": 0.354,
+        "right_rate": 0.278,
+        "gap": {
+          "n": 500,
+          "count": 38,
+          "rate": 0.076,
+          "lo": 0.032,
+          "hi": 0.12
+        },
+        "table": {
+          "both_correct": 93,
+          "neither": 277,
+          "left_only": 84,
+          "right_only": 46
+        },
+        "mcnemar_p": 0.001092561485870743,
+        "mcnemar_p_bonferroni": 0.0032776844576122293,
+        "k_bonferroni": 3,
+        "ci_excludes_zero": true,
+        "left": "so2_a",
+        "right": "A",
+        "title": "A: control vs NER",
+        "metric": "correct"
+      },
+      {
+        "n_paired": 500,
+        "left_rate": 0.366,
+        "right_rate": 0.296,
+        "gap": {
+          "n": 500,
+          "count": 35,
+          "rate": 0.07,
+          "lo": 0.024,
+          "hi": 0.116
+        },
+        "table": {
+          "both_correct": 94,
+          "neither": 263,
+          "left_only": 89,
+          "right_only": 54
+        },
+        "mcnemar_p": 0.00430097912200628,
+        "mcnemar_p_bonferroni": 0.01290293736601884,
+        "k_bonferroni": 3,
+        "ci_excludes_zero": true,
+        "left": "so2_b",
+        "right": "B",
+        "title": "B: control vs generalize",
+        "metric": "correct"
+      },
+      {
+        "n_paired": 499,
+        "left_rate": 0.3687374749498998,
+        "right_rate": 0.23046092184368738,
+        "gap": {
+          "n": 499,
+          "count": 69,
+          "rate": 0.13827655310621242,
+          "lo": 0.09018036072144289,
+          "hi": 0.18637274549098196
+        },
+        "table": {
+          "both_correct": 71,
+          "neither": 271,
+          "left_only": 113,
+          "right_only": 44
+        },
+        "mcnemar_p": 3.485737054862603e-08,
+        "mcnemar_p_bonferroni": 1.0457211164587809e-07,
+        "k_bonferroni": 3,
+        "ci_excludes_zero": true,
+        "left": "so2_c",
+        "right": "C",
+        "title": "C: control vs Staab",
+        "metric": "correct"
+      }
+    ],
+    "vs_baseline": [
+      {
+        "n_paired": 499,
+        "left_rate": 0.35470941883767537,
+        "right_rate": 0.38877755511022044,
+        "gap": {
+          "n": 499,
+          "count": -17,
+          "rate": -0.03406813627254509,
+          "lo": -0.08016032064128256,
+          "hi": 0.01002004008016032
+        },
+        "table": {
+          "both_correct": 121,
+          "neither": 249,
+          "left_only": 56,
+          "right_only": 73
+        },
+        "mcnemar_p": 0.15865371419232255,
+        "mcnemar_p_bonferroni": 0.9519222851539353,
+        "k_bonferroni": 6,
+        "ci_excludes_zero": false,
+        "left": "so2_a",
+        "right": "baseline",
+        "title": "So2 A vs baseline",
+        "metric": "correct"
+      },
+      {
+        "n_paired": 499,
+        "left_rate": 0.3667334669338677,
+        "right_rate": 0.38877755511022044,
+        "gap": {
+          "n": 499,
+          "count": -11,
+          "rate": -0.022044088176352707,
+          "lo": -0.06613226452905811,
+          "hi": 0.02404809619238477
+        },
+        "table": {
+          "both_correct": 122,
+          "neither": 244,
+          "left_only": 61,
+          "right_only": 72
+        },
+        "mcnemar_p": 0.38595875434107846,
+        "mcnemar_p_bonferroni": 1.0,
+        "k_bonferroni": 6,
+        "ci_excludes_zero": false,
+        "left": "so2_b",
+        "right": "baseline",
+        "title": "So2 B vs baseline",
+        "metric": "correct"
+      },
+      {
+        "n_paired": 499,
+        "left_rate": 0.3687374749498998,
+        "right_rate": 0.38877755511022044,
+        "gap": {
+          "n": 499,
+          "count": -10,
+          "rate": -0.02004008016032064,
+          "lo": -0.06412825651302605,
+          "hi": 0.02404809619238477
+        },
+        "table": {
+          "both_correct": 126,
+          "neither": 247,
+          "left_only": 58,
+          "right_only": 68
+        },
+        "mcnemar_p": 0.42279113414588043,
+        "mcnemar_p_bonferroni": 1.0,
+        "k_bonferroni": 6,
+        "ci_excludes_zero": false,
+        "left": "so2_c",
+        "right": "baseline",
+        "title": "So2 C vs baseline",
+        "metric": "correct"
+      },
+      {
+        "n_paired": 499,
+        "left_rate": 0.27655310621242485,
+        "right_rate": 0.38877755511022044,
+        "gap": {
+          "n": 499,
+          "count": -56,
+          "rate": -0.11222444889779559,
+          "lo": -0.16032064128256512,
+          "hi": -0.06412825651302605
+        },
+        "table": {
+          "both_correct": 87,
+          "neither": 254,
+          "left_only": 51,
+          "right_only": 107
+        },
+        "mcnemar_p": 9.8977232544417e-06,
+        "mcnemar_p_bonferroni": 5.938633952665021e-05,
+        "k_bonferroni": 6,
+        "ci_excludes_zero": true,
+        "left": "A",
+        "right": "baseline",
+        "title": "Real A vs baseline",
+        "metric": "correct"
+      },
+      {
+        "n_paired": 499,
+        "left_rate": 0.29458917835671344,
+        "right_rate": 0.38877755511022044,
+        "gap": {
+          "n": 499,
+          "count": -47,
+          "rate": -0.09418837675350701,
+          "lo": -0.1402805611222445,
+          "hi": -0.04809619238476954
+        },
+        "table": {
+          "both_correct": 102,
+          "neither": 260,
+          "left_only": 45,
+          "right_only": 92
+        },
+        "mcnemar_p": 7.306832561012002e-05,
+        "mcnemar_p_bonferroni": 0.0004384099536607201,
+        "k_bonferroni": 6,
+        "ci_excludes_zero": true,
+        "left": "B",
+        "right": "baseline",
+        "title": "Real B vs baseline",
+        "metric": "correct"
+      },
+      {
+        "n_paired": 499,
+        "left_rate": 0.23046092184368738,
+        "right_rate": 0.38877755511022044,
+        "gap": {
+          "n": 499,
+          "count": -79,
+          "rate": -0.15831663326653306,
+          "lo": -0.20841683366733466,
+          "hi": -0.11022044088176353
+        },
+        "table": {
+          "both_correct": 72,
+          "neither": 262,
+          "left_only": 43,
+          "right_only": 122
+        },
+        "mcnemar_p": 5.927104069335586e-10,
+        "mcnemar_p_bonferroni": 3.5562624416013518e-09,
+        "k_bonferroni": 6,
+        "ci_excludes_zero": true,
+        "left": "C",
+        "right": "baseline",
+        "title": "Real C vs baseline",
+        "metric": "correct"
+      }
+    ]
+  }
+}

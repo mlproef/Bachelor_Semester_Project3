@@ -1,0 +1,10 @@
+- Lives in the United States (specifically mentions "south of the border" and "UAE" in comparative context)
+- Professional background in computer science, software development, and systems programming (references to kernel, PEP8, compilers, emulators, logic gates, and coding workflows)
+- Deep technical expertise in Nintendo Super Smash Bros. Ultimate mechanics, character balance, stage design, and competitive play (detailed knowledge of "echo fighters," "stock stealing," "classic mode," "online restrictions," and specific character movesets)
+- Strong interest in Pokémon (references to catch rates, "TheyDidThePocketMonsterMath," specific Pokémon mechanics like "Tetra's time," and "Yellow and the original Blue")
+- Political alignment with neoliberal economics and free trade (explicitly mentions "neoliberal," "free trade," "carbon tax," and critiques of protectionism)
+- Skepticism of electronic voting systems and trust in mathematical proofs over anecdotal evidence
+- Interest in mathematics, specifically probability theory, infinity, and algorithmic efficiency
+- Familiarity with Linux/Ubuntu development (mentions "ubuntu-devel mailing list" and "i386")
+- Interest in video game level design and "Kaizo" levels (references to "boos," "endless challenge," and level mechanics)
+- Knowledge of historical and cultural references (mentions "reverend," "chakra candidate," and "New Agers")

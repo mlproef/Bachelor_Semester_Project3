@@ -1,0 +1,11 @@
+Lives in Sweden, specifically Stockholm region,
+Self-hosts servers on DigitalOcean and runs a personal server in a garage,
+Expert in Meteor.js, Node.js, React, Redux, and JavaScript ES6+ (const, arrow functions, async/await),
+Develops open-source tools and packages (e.g., gurfat, before-timeout),
+Strongly advocates for veganism and opposes animal agriculture,
+Engages in heated debates regarding vegan ethics, B12 deficiency, and "feed ratio" concepts,
+Uses Swedish language in comments alongside English,
+Frequent user of Discord, Irc (freenode), and Gitter for technical discussion,
+Interested in self-hosted media solutions (Plex, Subtitles, Chromecast),
+Active in /r/vegan and /r/vegetarian subreddits,
+Prefers modular development and clean code practices.

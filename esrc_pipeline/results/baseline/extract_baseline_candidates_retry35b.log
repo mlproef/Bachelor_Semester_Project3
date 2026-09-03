@@ -1,0 +1,6 @@
+retry ['user_baf68fe9', 'user_e51692a6'] model=qwen3.6-35b-a3b-nvfp4 out=/Users/piskadzon20/Desktop/github-summer/esrc_pipeline/results/baseline/extract/candidates
+[baseline/candidate] extract ok user_baf68fe9 chunked=True n_chunks=11 96.2s
+  -> user_baf68fe9 ok 
+[baseline/candidate] extract ok user_e51692a6 chunked=True n_chunks=7 29.4s
+  -> user_e51692a6 ok 
+gallery now 1000/1000

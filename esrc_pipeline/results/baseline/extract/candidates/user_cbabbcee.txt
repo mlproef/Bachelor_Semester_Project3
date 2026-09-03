@@ -1,0 +1,11 @@
+Lives in Las Vegas, Nevada (specifically mentions Moab, Valley of Fire, I-15, I-95, I-215, Henderson, Primm, and Reno),
+Works in or has strong interest in electronics engineering, FPGA design, and hardware modification (SPI/I2C buses, RF demodulation, AC-3/TOSLink),
+Extensive collector of retro video game hardware (GameCube, SNES, N64, Laserdisc, Super Nintendo, Virtual Boy),
+Strongly critical of Donald Trump and the current US administration,
+Supports single-payer healthcare and opposes corporate greed/MLMs,
+Has a specific interest in Japanese culture, language learning, and travel to Japan (references Kobe, Osaka, Tokyo, Fukuoka, Hiroshima),
+Frequent user of specific niche subreddits (/r/Bitcoin, /r/IntentionalWesAnderson, /r/killthecameraman, /r/titlegore),
+Possesses technical expertise in UNIX systems (NetBSD, pfsense IPv6 configuration) and mechanical keyboards (Alps/Matias switches),
+Recurring interest in 4x4/offroad vehicles and fuel efficiency,
+Strongly opposed to "shrinkwrap" preservation of games, preferring tested copies,
+Mentions specific local businesses and landmarks (Aldi, Target, Trader Joe's, Del Taco, Review-Journal, Sheldon Adelson).

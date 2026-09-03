@@ -1,0 +1,10 @@
+Lives in a coastal area of a specific region in Europe, likely the UK (references to "local port," "NHS," "Met Police," "Islanders," "Northern region"),
+Works in sports betting and fantasy sports management (places specific bets, tracks odds, manages player rosters, mentions "account," "bundles," "exchange"),
+Has a background in or interest in professional football (soccer) and cricket (mentions "limited-overs," "runs," "century," "stowaways," "league promotions"),
+Strongly holds conservative political views (criticizes immigration policy, supports "strong leader," opposes asylum for stowaways, believes in "collecting" migrants, skeptical of government spending),
+Possesses a specific technical background in sports data or analytics (discusses "Goals Per Game," "Goals Per Game," "statistics," "market odds," "player valuations"),
+Experiences frequent weather in coastal regions (mentions rain, snow, coastal storms, "drenched," "coastal town"),
+Engages in local community issues (comments on local council politics, homeless individuals, local transit strikes, regional voting patterns),
+Has a history of owning or managing sports teams/players in fantasy or simulation games (mentions "captaining," "trading," "selling," "loyalty," "rank"),
+Recurring interest in specific political figures and parties (references to "specific politician," "political party," "manifesto," "election," "parliamentary question time"),
+Demonstrates a pattern of financial anxiety regarding gambling (mentions "account balance," "limit on it," "lost money," "budget choice," "small amount").

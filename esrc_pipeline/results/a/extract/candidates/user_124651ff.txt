@@ -1,0 +1,9 @@
+- Lives in southern Germany (specifically mentions "southern [LOCATION]" and German language comments)
+- Works as a Unity game developer (explicitly states "I tried [PERSON] myself as a Unity dev")
+- Enthusiast of German electronic music, specifically Masters of Hardcore (MOH), Act of Rage, and the artist Spoontechnician
+- Deeply knowledgeable about PC hardware, specifically NVIDIA RTX graphics cards (1060, 2080S, 3060, 3070, 3080, 3090) and laptop CPU/GPU performance testing
+- Uses Boost and Sync as primary Reddit clients, frequently comparing them to the official Reddit app
+- Has experience with Linux (Ubuntu 18.04) and Windows, noting specific UI limitations in Ubuntu
+- Interested in image upscaling and AI image generation tools (RealSR, DF2K, FArtDIV3)
+- Follows the artist Aftershock and his alias Spoontechnician closely, discussing specific tracks and live sets
+- Engages in technical discussions regarding raytracing, VRAM limits, and game optimization on PC vs. Console

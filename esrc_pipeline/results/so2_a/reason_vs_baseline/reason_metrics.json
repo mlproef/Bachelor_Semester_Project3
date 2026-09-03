@@ -1,0 +1,8 @@
+{
+  "n_reason_ok": 500,
+  "top1_correct": 177,
+  "top1_accuracy": 0.354,
+  "hit_at_15_count": 221,
+  "hit_at_15": 0.442,
+  "source": "/Users/piskadzon20/Desktop/github-summer/esrc_pipeline/results/so2_a/reason_vs_baseline/reason_predictions.jsonl"
+}

@@ -1,0 +1,8 @@
+[baseline/search] building/loading candidate gallery (gallery=baseline)…
+[baseline/gallery] cache hit (1000 candidates) ← /Users/piskadzon20/Desktop/github-summer/esrc_pipeline/results/baseline/search/gallery_cache/candidate_embeddings.npy
+[baseline/search] 499 queries × 1000 candidates (gallery=baseline, k=15, model=sentence-transformers/all-mpnet-base-v2)
+[baseline/search] embedding 499 query summaries…
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 7541.26it/s]
+[baseline/search] wrote /Users/piskadzon20/Desktop/github-summer/esrc_pipeline/results/baseline/search/search_top15.csv (499 queries)
+/Users/piskadzon20/Desktop/github-summer/esrc_pipeline/results/baseline/search/search_top15.csv

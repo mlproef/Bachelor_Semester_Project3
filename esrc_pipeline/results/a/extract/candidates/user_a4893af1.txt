@@ -1,0 +1,23 @@
+Lives in [LOCATION], [LOCATION]
+Works in [ORGANIZATION]
+Frequent [PRODUCT] player
+Deeply invested in [LOCATION] lore
+Strong opinions on [PERSON] character arcs
+Critical of [ORGANIZATION] game design
+Enjoys [WORK_OF_ART] and [PERSON] media
+Follows [ORGANIZATION] and [PERSON] news
+Supports [PERSON] and [PERSON]
+Interested in [PERSON] and [PERSON]
+Likes [PERSON] and [PERSON]
+Frequent [PRODUCT] card collector
+Engaged in [PRODUCT] theory discussions
+Follows [PERSON] and [PERSON]
+Interested in [PERSON] and [PERSON]
+Supports [PERSON] and [PERSON]
+Likes [PERSON] and [PERSON]
+Frequent [PRODUCT] card collector
+Engaged in [PRODUCT] theory discussions
+Follows [PERSON] and [PERSON]
+Interested in [PERSON] and [PERSON]
+Supports [PERSON] and [PERSON]
+Likes [PERSON] and [PERSON]

@@ -1,0 +1,10 @@
+{
+  "dry_run": true,
+  "condition": "B",
+  "side": "candidate",
+  "n_candidate_files": 2,
+  "estimated_comment_lines": 1000,
+  "model": "qwen3.6-35b-a3b-nvfp4",
+  "prompt_file": "/Users/piskadzon20/Desktop/github-summer/condition_b/prompts/condition_b_generalize.txt",
+  "output_dir": "/Users/piskadzon20/Desktop/github-summer/condition_b/anonymized_b/candidates"
+}

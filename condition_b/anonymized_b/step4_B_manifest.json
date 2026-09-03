@@ -1,0 +1,18 @@
+{
+  "dry_run": false,
+  "condition": "B",
+  "side": "query",
+  "n_query_files": 500,
+  "processed_comment_lines": 13479,
+  "api_calls": 13479,
+  "skipped_files": 473,
+  "fallback_original": 0,
+  "fallback_refusal": 31,
+  "fallback_overexpand": 10,
+  "model": "qwen3.6-35b-a3b-nvfp4",
+  "base_url": "https://gpu6.sedan.pro/v1",
+  "prompt_file": "condition_b_generalize.txt",
+  "output_dir": "/Users/piskadzon20/Desktop/github-summer/condition_b/anonymized_b/query",
+  "api_errors_count": 41,
+  "errors_file": "/Users/piskadzon20/Desktop/github-summer/condition_b/anonymized_b/step4_B_errors.json"
+}

@@ -1,0 +1,10 @@
+{
+  "dry_run": false,
+  "condition": "A",
+  "side": "candidate",
+  "n_candidate_files": 1000,
+  "processed_comment_lines": 133107,
+  "skipped_files": 733,
+  "model": "spacy/en_core_web_lg",
+  "output_dir": "/Users/piskadzon20/Desktop/github-summer/condition_a/anonymized_a/candidates"
+}

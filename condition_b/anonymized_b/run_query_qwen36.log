@@ -1,0 +1,442 @@
+[B/query] API base_url=https://gpu6.sedan.pro/v1 model=qwen3.6-35b-a3b-nvfp4 out=/Users/piskadzon20/Desktop/github-summer/condition_b/anonymized_b/query
+Anonymize B (query):   0%|          | 0/500 [00:00<?, ?it/s]Anonymize B (query):   0%|          | 1/500 [03:28<28:54:33, 208.56s/it]Anonymize B (query):   0%|          | 2/500 [06:37<27:15:51, 197.09s/it]Anonymize B (query):   1%|          | 3/500 [09:30<25:41:33, 186.10s/it]Anonymize B (query):   1%|          | 4/500 [13:45<29:21:33, 213.09s/it]Anonymize B (query):   1%|          | 5/500 [16:25<26:42:27, 194.24s/it]Anonymize B (query):   1%|          | 6/500 [19:31<26:15:04, 191.30s/it]Anonymize B (query):   1%|▏         | 7/500 [25:32<33:48:12, 246.84s/it]Anonymize B (query):   2%|▏         | 8/500 [31:05<37:27:17, 274.06s/it]Anonymize B (query):   2%|▏         | 9/500 [34:39<34:49:59, 255.40s/it]Anonymize B (query):   2%|▏         | 10/500 [40:08<37:51:33, 278.15s/it]Anonymize B (query):   2%|▏         | 11/500 [42:37<32:24:36, 238.60s/it]Anonymize B (query):   2%|▏         | 12/500 [46:31<32:09:35, 237.25s/it]Anonymize B (query):   3%|▎         | 13/500 [50:26<32:00:58, 236.67s/it]Anonymize B (query):   3%|▎         | 14/500 [56:38<37:26:19, 277.32s/it]Anonymize B (query):   3%|▎         | 15/500 [59:08<32:13:11, 239.16s/it]Anonymize B (query):   3%|▎         | 16/500 [1:02:15<30:00:36, 223.22s/it]Anonymize B (query):   3%|▎         | 17/500 [1:05:52<29:42:03, 221.37s/it]Anonymize B (query):   4%|▎         | 18/500 [1:10:00<30:44:12, 229.57s/it]Anonymize B (query):   4%|▍         | 19/500 [1:13:04<28:49:06, 215.69s/it]Anonymize B (query):   4%|▍         | 20/500 [1:15:55<27:00:06, 202.51s/it]Anonymize B (query):   4%|▍         | 21/500 [1:20:04<28:46:57, 216.32s/it]Anonymize B (query):   4%|▍         | 22/500 [1:25:52<33:57:00, 255.69s/it]Anonymize B (query):   5%|▍         | 23/500 [1:32:19<39:06:18, 295.13s/it]Anonymize B (query):   5%|▍         | 24/500 [1:35:33<35:00:37, 264.78s/it]Anonymize B (query):   5%|▌         | 25/500 [1:38:32<31:34:08, 239.26s/it]Anonymize B (query):   5%|▌         | 26/500 [1:40:55<27:41:23, 210.30s/it]Anonymize B (query):   5%|▌         | 27/500 [1:44:22<27:28:50, 209.16s/it]Anonymize B (query):   5%|▌         | 27/500 [1:50:26<32:14:48, 245.43s/it]
+Traceback (most recent call last):
+  File "/Users/piskadzon20/Desktop/github-summer/condition_b/scripts/run_condition_b.py", line 71, in <module>
+    main()
+  File "/Users/piskadzon20/Desktop/github-summer/condition_b/scripts/run_condition_b.py", line 58, in main
+    out = run_condition_b(
+          ^^^^^^^^^^^^^^^^
+  File "/Users/piskadzon20/Desktop/github-summer/condition_b/src/anonymize_b.py", line 340, in run_condition_b
+    json.loads(line)
+^^^^^^^^^^^^^^^^^^^^
+  File "/Users/piskadzon20/Desktop/github-summer/condition_b/src/anonymize_b.py", line 250, in _process_profile
+    "error": "refusal_fallback",
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/piskadzon20/Desktop/github-summer/condition_b/src/anonymize_b.py", line 171, in _apply_anonymizer_to_obj
+    
+  File "/Users/piskadzon20/Desktop/github-summer/condition_b/src/anonymize_b.py", line 194, in anonymize
+    return objs
+               
+  File "/Users/piskadzon20/Desktop/github-summer/condition_b/src/anonymize_b.py", line 111, in _call_openai_rewrite
+    + ", ".join(missing)
+           ^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/openai/_utils/_utils.py", line 298, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/openai/resources/chat/completions/completions.py", line 1296, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/openai/_base_client.py", line 1382, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/openai/_base_client.py", line 1087, in request
+    response = self._send_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/openai/_client.py", line 491, in _send_request
+    response = self._send_with_auth_retry(request, stream=stream, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/openai/_client.py", line 469, in _send_with_auth_retry
+    response = super()._send_request(request, stream=stream, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/openai/_base_client.py", line 1010, in _send_request
+    return self._client.send(request, stream=stream, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpx2/_client.py", line 987, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpx2/_client.py", line 1015, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpx2/_client.py", line 1050, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpx2/_client.py", line 1083, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpx2/_transports/default.py", line 245, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_sync/connection_pool.py", line 242, in handle_request
+    raise exc from None
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_sync/connection_pool.py", line 224, in handle_request
+    response = connection.handle_request(pool_request.request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_sync/connection.py", line 96, in handle_request
+    return self._connection.handle_request(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_sync/http11.py", line 125, in handle_request
+    raise exc
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_sync/http11.py", line 97, in handle_request
+    ) = self._receive_response_headers(**kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_sync/http11.py", line 167, in _receive_response_headers
+    event = self._receive_event(timeout=timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_sync/http11.py", line 200, in _receive_event
+    data = self._network_stream.read(self.READ_NUM_BYTES, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_backends/sync.py", line 127, in read
+    return self._sock.recv(max_bytes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/ssl.py", line 1296, in recv
+    return self.read(buflen)
+           ^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/ssl.py", line 1169, in read
+    return self._sslobj.read(len)
+           ^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+[B/query] API base_url=https://gpu6.sedan.pro/v1 model=qwen3.6-35b-a3b-nvfp4 out=/Users/piskadzon20/Desktop/github-summer/condition_b/anonymized_b/query
+Anonymize B (query):   0%|          | 0/500 [00:00<?, ?it/s]Anonymize B (query):   6%|▌         | 28/500 [01:14<20:58,  2.67s/it]Anonymize B (query):   7%|▋         | 33/500 [01:23<19:14,  2.47s/it]Anonymize B (query):   7%|▋         | 34/500 [12:40<5:07:00, 39.53s/it]Anonymize B (query):   7%|▋         | 35/500 [16:11<6:42:59, 52.00s/it]Anonymize B (query):   7%|▋         | 36/500 [20:18<9:03:58, 70.34s/it]Anonymize B (query):   7%|▋         | 37/500 [23:26<10:50:26, 84.29s/it]Anonymize B (query):   8%|▊         | 38/500 [26:43<12:54:15, 100.55s/it]Anonymize B (query):   8%|▊         | 39/500 [30:20<15:25:33, 120.46s/it]Anonymize B (query):   8%|▊         | 40/500 [33:02<16:26:49, 128.72s/it]Anonymize B (query):   8%|▊         | 41/500 [36:01<17:49:24, 139.79s/it]Anonymize B (query):   8%|▊         | 42/500 [38:55<18:48:54, 147.89s/it]Anonymize B (query):   9%|▊         | 43/500 [43:32<22:55:21, 180.57s/it]Anonymize B (query):   9%|▉         | 44/500 [46:36<23:00:50, 181.69s/it]Anonymize B (query):   9%|▉         | 45/500 [51:01<25:51:21, 204.57s/it]Anonymize B (query):   9%|▉         | 45/500 [53:49<9:04:14, 71.77s/it]  
+Traceback (most recent call last):
+  File "/Users/piskadzon20/Desktop/github-summer/condition_b/scripts/run_condition_b.py", line 71, in <module>
+    main()
+  File "/Users/piskadzon20/Desktop/github-summer/condition_b/scripts/run_condition_b.py", line 58, in main
+    out = run_condition_b(
+          ^^^^^^^^^^^^^^^^
+  File "/Users/piskadzon20/Desktop/github-summer/condition_b/src/anonymize_b.py", line 393, in run_condition_b
+    source_file=sf.name,
+        ^^^^^^^^^^^^^^^^
+  File "/Users/piskadzon20/Desktop/github-summer/condition_b/src/anonymize_b.py", line 300, in _process_profile
+    stats["lines"] += 1
+          ^^^^^^^^^^^^^^
+  File "/Users/piskadzon20/Desktop/github-summer/condition_b/src/anonymize_b.py", line 207, in _apply_anonymizer_to_obj
+    def _apply_anonymizer_to_obj(obj: dict, anonymizer: Callable[[str], str]) -> dict:
+                   ^^^^^^^^^^^^^^^^
+  File "/Users/piskadzon20/Desktop/github-summer/condition_b/src/anonymize_b.py", line 231, in anonymize
+    """Retry API calls; on failure or refusal-like output keep original text."""
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/piskadzon20/Desktop/github-summer/condition_b/src/anonymize_b.py", line 147, in _call_openai_rewrite
+    )
+     
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/openai/_utils/_utils.py", line 298, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/openai/resources/chat/completions/completions.py", line 1296, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/openai/_base_client.py", line 1382, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/openai/_base_client.py", line 1087, in request
+    response = self._send_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/openai/_client.py", line 491, in _send_request
+    response = self._send_with_auth_retry(request, stream=stream, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/openai/_client.py", line 469, in _send_with_auth_retry
+    response = super()._send_request(request, stream=stream, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/openai/_base_client.py", line 1010, in _send_request
+    return self._client.send(request, stream=stream, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpx2/_client.py", line 987, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpx2/_client.py", line 1015, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpx2/_client.py", line 1050, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpx2/_client.py", line 1083, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpx2/_transports/default.py", line 245, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_sync/connection_pool.py", line 242, in handle_request
+    raise exc from None
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_sync/connection_pool.py", line 224, in handle_request
+    response = connection.handle_request(pool_request.request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_sync/connection.py", line 96, in handle_request
+    return self._connection.handle_request(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_sync/http11.py", line 125, in handle_request
+    raise exc
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_sync/http11.py", line 97, in handle_request
+    ) = self._receive_response_headers(**kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_sync/http11.py", line 167, in _receive_response_headers
+    event = self._receive_event(timeout=timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_sync/http11.py", line 200, in _receive_event
+    data = self._network_stream.read(self.READ_NUM_BYTES, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_backends/sync.py", line 127, in read
+    return self._sock.recv(max_bytes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/ssl.py", line 1296, in recv
+    return self.read(buflen)
+           ^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/ssl.py", line 1169, in read
+    return self._sslobj.read(len)
+           ^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+[B/query] API base_url=https://gpu6.sedan.pro/v1 model=qwen3.6-35b-a3b-nvfp4 out=/Users/piskadzon20/Desktop/github-summer/condition_b/anonymized_b/query
+Anonymize B (query):   0%|          | 0/500 [00:00<?, ?it/s]Anonymize B (query):   9%|▉         | 46/500 [00:45<07:29,  1.01it/s]Anonymize B (query):   9%|▉         | 47/500 [05:23<1:10:23,  9.32s/it]Anonymize B (query):  10%|▉         | 48/500 [09:19<2:20:53, 18.70s/it]Anonymize B (query):  10%|▉         | 49/500 [14:33<4:23:51, 35.10s/it]Anonymize B (query):  10%|█         | 50/500 [17:28<5:40:48, 45.44s/it]Anonymize B (query):  10%|█         | 51/500 [20:46<7:28:27, 59.93s/it]Anonymize B (query):  10%|█         | 52/500 [23:42<9:11:26, 73.85s/it]Anonymize B (query):  11%|█         | 53/500 [27:40<12:09:01, 97.86s/it]Anonymize B (query):  11%|█         | 54/500 [30:17<13:23:01, 108.03s/it]Anonymize B (query):  11%|█         | 55/500 [35:18<18:04:25, 146.22s/it]Anonymize B (query):  11%|█         | 56/500 [42:14<25:21:01, 205.54s/it]Anonymize B (query):  11%|█▏        | 57/500 [46:26<26:40:58, 216.84s/it]Anonymize B (query):  12%|█▏        | 58/500 [52:37<31:26:32, 256.09s/it]Anonymize B (query):  12%|█▏        | 59/500 [56:50<31:16:23, 255.29s/it]Anonymize B (query):  12%|█▏        | 60/500 [1:01:40<32:20:50, 264.66s/it]Anonymize B (query):  12%|█▏        | 61/500 [1:06:01<32:09:17, 263.68s/it]Anonymize B (query):  12%|█▏        | 62/500 [1:08:53<28:52:36, 237.34s/it]Anonymize B (query):  13%|█▎        | 63/500 [1:13:07<29:23:20, 242.11s/it]Anonymize B (query):  13%|█▎        | 64/500 [1:17:03<29:07:09, 240.43s/it]Anonymize B (query):  13%|█▎        | 65/500 [1:21:34<30:09:41, 249.61s/it]Anonymize B (query):  13%|█▎        | 66/500 [1:24:12<26:48:31, 222.38s/it]Anonymize B (query):  13%|█▎        | 67/500 [1:26:47<24:18:28, 202.10s/it]Anonymize B (query):  14%|█▎        | 68/500 [1:31:25<26:59:13, 224.89s/it]Anonymize B (query):  14%|█▍        | 69/500 [1:34:18<25:04:01, 209.38s/it]Anonymize B (query):  14%|█▍        | 70/500 [1:40:44<31:19:00, 262.19s/it]Anonymize B (query):  14%|█▍        | 71/500 [1:44:40<30:18:21, 254.32s/it]Anonymize B (query):  14%|█▍        | 72/500 [1:47:34<27:22:44, 230.29s/it]Anonymize B (query):  15%|█▍        | 73/500 [1:50:43<25:51:05, 217.95s/it]Anonymize B (query):  15%|█▍        | 74/500 [1:53:57<24:55:32, 210.64s/it]Anonymize B (query):  15%|█▌        | 75/500 [1:59:56<30:08:35, 255.33s/it]Anonymize B (query):  15%|█▌        | 76/500 [2:05:36<33:02:18, 280.52s/it]Anonymize B (query):  15%|█▌        | 77/500 [2:08:52<29:59:45, 255.28s/it]Anonymize B (query):  16%|█▌        | 78/500 [2:13:00<29:40:18, 253.12s/it]Anonymize B (query):  16%|█▌        | 79/500 [2:16:14<27:31:42, 235.40s/it]Anonymize B (query):  16%|█▌        | 80/500 [2:19:32<26:08:55, 224.13s/it]Anonymize B (query):  16%|█▌        | 81/500 [2:26:21<32:32:39, 279.62s/it]Anonymize B (query):  16%|█▋        | 82/500 [2:31:34<33:37:15, 289.56s/it]Anonymize B (query):  17%|█▋        | 83/500 [2:37:02<34:53:23, 301.21s/it]Anonymize B (query):  17%|█▋        | 84/500 [2:40:26<31:26:01, 272.02s/it]Anonymize B (query):  17%|█▋        | 85/500 [2:43:51<29:01:55, 251.84s/it]Anonymize B (query):  17%|█▋        | 86/500 [2:47:48<28:26:09, 247.27s/it]Anonymize B (query):  17%|█▋        | 87/500 [2:53:50<32:19:57, 281.83s/it]Anonymize B (query):  18%|█▊        | 88/500 [2:56:22<27:47:15, 242.80s/it]Anonymize B (query):  18%|█▊        | 89/500 [2:59:47<26:26:25, 231.59s/it]Anonymize B (query):  18%|█▊        | 90/500 [3:04:07<27:20:41, 240.10s/it]Anonymize B (query):  18%|█▊        | 91/500 [3:08:54<28:51:31, 254.01s/it]Anonymize B (query):  18%|█▊        | 92/500 [3:12:44<27:59:31, 246.99s/it]Anonymize B (query):  18%|█▊        | 92/500 [3:13:05<14:16:17, 125.93s/it]
+Traceback (most recent call last):
+  File "/Users/piskadzon20/Desktop/github-summer/condition_b/scripts/run_condition_b.py", line 71, in <module>
+    main()
+  File "/Users/piskadzon20/Desktop/github-summer/condition_b/scripts/run_condition_b.py", line 58, in main
+    out = run_condition_b(
+          ^^^^^^^^^^^^^^^^
+  File "/Users/piskadzon20/Desktop/github-summer/condition_b/src/anonymize_b.py", line 397, in run_condition_b
+    stats = _process_profile(
+            ^^^^^^^^^^^^^^^^^
+  File "/Users/piskadzon20/Desktop/github-summer/condition_b/src/anonymize_b.py", line 304, in _process_profile
+    obj = _apply_anonymizer_to_obj(obj, anonymizer)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/piskadzon20/Desktop/github-summer/condition_b/src/anonymize_b.py", line 211, in _apply_anonymizer_to_obj
+    new_text = anonymizer(text)
+               ^^^^^^^^^^^^^^^^
+  File "/Users/piskadzon20/Desktop/github-summer/condition_b/src/anonymize_b.py", line 235, in anonymize
+    out = _call_openai_rewrite(
+          ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/piskadzon20/Desktop/github-summer/condition_b/src/anonymize_b.py", line 151, in _call_openai_rewrite
+    resp = client.chat.completions.create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/openai/_utils/_utils.py", line 298, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/openai/resources/chat/completions/completions.py", line 1296, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/openai/_base_client.py", line 1382, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/openai/_base_client.py", line 1087, in request
+    response = self._send_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/openai/_client.py", line 491, in _send_request
+    response = self._send_with_auth_retry(request, stream=stream, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/openai/_client.py", line 469, in _send_with_auth_retry
+    response = super()._send_request(request, stream=stream, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/openai/_base_client.py", line 1010, in _send_request
+    return self._client.send(request, stream=stream, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpx2/_client.py", line 987, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpx2/_client.py", line 1015, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpx2/_client.py", line 1050, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpx2/_client.py", line 1083, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpx2/_transports/default.py", line 245, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_sync/connection_pool.py", line 242, in handle_request
+    raise exc from None
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_sync/connection_pool.py", line 224, in handle_request
+    response = connection.handle_request(pool_request.request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_sync/connection.py", line 96, in handle_request
+    return self._connection.handle_request(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_sync/http11.py", line 125, in handle_request
+    raise exc
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_sync/http11.py", line 97, in handle_request
+    ) = self._receive_response_headers(**kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_sync/http11.py", line 167, in _receive_response_headers
+    event = self._receive_event(timeout=timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_sync/http11.py", line 200, in _receive_event
+    data = self._network_stream.read(self.READ_NUM_BYTES, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_backends/sync.py", line 127, in read
+    return self._sock.recv(max_bytes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/ssl.py", line 1296, in recv
+    return self.read(buflen)
+           ^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/ssl.py", line 1169, in read
+    return self._sslobj.read(len)
+           ^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+[B/query] API base_url=https://gpu6.sedan.pro/v1 model=qwen3.6-35b-a3b-nvfp4 out=/Users/piskadzon20/Desktop/github-summer/condition_b/anonymized_b/query
+Anonymize B (query):   0%|          | 0/500 [00:00<?, ?it/s]Anonymize B (query):  10%|█         | 52/500 [00:00<00:00, 517.56it/s]Anonymize B (query):  10%|█         | 52/500 [00:20<00:00, 517.56it/s]Anonymize B (query):  19%|█▊        | 93/500 [03:09<16:34,  2.44s/it] Anonymize B (query):  19%|█▉        | 94/500 [06:14<38:59,  5.76s/it]Anonymize B (query):  19%|█▉        | 95/500 [08:40<1:02:40,  9.29s/it]Anonymize B (query):  19%|█▉        | 96/500 [13:09<2:03:35, 18.35s/it]Anonymize B (query):  19%|█▉        | 97/500 [18:09<3:32:49, 31.69s/it]Anonymize B (query):  20%|█▉        | 98/500 [24:12<5:52:44, 52.65s/it]Anonymize B (query):  20%|█▉        | 99/500 [27:36<7:16:04, 65.25s/it]Anonymize B (query):  20%|██        | 100/500 [29:53<8:05:33, 72.83s/it]Anonymize B (query):  20%|██        | 101/500 [34:24<10:57:45, 98.91s/it]Anonymize B (query):  20%|██        | 102/500 [38:08<13:06:50, 118.62s/it]Anonymize B (query):  21%|██        | 103/500 [40:42<13:48:23, 125.20s/it]Anonymize B (query):  21%|██        | 104/500 [43:46<15:06:33, 137.36s/it]Anonymize B (query):  21%|██        | 105/500 [49:55<20:54:15, 190.52s/it]Anonymize B (query):  21%|██        | 106/500 [53:53<22:09:13, 202.42s/it]Anonymize B (query):  21%|██▏       | 107/500 [1:00:26<27:31:21, 252.12s/it]Anonymize B (query):  22%|██▏       | 108/500 [1:08:49<34:51:25, 320.12s/it]Anonymize B (query):  22%|██▏       | 109/500 [1:11:08<29:17:04, 269.63s/it]Anonymize B (query):  22%|██▏       | 110/500 [1:14:01<26:12:27, 241.92s/it]Anonymize B (query):  22%|██▏       | 111/500 [1:16:44<23:41:11, 219.21s/it]Anonymize B (query):  22%|██▏       | 112/500 [1:23:18<29:06:42, 270.11s/it]Anonymize B (query):  23%|██▎       | 113/500 [1:27:40<28:46:49, 267.72s/it]Anonymize B (query):  23%|██▎       | 114/500 [1:32:26<29:18:37, 273.36s/it]Anonymize B (query):  23%|██▎       | 115/500 [1:36:41<28:38:21, 267.79s/it]Anonymize B (query):  23%|██▎       | 116/500 [1:38:56<24:20:50, 228.26s/it]Anonymize B (query):  23%|██▎       | 117/500 [1:41:47<22:27:40, 211.12s/it]Anonymize B (query):  24%|██▎       | 118/500 [1:46:48<25:14:58, 237.96s/it]Anonymize B (query):  24%|██▍       | 119/500 [1:49:38<23:01:18, 217.53s/it]Anonymize B (query):  24%|██▍       | 120/500 [1:58:08<32:12:26, 305.12s/it]Anonymize B (query):  24%|██▍       | 121/500 [2:01:07<28:10:12, 267.58s/it]Anonymize B (query):  24%|██▍       | 122/500 [2:04:54<26:48:00, 255.24s/it]Anonymize B (query):  24%|██▍       | 122/500 [2:05:53<6:30:04, 61.92s/it]  
+Traceback (most recent call last):
+  File "/Users/piskadzon20/Desktop/github-summer/condition_b/scripts/run_condition_b.py", line 71, in <module>
+    main()
+  File "/Users/piskadzon20/Desktop/github-summer/condition_b/scripts/run_condition_b.py", line 58, in main
+    out = run_condition_b(
+          ^^^^^^^^^^^^^^^^
+  File "/Users/piskadzon20/Desktop/github-summer/condition_b/src/anonymize_b.py", line 397, in run_condition_b
+    stats = _process_profile(
+            ^^^^^^^^^^^^^^^^^
+  File "/Users/piskadzon20/Desktop/github-summer/condition_b/src/anonymize_b.py", line 304, in _process_profile
+    obj = _apply_anonymizer_to_obj(obj, anonymizer)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/piskadzon20/Desktop/github-summer/condition_b/src/anonymize_b.py", line 211, in _apply_anonymizer_to_obj
+    new_text = anonymizer(text)
+               ^^^^^^^^^^^^^^^^
+  File "/Users/piskadzon20/Desktop/github-summer/condition_b/src/anonymize_b.py", line 235, in anonymize
+    out = _call_openai_rewrite(
+          ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/piskadzon20/Desktop/github-summer/condition_b/src/anonymize_b.py", line 151, in _call_openai_rewrite
+    resp = client.chat.completions.create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/openai/_utils/_utils.py", line 298, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/openai/resources/chat/completions/completions.py", line 1296, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/openai/_base_client.py", line 1382, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/openai/_base_client.py", line 1087, in request
+    response = self._send_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/openai/_client.py", line 491, in _send_request
+    response = self._send_with_auth_retry(request, stream=stream, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/openai/_client.py", line 469, in _send_with_auth_retry
+    response = super()._send_request(request, stream=stream, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/openai/_base_client.py", line 1010, in _send_request
+    return self._client.send(request, stream=stream, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpx2/_client.py", line 987, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpx2/_client.py", line 1015, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpx2/_client.py", line 1050, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpx2/_client.py", line 1083, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpx2/_transports/default.py", line 245, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_sync/connection_pool.py", line 242, in handle_request
+    raise exc from None
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_sync/connection_pool.py", line 224, in handle_request
+    response = connection.handle_request(pool_request.request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_sync/connection.py", line 96, in handle_request
+    return self._connection.handle_request(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_sync/http11.py", line 125, in handle_request
+    raise exc
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_sync/http11.py", line 97, in handle_request
+    ) = self._receive_response_headers(**kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_sync/http11.py", line 167, in _receive_response_headers
+    event = self._receive_event(timeout=timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_sync/http11.py", line 200, in _receive_event
+    data = self._network_stream.read(self.READ_NUM_BYTES, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_backends/sync.py", line 127, in read
+    return self._sock.recv(max_bytes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/ssl.py", line 1296, in recv
+    return self.read(buflen)
+           ^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/ssl.py", line 1169, in read
+    return self._sslobj.read(len)
+           ^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+[B/query] API base_url=https://gpu6.sedan.pro/v1 model=qwen3.6-35b-a3b-nvfp4 out=/Users/piskadzon20/Desktop/github-summer/condition_b/anonymized_b/query
+Anonymize B (query):   0%|          | 0/500 [00:00<?, ?it/s]Anonymize B (query):  14%|█▍        | 72/500 [00:00<00:00, 715.79it/s]Anonymize B (query):  14%|█▍        | 72/500 [00:20<00:00, 715.79it/s]Anonymize B (query):  25%|██▍       | 123/500 [02:08<07:56,  1.26s/it]Anonymize B (query):  25%|██▍       | 124/500 [04:47<21:41,  3.46s/it]Anonymize B (query):  25%|██▌       | 125/500 [08:40<49:31,  7.93s/it]Anonymize B (query):  25%|██▌       | 126/500 [15:20<1:55:26, 18.52s/it]Anonymize B (query):  25%|██▌       | 127/500 [18:14<2:31:05, 24.30s/it]Anonymize B (query):  26%|██▌       | 128/500 [20:25<3:04:03, 29.69s/it]Anonymize B (query):  26%|██▌       | 129/500 [24:05<4:22:53, 42.52s/it]Anonymize B (query):  26%|██▌       | 130/500 [28:51<6:33:51, 63.87s/it]Anonymize B (query):  26%|██▌       | 131/500 [33:33<9:01:48, 88.10s/it]Anonymize B (query):  26%|██▋       | 132/500 [37:11<10:50:14, 106.02s/it]Anonymize B (query):  27%|██▋       | 133/500 [42:10<14:01:29, 137.57s/it]Anonymize B (query):  27%|██▋       | 134/500 [45:29<15:10:07, 149.20s/it]Anonymize B (query):  27%|██▋       | 135/500 [51:50<20:08:42, 198.69s/it]Anonymize B (query):  27%|██▋       | 136/500 [55:30<20:34:45, 203.53s/it]Anonymize B (query):  27%|██▋       | 137/500 [58:26<19:49:44, 196.65s/it]Anonymize B (query):  28%|██▊       | 138/500 [1:02:24<20:52:35, 207.61s/it]Anonymize B (query):  28%|██▊       | 139/500 [1:06:06<21:12:11, 211.44s/it]Anonymize B (query):  28%|██▊       | 140/500 [1:09:44<21:20:08, 213.36s/it]Anonymize B (query):  28%|██▊       | 141/500 [1:13:56<22:23:17, 224.51s/it]Anonymize B (query):  28%|██▊       | 142/500 [1:17:59<22:51:34, 229.87s/it]Anonymize B (query):  29%|██▊       | 143/500 [1:22:29<23:56:33, 241.44s/it]Anonymize B (query):  29%|██▉       | 144/500 [1:28:23<27:09:43, 274.67s/it]Anonymize B (query):  29%|██▉       | 145/500 [1:32:09<25:40:49, 260.42s/it]Anonymize B (query):  29%|██▉       | 146/500 [1:36:47<26:07:36, 265.70s/it]Anonymize B (query):  29%|██▉       | 147/500 [1:41:11<26:00:00, 265.16s/it]Anonymize B (query):  30%|██▉       | 148/500 [1:45:35<25:53:54, 264.87s/it]Anonymize B (query):  30%|██▉       | 149/500 [1:51:41<28:45:55, 295.03s/it]Anonymize B (query):  30%|███       | 150/500 [1:56:18<28:08:55, 289.53s/it]Anonymize B (query):  30%|███       | 151/500 [1:59:31<25:15:45, 260.59s/it]Anonymize B (query):  30%|███       | 152/500 [2:04:38<26:31:45, 274.44s/it]Anonymize B (query):  31%|███       | 153/500 [2:07:55<24:14:09, 251.44s/it]Anonymize B (query):  31%|███       | 154/500 [2:15:43<30:24:47, 316.44s/it]Anonymize B (query):  31%|███       | 155/500 [2:19:41<28:02:37, 292.63s/it]Anonymize B (query):  31%|███       | 156/500 [2:22:04<23:40:38, 247.79s/it]Anonymize B (query):  31%|███▏      | 157/500 [2:28:07<26:55:07, 282.53s/it]Anonymize B (query):  32%|███▏      | 158/500 [2:34:21<29:27:05, 310.02s/it]Anonymize B (query):  32%|███▏      | 159/500 [2:38:38<27:51:32, 294.11s/it]Anonymize B (query):  32%|███▏      | 160/500 [2:41:09<23:43:16, 251.17s/it]Anonymize B (query):  32%|███▏      | 161/500 [2:47:43<27:40:46, 293.94s/it]Anonymize B (query):  32%|███▏      | 162/500 [2:54:12<30:15:45, 322.32s/it]Anonymize B (query):  33%|███▎      | 163/500 [2:58:27<28:17:24, 302.21s/it]Anonymize B (query):  33%|███▎      | 164/500 [3:00:57<23:56:55, 256.60s/it]Anonymize B (query):  33%|███▎      | 165/500 [3:04:23<22:28:19, 241.49s/it]Anonymize B (query):  33%|███▎      | 166/500 [3:07:25<20:44:58, 223.65s/it]Anonymize B (query):  33%|███▎      | 167/500 [3:14:25<26:06:52, 282.32s/it]Anonymize B (query):  34%|███▎      | 168/500 [3:20:34<28:27:20, 308.56s/it]Anonymize B (query):  34%|███▍      | 169/500 [3:24:45<26:45:56, 291.11s/it]Anonymize B (query):  34%|███▍      | 170/500 [3:30:19<27:52:03, 304.01s/it]Anonymize B (query):  34%|███▍      | 171/500 [3:33:20<24:24:22, 267.06s/it]Anonymize B (query):  34%|███▍      | 172/500 [3:41:44<30:49:02, 338.24s/it]Anonymize B (query):  35%|███▍      | 173/500 [3:44:20<25:46:12, 283.71s/it]Anonymize B (query):  35%|███▍      | 174/500 [3:51:53<30:16:57, 334.41s/it]Anonymize B (query):  35%|███▌      | 175/500 [3:55:44<27:23:36, 303.43s/it]Anonymize B (query):  35%|███▌      | 176/500 [3:58:36<23:44:32, 263.80s/it]Anonymize B (query):  35%|███▌      | 177/500 [4:02:40<23:08:56, 258.01s/it]Anonymize B (query):  36%|███▌      | 178/500 [4:07:01<23:09:08, 258.85s/it]Anonymize B (query):  36%|███▌      | 179/500 [4:10:52<22:20:39, 250.59s/it]Anonymize B (query):  36%|███▌      | 180/500 [4:16:18<24:16:07, 273.02s/it]Anonymize B (query):  36%|███▌      | 181/500 [4:21:41<25:31:42, 288.09s/it]Anonymize B (query):  36%|███▋      | 182/500 [4:25:54<24:30:45, 277.50s/it]Anonymize B (query):  37%|███▋      | 183/500 [4:32:07<26:58:42, 306.38s/it]Anonymize B (query):  37%|███▋      | 184/500 [4:35:02<23:24:44, 266.72s/it]Anonymize B (query):  37%|███▋      | 185/500 [4:40:48<25:26:09, 290.70s/it]Anonymize B (query):  37%|███▋      | 186/500 [4:45:43<25:27:12, 291.82s/it]Anonymize B (query):  37%|███▋      | 187/500 [4:49:28<23:37:43, 271.77s/it]Anonymize B (query):  38%|███▊      | 188/500 [4:54:19<24:03:33, 277.61s/it]Anonymize B (query):  38%|███▊      | 189/500 [5:03:44<31:26:26, 363.94s/it]Anonymize B (query):  38%|███▊      | 190/500 [5:09:26<30:45:26, 357.18s/it]Anonymize B (query):  38%|███▊      | 191/500 [5:11:56<25:20:00, 295.15s/it]Anonymize B (query):  38%|███▊      | 192/500 [5:16:28<24:38:33, 288.03s/it]Anonymize B (query):  39%|███▊      | 193/500 [5:21:07<24:20:32, 285.45s/it]Anonymize B (query):  39%|███▉      | 194/500 [5:25:47<24:07:11, 283.76s/it]Anonymize B (query):  39%|███▉      | 195/500 [5:32:53<27:39:15, 326.41s/it]Anonymize B (query):  39%|███▉      | 196/500 [5:36:52<25:20:35, 300.12s/it]Anonymize B (query):  39%|███▉      | 197/500 [5:40:27<23:07:29, 274.75s/it]Anonymize B (query):  40%|███▉      | 198/500 [5:47:14<26:23:03, 314.52s/it]Anonymize B (query):  40%|███▉      | 199/500 [5:52:37<26:30:24, 317.03s/it]Anonymize B (query):  40%|████      | 200/500 [5:58:20<27:03:23, 324.68s/it]Anonymize B (query):  40%|████      | 201/500 [6:02:58<25:48:03, 310.65s/it]Anonymize B (query):  40%|████      | 202/500 [6:09:35<27:52:15, 336.69s/it]Anonymize B (query):  41%|████      | 203/500 [6:14:18<26:25:57, 320.40s/it]Anonymize B (query):  41%|████      | 204/500 [6:18:57<25:19:54, 308.09s/it]Anonymize B (query):  41%|████      | 205/500 [6:24:16<25:30:23, 311.26s/it]Anonymize B (query):  41%|████      | 206/500 [6:29:37<25:40:01, 314.29s/it]Anonymize B (query):  41%|████▏     | 207/500 [6:33:15<23:13:15, 285.31s/it]Anonymize B (query):  42%|████▏     | 208/500 [6:38:07<23:19:11, 287.50s/it]Anonymize B (query):  42%|████▏     | 209/500 [6:40:52<20:16:09, 250.76s/it]Anonymize B (query):  42%|████▏     | 210/500 [6:45:00<20:08:00, 249.93s/it]Anonymize B (query):  42%|████▏     | 211/500 [6:50:41<22:14:58, 277.16s/it]Anonymize B (query):  42%|████▏     | 212/500 [6:56:55<24:30:03, 306.26s/it]Anonymize B (query):  43%|████▎     | 213/500 [7:00:19<21:58:13, 275.59s/it]Anonymize B (query):  43%|████▎     | 214/500 [7:04:07<20:45:19, 261.26s/it]Anonymize B (query):  43%|████▎     | 215/500 [7:10:15<23:13:14, 293.31s/it]Anonymize B (query):  43%|████▎     | 216/500 [7:16:26<24:58:02, 316.49s/it]Anonymize B (query):  43%|████▎     | 217/500 [7:19:45<22:07:23, 281.43s/it]Anonymize B (query):  44%|████▎     | 218/500 [7:25:04<22:54:38, 292.48s/it]Anonymize B (query):  44%|████▍     | 219/500 [7:28:09<20:19:23, 260.37s/it]Anonymize B (query):  44%|████▍     | 220/500 [7:33:30<21:39:32, 278.47s/it]Anonymize B (query):  44%|████▍     | 221/500 [7:36:43<19:35:25, 252.78s/it]Anonymize B (query):  44%|████▍     | 222/500 [7:39:39<17:45:42, 230.01s/it]Anonymize B (query):  45%|████▍     | 223/500 [7:45:20<20:14:23, 263.04s/it]Anonymize B (query):  45%|████▍     | 224/500 [7:48:51<18:58:40, 247.54s/it]Anonymize B (query):  45%|████▌     | 225/500 [7:54:17<20:42:12, 271.03s/it]Anonymize B (query):  45%|████▌     | 226/500 [8:00:05<22:22:58, 294.08s/it]Anonymize B (query):  45%|████▌     | 227/500 [8:04:57<22:15:08, 293.44s/it]Anonymize B (query):  46%|████▌     | 228/500 [8:07:41<19:14:20, 254.63s/it]Anonymize B (query):  46%|████▌     | 229/500 [8:12:08<19:27:49, 258.56s/it]Anonymize B (query):  46%|████▌     | 230/500 [8:17:30<20:48:05, 277.35s/it]Anonymize B (query):  46%|████▌     | 231/500 [8:20:26<18:28:19, 247.21s/it]Anonymize B (query):  46%|████▋     | 232/500 [8:24:25<18:13:17, 244.77s/it]Anonymize B (query):  47%|████▋     | 233/500 [8:28:28<18:05:48, 244.00s/it]Anonymize B (query):  47%|████▋     | 234/500 [8:35:22<21:48:06, 295.06s/it]Anonymize B (query):  47%|████▋     | 235/500 [8:39:49<21:05:57, 286.63s/it]Anonymize B (query):  47%|████▋     | 236/500 [8:44:57<21:29:49, 293.14s/it]Anonymize B (query):  47%|████▋     | 237/500 [8:49:52<21:26:42, 293.55s/it]Anonymize B (query):  48%|████▊     | 238/500 [8:53:37<19:52:07, 273.00s/it]Anonymize B (query):  48%|████▊     | 239/500 [8:58:36<20:21:14, 280.74s/it]Anonymize B (query):  48%|████▊     | 240/500 [9:02:17<18:59:15, 262.91s/it]Anonymize B (query):  48%|████▊     | 241/500 [9:07:06<19:28:29, 270.69s/it]Anonymize B (query):  48%|████▊     | 242/500 [9:10:24<17:50:51, 249.04s/it]Anonymize B (query):  49%|████▊     | 243/500 [9:16:04<19:43:05, 276.21s/it]Anonymize B (query):  49%|████▉     | 244/500 [9:27:00<27:44:43, 390.17s/it]Anonymize B (query):  49%|████▉     | 245/500 [9:31:05<24:33:42, 346.76s/it]Anonymize B (query):  49%|████▉     | 246/500 [9:35:29<22:42:25, 321.83s/it]Anonymize B (query):  49%|████▉     | 247/500 [9:41:08<22:59:13, 327.09s/it]Anonymize B (query):  50%|████▉     | 248/500 [9:44:04<19:43:25, 281.77s/it]Anonymize B (query):  50%|████▉     | 249/500 [9:47:02<17:27:32, 250.41s/it]Anonymize B (query):  50%|█████     | 250/500 [9:50:26<16:25:29, 236.52s/it]Anonymize B (query):  50%|█████     | 251/500 [9:54:29<16:29:34, 238.45s/it]Anonymize B (query):  50%|█████     | 252/500 [9:58:19<16:15:19, 235.96s/it]Anonymize B (query):  51%|█████     | 253/500 [10:00:57<14:35:12, 212.60s/it]Anonymize B (query):  51%|█████     | 254/500 [10:04:29<14:31:08, 212.47s/it]Anonymize B (query):  51%|█████     | 255/500 [10:07:46<14:09:03, 207.93s/it]Anonymize B (query):  51%|█████     | 256/500 [10:11:02<13:50:19, 204.18s/it]Anonymize B (query):  51%|█████▏    | 257/500 [10:16:13<15:57:07, 236.33s/it]Anonymize B (query):  52%|█████▏    | 258/500 [10:20:05<15:47:39, 234.95s/it]Anonymize B (query):  52%|█████▏    | 259/500 [10:22:32<13:58:01, 208.64s/it]Anonymize B (query):  52%|█████▏    | 260/500 [10:27:51<16:07:09, 241.79s/it]Anonymize B (query):  52%|█████▏    | 261/500 [10:31:15<15:17:47, 230.41s/it]Anonymize B (query):  52%|█████▏    | 262/500 [10:35:39<15:53:44, 240.44s/it]Anonymize B (query):  53%|█████▎    | 263/500 [10:39:12<15:17:06, 232.18s/it]Anonymize B (query):  53%|█████▎    | 264/500 [10:43:39<15:54:15, 242.61s/it]Anonymize B (query):  53%|█████▎    | 265/500 [10:50:11<18:45:34, 287.38s/it]Anonymize B (query):  53%|█████▎    | 266/500 [10:53:47<17:17:16, 265.97s/it]Anonymize B (query):  53%|█████▎    | 267/500 [10:58:46<17:51:13, 275.85s/it]Anonymize B (query):  54%|█████▎    | 268/500 [11:03:25<17:50:27, 276.84s/it]Anonymize B (query):  54%|█████▍    | 269/500 [11:08:47<18:38:31, 290.53s/it]Anonymize B (query):  54%|█████▍    | 270/500 [11:13:57<18:55:19, 296.17s/it]Anonymize B (query):  54%|█████▍    | 271/500 [11:17:55<17:44:33, 278.92s/it]Anonymize B (query):  54%|█████▍    | 272/500 [11:22:32<17:37:16, 278.23s/it]Anonymize B (query):  55%|█████▍    | 273/500 [11:26:58<17:18:31, 274.50s/it]Anonymize B (query):  55%|█████▍    | 274/500 [11:31:22<17:02:47, 271.54s/it]Anonymize B (query):  55%|█████▌    | 275/500 [11:34:12<15:03:29, 240.93s/it]Anonymize B (query):  55%|█████▌    | 276/500 [11:37:58<14:43:23, 236.62s/it]Anonymize B (query):  55%|█████▌    | 277/500 [11:44:33<17:35:32, 284.00s/it]Anonymize B (query):  56%|█████▌    | 278/500 [11:48:48<16:58:55, 275.39s/it]Anonymize B (query):  56%|█████▌    | 279/500 [11:53:06<16:35:17, 270.22s/it]Anonymize B (query):  56%|█████▌    | 280/500 [12:00:44<19:56:36, 326.35s/it]Anonymize B (query):  56%|█████▌    | 281/500 [12:04:11<17:41:14, 290.75s/it]Anonymize B (query):  56%|█████▋    | 282/500 [12:07:38<16:04:07, 265.36s/it]Anonymize B (query):  57%|█████▋    | 283/500 [12:12:58<16:59:16, 281.83s/it]Anonymize B (query):  57%|█████▋    | 284/500 [12:16:54<16:05:44, 268.26s/it]Anonymize B (query):  57%|█████▋    | 285/500 [12:20:50<15:26:37, 258.59s/it]Anonymize B (query):  57%|█████▋    | 286/500 [12:24:37<14:47:39, 248.88s/it]Anonymize B (query):  57%|█████▋    | 287/500 [12:30:29<16:33:56, 279.98s/it]Anonymize B (query):  58%|█████▊    | 288/500 [12:36:19<17:43:34, 301.01s/it]Anonymize B (query):  58%|█████▊    | 289/500 [12:47:52<24:31:46, 418.51s/it]Anonymize B (query):  58%|█████▊    | 290/500 [12:52:45<22:12:56, 380.84s/it]Anonymize B (query):  58%|█████▊    | 291/500 [12:58:01<20:58:38, 361.33s/it]Anonymize B (query):  58%|█████▊    | 292/500 [13:01:09<17:52:47, 309.46s/it]Anonymize B (query):  59%|█████▊    | 293/500 [13:08:06<19:38:18, 341.54s/it]Anonymize B (query):  59%|█████▉    | 294/500 [13:12:07<17:49:23, 311.47s/it]Anonymize B (query):  59%|█████▉    | 295/500 [13:16:32<16:56:31, 297.52s/it]Anonymize B (query):  59%|█████▉    | 296/500 [13:18:58<14:17:30, 252.21s/it]Anonymize B (query):  59%|█████▉    | 297/500 [13:22:53<13:55:56, 247.08s/it]Anonymize B (query):  60%|█████▉    | 298/500 [13:27:07<13:58:09, 248.96s/it]Anonymize B (query):  60%|█████▉    | 299/500 [13:32:32<15:10:21, 271.75s/it]Anonymize B (query):  60%|██████    | 300/500 [13:36:37<14:39:18, 263.79s/it]Anonymize B (query):  60%|██████    | 301/500 [13:40:25<13:59:02, 252.98s/it]Anonymize B (query):  60%|██████    | 302/500 [13:46:16<15:32:40, 282.63s/it]Anonymize B (query):  61%|██████    | 303/500 [13:51:39<16:07:19, 294.62s/it]Anonymize B (query):  61%|██████    | 304/500 [13:56:32<16:00:18, 293.97s/it]Anonymize B (query):  61%|██████    | 305/500 [13:59:17<13:50:28, 255.53s/it]Anonymize B (query):  61%|██████    | 306/500 [14:02:52<13:06:35, 243.27s/it]Anonymize B (query):  61%|██████▏   | 307/500 [14:06:06<12:14:55, 228.48s/it]Anonymize B (query):  62%|██████▏   | 308/500 [14:08:48<11:07:12, 208.50s/it]Anonymize B (query):  62%|██████▏   | 309/500 [14:12:09<10:56:52, 206.35s/it]Anonymize B (query):  62%|██████▏   | 310/500 [14:14:54<10:13:30, 193.74s/it]Anonymize B (query):  62%|██████▏   | 311/500 [14:19:07<11:06:38, 211.63s/it]Anonymize B (query):  62%|██████▏   | 312/500 [14:25:26<13:40:07, 261.74s/it]Anonymize B (query):  63%|██████▎   | 313/500 [14:30:33<14:18:39, 275.51s/it]Anonymize B (query):  63%|██████▎   | 314/500 [14:33:45<12:56:06, 250.36s/it]Anonymize B (query):  63%|██████▎   | 315/500 [14:38:39<13:32:27, 263.50s/it]Anonymize B (query):  63%|██████▎   | 316/500 [14:42:42<13:09:15, 257.37s/it]Anonymize B (query):  63%|██████▎   | 317/500 [14:47:52<13:53:14, 273.19s/it]Anonymize B (query):  64%|██████▎   | 318/500 [14:51:48<13:14:16, 261.85s/it]Anonymize B (query):  64%|██████▍   | 319/500 [14:54:46<11:53:58, 236.67s/it]Anonymize B (query):  64%|██████▍   | 320/500 [14:59:03<12:08:43, 242.91s/it]Anonymize B (query):  64%|██████▍   | 321/500 [15:01:16<10:26:46, 210.09s/it]Anonymize B (query):  64%|██████▍   | 322/500 [15:08:08<13:22:20, 270.45s/it]Anonymize B (query):  65%|██████▍   | 323/500 [15:12:42<13:21:06, 271.56s/it]Anonymize B (query):  65%|██████▍   | 324/500 [15:18:20<14:14:43, 291.38s/it]Anonymize B (query):  65%|██████▌   | 325/500 [15:23:34<14:29:44, 298.20s/it]Anonymize B (query):  65%|██████▌   | 326/500 [15:26:12<12:23:01, 256.21s/it]Anonymize B (query):  65%|██████▌   | 327/500 [15:29:40<11:37:20, 241.86s/it]Anonymize B (query):  66%|██████▌   | 328/500 [15:33:17<11:11:25, 234.22s/it]Anonymize B (query):  66%|██████▌   | 329/500 [15:38:38<12:22:25, 260.50s/it]Anonymize B (query):  66%|██████▌   | 330/500 [15:46:33<15:19:38, 324.58s/it]Anonymize B (query):  66%|██████▌   | 331/500 [15:50:40<14:09:03, 301.44s/it]Anonymize B (query):  66%|██████▋   | 332/500 [15:53:41<12:22:31, 265.19s/it]Anonymize B (query):  67%|██████▋   | 333/500 [15:57:23<11:42:05, 252.25s/it]Anonymize B (query):  67%|██████▋   | 334/500 [16:05:21<14:45:36, 320.10s/it]Anonymize B (query):  67%|██████▋   | 335/500 [16:10:04<14:09:50, 309.04s/it]Anonymize B (query):  67%|██████▋   | 336/500 [16:15:01<13:54:26, 305.28s/it]Anonymize B (query):  67%|██████▋   | 337/500 [16:20:29<14:08:10, 312.21s/it]Anonymize B (query):  68%|██████▊   | 338/500 [16:23:53<12:35:01, 279.64s/it]Anonymize B (query):  68%|██████▊   | 339/500 [16:27:59<12:03:28, 269.62s/it]Anonymize B (query):  68%|██████▊   | 340/500 [16:31:35<11:15:41, 253.38s/it]Anonymize B (query):  68%|██████▊   | 341/500 [16:35:30<10:57:24, 248.08s/it]Anonymize B (query):  68%|██████▊   | 342/500 [16:38:44<10:10:27, 231.82s/it]Anonymize B (query):  69%|██████▊   | 343/500 [16:41:29<9:13:44, 211.62s/it] Anonymize B (query):  69%|██████▉   | 344/500 [16:48:31<11:54:29, 274.80s/it]Anonymize B (query):  69%|██████▉   | 345/500 [16:51:39<10:42:55, 248.87s/it]Anonymize B (query):  69%|██████▉   | 346/500 [16:57:41<12:05:43, 282.75s/it]Anonymize B (query):  69%|██████▉   | 347/500 [17:02:32<12:07:31, 285.30s/it]Anonymize B (query):  70%|██████▉   | 348/500 [17:06:20<11:18:56, 268.01s/it]Anonymize B (query):  70%|██████▉   | 349/500 [17:09:11<10:01:19, 238.94s/it]Anonymize B (query):  70%|███████   | 350/500 [17:13:26<10:09:21, 243.75s/it]Anonymize B (query):  70%|███████   | 351/500 [17:17:03<9:45:08, 235.63s/it] Anonymize B (query):  70%|███████   | 352/500 [17:22:20<10:41:35, 260.10s/it]Anonymize B (query):  71%|███████   | 353/500 [17:29:32<12:43:31, 311.64s/it]Anonymize B (query):  71%|███████   | 354/500 [17:36:57<14:15:55, 351.75s/it]Anonymize B (query):  71%|███████   | 355/500 [17:40:30<12:29:29, 310.13s/it]Anonymize B (query):  71%|███████   | 356/500 [17:45:21<12:10:08, 304.22s/it]Anonymize B (query):  71%|███████▏  | 357/500 [17:50:27<12:06:15, 304.72s/it]Anonymize B (query):  72%|███████▏  | 358/500 [17:55:58<12:20:09, 312.74s/it]Anonymize B (query):  72%|███████▏  | 359/500 [18:00:59<12:06:33, 309.17s/it]Anonymize B (query):  72%|███████▏  | 360/500 [18:05:59<11:55:00, 306.43s/it]Anonymize B (query):  72%|███████▏  | 361/500 [18:10:10<11:11:20, 289.79s/it]Anonymize B (query):  72%|███████▏  | 362/500 [18:14:31<10:46:49, 281.23s/it]Anonymize B (query):  73%|███████▎  | 363/500 [18:30:24<18:22:33, 482.87s/it]Anonymize B (query):  73%|███████▎  | 364/500 [18:37:09<17:21:07, 459.32s/it]Anonymize B (query):  73%|███████▎  | 365/500 [18:40:32<14:20:50, 382.60s/it]Anonymize B (query):  73%|███████▎  | 366/500 [18:44:25<12:33:59, 337.61s/it]Anonymize B (query):  73%|███████▎  | 367/500 [18:49:10<11:53:14, 321.76s/it]Anonymize B (query):  74%|███████▎  | 368/500 [18:51:46<9:58:42, 272.14s/it] Anonymize B (query):  74%|███████▍  | 369/500 [18:58:11<11:08:11, 306.04s/it]Anonymize B (query):  74%|███████▍  | 370/500 [19:00:54<9:29:48, 262.99s/it] Anonymize B (query):  74%|███████▍  | 371/500 [19:07:20<10:44:40, 299.85s/it]Anonymize B (query):  74%|███████▍  | 372/500 [19:14:44<12:12:24, 343.31s/it]Anonymize B (query):  75%|███████▍  | 373/500 [19:17:52<10:28:05, 296.74s/it]Anonymize B (query):  75%|███████▍  | 374/500 [19:21:18<9:25:53, 269.47s/it] Anonymize B (query):  75%|███████▌  | 375/500 [19:24:54<8:47:47, 253.34s/it]Anonymize B (query):  75%|███████▌  | 376/500 [19:27:47<7:53:38, 229.18s/it]Anonymize B (query):  75%|███████▌  | 377/500 [19:34:55<9:52:22, 288.96s/it]Anonymize B (query):  76%|███████▌  | 378/500 [19:39:04<9:22:47, 276.78s/it]Anonymize B (query):  76%|███████▌  | 379/500 [19:44:12<9:37:16, 286.25s/it]Anonymize B (query):  76%|███████▌  | 380/500 [19:46:38<8:08:18, 244.15s/it]Anonymize B (query):  76%|███████▌  | 381/500 [19:49:55<7:35:57, 229.90s/it]Anonymize B (query):  76%|███████▋  | 382/500 [19:52:51<7:00:36, 213.87s/it]Anonymize B (query):  77%|███████▋  | 383/500 [19:57:39<7:40:09, 235.98s/it]Anonymize B (query):  77%|███████▋  | 384/500 [20:01:25<7:30:23, 232.96s/it]Anonymize B (query):  77%|███████▋  | 385/500 [20:06:10<7:56:42, 248.72s/it]Anonymize B (query):  77%|███████▋  | 386/500 [20:15:11<10:39:12, 336.43s/it]Anonymize B (query):  77%|███████▋  | 387/500 [20:22:18<11:24:26, 363.42s/it]Anonymize B (query):  78%|███████▊  | 388/500 [20:25:26<9:40:33, 311.02s/it] Anonymize B (query):  78%|███████▊  | 389/500 [20:30:02<9:15:48, 300.44s/it]Anonymize B (query):  78%|███████▊  | 390/500 [20:32:38<7:51:11, 257.01s/it]Anonymize B (query):  78%|███████▊  | 391/500 [20:37:40<8:11:35, 270.60s/it]Anonymize B (query):  78%|███████▊  | 392/500 [20:41:31<7:45:34, 258.65s/it]Anonymize B (query):  79%|███████▊  | 393/500 [20:44:59<7:14:30, 243.65s/it]Anonymize B (query):  79%|███████▉  | 394/500 [20:48:11<6:42:52, 228.05s/it]Anonymize B (query):  79%|███████▉  | 395/500 [20:50:20<5:46:56, 198.25s/it]Anonymize B (query):  79%|███████▉  | 396/500 [20:53:01<5:24:26, 187.17s/it]Anonymize B (query):  79%|███████▉  | 397/500 [20:56:22<5:28:33, 191.39s/it]Anonymize B (query):  80%|███████▉  | 398/500 [21:00:39<5:58:41, 210.99s/it]Anonymize B (query):  80%|███████▉  | 399/500 [21:05:00<6:20:38, 226.12s/it]Anonymize B (query):  80%|████████  | 400/500 [21:09:00<6:23:29, 230.09s/it]Anonymize B (query):  80%|████████  | 401/500 [21:12:19<6:04:13, 220.74s/it]Anonymize B (query):  80%|████████  | 402/500 [21:16:32<6:16:26, 230.47s/it]Anonymize B (query):  81%|████████  | 403/500 [21:22:03<7:01:27, 260.70s/it]Anonymize B (query):  81%|████████  | 404/500 [21:26:17<6:53:37, 258.52s/it]Anonymize B (query):  81%|████████  | 405/500 [21:34:25<8:38:44, 327.62s/it]Anonymize B (query):  81%|████████  | 406/500 [21:38:13<7:46:27, 297.74s/it]Anonymize B (query):  81%|████████▏ | 407/500 [21:42:03<7:09:42, 277.23s/it]Anonymize B (query):  82%|████████▏ | 408/500 [21:45:59<6:46:08, 264.87s/it]Anonymize B (query):  82%|████████▏ | 409/500 [21:49:52<6:27:24, 255.43s/it]Anonymize B (query):  82%|████████▏ | 410/500 [21:52:34<5:41:03, 227.37s/it]Anonymize B (query):  82%|████████▏ | 411/500 [21:55:21<5:10:21, 209.23s/it]Anonymize B (query):  82%|████████▏ | 412/500 [22:05:16<7:56:36, 324.96s/it]Anonymize B (query):  83%|████████▎ | 413/500 [22:09:31<7:20:36, 303.87s/it]Anonymize B (query):  83%|████████▎ | 414/500 [22:12:54<6:32:19, 273.72s/it]Anonymize B (query):  83%|████████▎ | 415/500 [22:15:57<5:49:20, 246.59s/it]Anonymize B (query):  83%|████████▎ | 416/500 [22:20:09<5:47:31, 248.24s/it]Anonymize B (query):  83%|████████▎ | 417/500 [22:23:41<5:27:58, 237.09s/it]Anonymize B (query):  84%|████████▎ | 418/500 [22:27:22<5:17:32, 232.35s/it]Anonymize B (query):  84%|████████▍ | 419/500 [22:30:10<4:47:39, 213.07s/it]Anonymize B (query):  84%|████████▍ | 420/500 [22:33:08<4:30:00, 202.50s/it]Anonymize B (query):  84%|████████▍ | 421/500 [22:36:14<4:20:17, 197.69s/it]Anonymize B (query):  84%|████████▍ | 422/500 [22:47:23<7:20:46, 339.06s/it]Anonymize B (query):  85%|████████▍ | 423/500 [22:49:58<6:04:20, 283.91s/it]Anonymize B (query):  85%|████████▍ | 424/500 [22:53:15<5:26:27, 257.73s/it]Anonymize B (query):  85%|████████▌ | 425/500 [22:56:52<5:06:53, 245.51s/it]Anonymize B (query):  85%|████████▌ | 426/500 [22:59:27<4:29:28, 218.49s/it]Anonymize B (query):  85%|████████▌ | 427/500 [23:02:43<4:17:28, 211.62s/it]Anonymize B (query):  86%|████████▌ | 428/500 [23:07:52<4:48:48, 240.67s/it]Anonymize B (query):  86%|████████▌ | 429/500 [23:10:42<4:19:56, 219.66s/it]Anonymize B (query):  86%|████████▌ | 430/500 [23:13:43<4:02:31, 207.88s/it]Anonymize B (query):  86%|████████▌ | 431/500 [23:19:54<4:55:37, 257.07s/it]Anonymize B (query):  86%|████████▋ | 432/500 [23:23:14<4:31:51, 239.88s/it]Anonymize B (query):  87%|████████▋ | 433/500 [23:28:47<4:59:04, 267.83s/it]Anonymize B (query):  87%|████████▋ | 434/500 [23:33:04<4:51:06, 264.64s/it]Anonymize B (query):  87%|████████▋ | 435/500 [23:37:16<4:42:25, 260.71s/it]Anonymize B (query):  87%|████████▋ | 436/500 [23:41:32<4:36:44, 259.45s/it]Anonymize B (query):  87%|████████▋ | 437/500 [23:48:35<5:23:48, 308.39s/it]Anonymize B (query):  88%|████████▊ | 438/500 [23:51:48<4:42:58, 273.84s/it]Anonymize B (query):  88%|████████▊ | 439/500 [23:55:36<4:24:19, 260.00s/it]Anonymize B (query):  88%|████████▊ | 440/500 [23:59:30<4:12:06, 252.11s/it]Anonymize B (query):  88%|████████▊ | 441/500 [24:02:56<3:54:20, 238.31s/it]Anonymize B (query):  88%|████████▊ | 442/500 [24:07:04<3:53:14, 241.28s/it]Anonymize B (query):  89%|████████▊ | 443/500 [24:10:17<3:35:26, 226.78s/it]Anonymize B (query):  89%|████████▉ | 444/500 [24:16:12<4:07:41, 265.39s/it]Anonymize B (query):  89%|████████▉ | 445/500 [24:19:21<3:42:09, 242.35s/it]Anonymize B (query):  89%|████████▉ | 446/500 [24:26:31<4:28:53, 298.78s/it]Anonymize B (query):  89%|████████▉ | 447/500 [24:30:33<4:08:47, 281.65s/it]Anonymize B (query):  90%|████████▉ | 448/500 [24:33:30<3:36:55, 250.30s/it]Anonymize B (query):  90%|████████▉ | 449/500 [24:38:20<3:42:54, 262.24s/it]Anonymize B (query):  90%|█████████ | 450/500 [24:41:42<3:23:29, 244.20s/it]Anonymize B (query):  90%|█████████ | 451/500 [24:44:39<3:02:48, 223.85s/it]Anonymize B (query):  90%|█████████ | 452/500 [24:47:52<2:51:43, 214.65s/it]Anonymize B (query):  91%|█████████ | 453/500 [24:51:33<2:49:41, 216.63s/it]Anonymize B (query):  91%|█████████ | 454/500 [24:59:56<3:51:54, 302.49s/it]Anonymize B (query):  91%|█████████ | 455/500 [25:02:14<3:09:46, 253.04s/it]Anonymize B (query):  91%|█████████ | 456/500 [25:07:12<3:15:29, 266.59s/it]Anonymize B (query):  91%|█████████▏| 457/500 [25:10:56<3:01:56, 253.87s/it]Anonymize B (query):  92%|█████████▏| 458/500 [25:15:04<2:56:28, 252.10s/it]Anonymize B (query):  92%|█████████▏| 459/500 [25:18:12<2:39:09, 232.91s/it]Anonymize B (query):  92%|█████████▏| 460/500 [25:22:24<2:39:05, 238.63s/it]Anonymize B (query):  92%|█████████▏| 461/500 [25:33:24<3:57:18, 365.10s/it]Anonymize B (query):  92%|█████████▏| 462/500 [25:39:33<3:51:54, 366.18s/it]Anonymize B (query):  93%|█████████▎| 463/500 [25:42:19<3:08:39, 305.94s/it]Anonymize B (query):  93%|█████████▎| 464/500 [25:47:41<3:06:30, 310.86s/it]Anonymize B (query):  93%|█████████▎| 465/500 [25:50:28<2:36:11, 267.75s/it]Anonymize B (query):  93%|█████████▎| 466/500 [25:55:09<2:33:58, 271.73s/it]Anonymize B (query):  93%|█████████▎| 467/500 [25:59:12<2:24:40, 263.03s/it]Anonymize B (query):  94%|█████████▎| 468/500 [26:04:03<2:24:46, 271.46s/it]Anonymize B (query):  94%|█████████▍| 469/500 [26:09:17<2:26:48, 284.13s/it]Anonymize B (query):  94%|█████████▍| 470/500 [26:12:52<2:11:41, 263.40s/it]Anonymize B (query):  94%|█████████▍| 471/500 [26:15:57<1:56:01, 240.06s/it]Anonymize B (query):  94%|█████████▍| 472/500 [26:22:33<2:13:49, 286.77s/it]Anonymize B (query):  95%|█████████▍| 473/500 [26:27:20<2:09:07, 286.94s/it]Anonymize B (query):  95%|█████████▍| 473/500 [26:27:38<1:30:37, 201.39s/it]
+Traceback (most recent call last):
+  File "/Users/piskadzon20/Desktop/github-summer/condition_b/scripts/run_condition_b.py", line 71, in <module>
+    main()
+  File "/Users/piskadzon20/Desktop/github-summer/condition_b/scripts/run_condition_b.py", line 58, in main
+    out = run_condition_b(
+          ^^^^^^^^^^^^^^^^
+  File "/Users/piskadzon20/Desktop/github-summer/condition_b/src/anonymize_b.py", line 429, in run_condition_b
+    stats = _process_profile(
+            ^^^^^^^^^^^^^^^^^
+  File "/Users/piskadzon20/Desktop/github-summer/condition_b/src/anonymize_b.py", line 333, in _process_profile
+    obj = _apply_anonymizer_to_obj(obj, anonymizer)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/piskadzon20/Desktop/github-summer/condition_b/src/anonymize_b.py", line 226, in _apply_anonymizer_to_obj
+    new_text = anonymizer(text)
+               ^^^^^^^^^^^^^^^^
+  File "/Users/piskadzon20/Desktop/github-summer/condition_b/src/anonymize_b.py", line 251, in anonymize
+    out = _call_openai_rewrite(
+          ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/piskadzon20/Desktop/github-summer/condition_b/src/anonymize_b.py", line 166, in _call_openai_rewrite
+    resp = client.chat.completions.create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/openai/_utils/_utils.py", line 298, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/openai/resources/chat/completions/completions.py", line 1296, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/openai/_base_client.py", line 1382, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/openai/_base_client.py", line 1087, in request
+    response = self._send_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/openai/_client.py", line 491, in _send_request
+    response = self._send_with_auth_retry(request, stream=stream, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/openai/_client.py", line 469, in _send_with_auth_retry
+    response = super()._send_request(request, stream=stream, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/openai/_base_client.py", line 1010, in _send_request
+    return self._client.send(request, stream=stream, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpx2/_client.py", line 987, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpx2/_client.py", line 1015, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpx2/_client.py", line 1050, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpx2/_client.py", line 1083, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpx2/_transports/default.py", line 245, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_sync/connection_pool.py", line 242, in handle_request
+    raise exc from None
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_sync/connection_pool.py", line 224, in handle_request
+    response = connection.handle_request(pool_request.request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_sync/connection.py", line 96, in handle_request
+    return self._connection.handle_request(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_sync/http11.py", line 125, in handle_request
+    raise exc
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_sync/http11.py", line 97, in handle_request
+    ) = self._receive_response_headers(**kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_sync/http11.py", line 167, in _receive_response_headers
+    event = self._receive_event(timeout=timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_sync/http11.py", line 200, in _receive_event
+    data = self._network_stream.read(self.READ_NUM_BYTES, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/httpcore2/_backends/sync.py", line 127, in read
+    return self._sock.recv(max_bytes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/ssl.py", line 1296, in recv
+    return self.read(buflen)
+           ^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/ssl.py", line 1169, in read
+    return self._sslobj.read(len)
+           ^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+[B/query] API base_url=https://gpu6.sedan.pro/v1 model=qwen3.6-35b-a3b-nvfp4 out=/Users/piskadzon20/Desktop/github-summer/condition_b/anonymized_b/query
+Anonymize B (query):   0%|          | 0/500 [00:00<?, ?it/s]Anonymize B (query):  18%|█▊        | 90/500 [00:00<00:00, 888.20it/s]Anonymize B (query):  36%|███▌      | 179/500 [00:00<00:00, 849.76it/s]Anonymize B (query):  53%|█████▎    | 265/500 [00:00<00:00, 834.46it/s]Anonymize B (query):  70%|██████▉   | 349/500 [00:00<00:00, 833.86it/s]Anonymize B (query):  87%|████████▋ | 433/500 [00:00<00:00, 825.32it/s]Anonymize B (query):  87%|████████▋ | 433/500 [00:20<00:00, 825.32it/s]Anonymize B (query):  95%|█████████▍| 474/500 [07:40<00:57,  2.23s/it] Anonymize B (query):  95%|█████████▌| 475/500 [15:13<02:12,  5.31s/it]Anonymize B (query):  95%|█████████▌| 476/500 [17:53<02:43,  6.81s/it]Anonymize B (query):  95%|█████████▌| 477/500 [21:45<03:47,  9.89s/it]Anonymize B (query):  96%|█████████▌| 478/500 [28:32<06:24, 17.49s/it]Anonymize B (query):  96%|█████████▌| 479/500 [31:47<07:46, 22.22s/it]Anonymize B (query):  96%|█████████▌| 480/500 [35:17<09:42, 29.11s/it]Anonymize B (query):  96%|█████████▌| 481/500 [40:18<13:30, 42.65s/it]Anonymize B (query):  96%|█████████▋| 482/500 [44:51<17:22, 57.91s/it]Anonymize B (query):  97%|█████████▋| 483/500 [49:42<22:07, 78.10s/it]Anonymize B (query):  97%|█████████▋| 484/500 [54:15<26:33, 99.57s/it]Anonymize B (query):  97%|█████████▋| 485/500 [1:04:05<41:33, 166.22s/it]Anonymize B (query):  97%|█████████▋| 486/500 [1:09:07<43:55, 188.22s/it]Anonymize B (query):  97%|█████████▋| 487/500 [1:13:39<44:12, 204.06s/it]Anonymize B (query):  98%|█████████▊| 488/500 [1:16:51<40:17, 201.45s/it]Anonymize B (query):  98%|█████████▊| 489/500 [1:20:24<37:26, 204.26s/it]Anonymize B (query):  98%|█████████▊| 490/500 [1:24:37<36:02, 216.21s/it]Anonymize B (query):  98%|█████████▊| 491/500 [1:27:11<29:59, 199.99s/it]Anonymize B (query):  98%|█████████▊| 492/500 [1:31:28<28:44, 215.52s/it]Anonymize B (query):  99%|█████████▊| 493/500 [1:34:53<24:47, 212.47s/it]Anonymize B (query):  99%|█████████▉| 494/500 [1:39:34<23:13, 232.25s/it]Anonymize B (query):  99%|█████████▉| 495/500 [1:44:42<21:10, 254.05s/it]Anonymize B (query):  99%|█████████▉| 496/500 [1:50:02<18:13, 273.41s/it]Anonymize B (query):  99%|█████████▉| 497/500 [1:54:08<13:16, 265.36s/it]Anonymize B (query): 100%|█████████▉| 498/500 [1:57:43<08:20, 250.37s/it]Anonymize B (query): 100%|█████████▉| 499/500 [2:00:51<03:51, 231.84s/it]Anonymize B (query): 100%|██████████| 500/500 [2:03:12<00:00, 204.88s/it]Anonymize B (query): 100%|██████████| 500/500 [2:03:12<00:00, 14.79s/it] 
+/Users/piskadzon20/Desktop/github-summer/condition_b/anonymized_b/query

@@ -1,0 +1,500 @@
+{"a": "The_Burt", "b": "Can you get to the \"service Position\" with just [PERSON] stands?", "s": "projectcar", "t": 1545638158, "v": 1}
+{"a": "The_Burt", "b": "[LOCATION], screens are cheap.", "s": "fixit", "t": 1545638223, "v": 12}
+{"a": "The_Burt", "b": "[DATE] be one of the evap lines is plugged or pinched. Try a fog test on the fuel system, disconnect stuff one at a time and with a process of elimination you should be able to determine whats not letting fog through when it should be.", "s": "askcarguys", "t": 1545651813, "v": 2}
+{"a": "The_Burt", "b": "They broke a jar on your driveway?", "s": "whatisthiscar", "t": 1545652146, "v": 2}
+{"a": "The_Burt", "b": "Thanks for this image friend. I tried to convince my wife there were hillbillies in places outside the [LOCATION], this will help my argument. ", "s": "Justrolledintotheshop", "t": 1545660438, "v": 11}
+{"a": "The_Burt", "b": "*Shakes out a little plastic bag* \n\nFine, just tie a knot in it this time.", "s": "DaystromInstitute", "t": 1545661259, "v": 6}
+{"a": "The_Burt", "b": "or your prenatal appointments.", "s": "RoastMyCar", "t": 1545661867, "v": 3}
+{"a": "The_Burt", "b": "We all wish that was silicon.", "s": "RoastMyCar", "t": 1545662034, "v": 5}
+{"a": "The_Burt", "b": "Looks like a Barbecue mate.", "s": "whatisthiscar", "t": 1545662327, "v": 35}
+{"a": "The_Burt", "b": "Linky?", "s": "Marvel", "t": 1545668775, "v": 2}
+{"a": "The_Burt", "b": "[ORGANIZATION]", "s": "whatisthiscar", "t": 1545729307, "v": 7}
+{"a": "The_Burt", "b": "No no, the lens goes *between* the sun and the car. You'll never get that cleansing fire started at this rate.", "s": "RoastMyCar", "t": 1545730406, "v": 3}
+{"a": "The_Burt", "b": "[LOCATION].", "s": "Justrolledintotheshop", "t": 1545730476, "v": 1}
+{"a": "The_Burt", "b": "\u266b Yawn and stretch and my life is a mess ugh. \u266a", "s": "Justrolledintotheshop", "t": 1545731151, "v": 2}
+{"a": "The_Burt", "b": "There's no love like your [ORDINAL] love, even when its grizzled and cankered and gnarled.", "s": "RoastMyCar", "t": 1545731320, "v": 1}
+{"a": "The_Burt", "b": "Yes, but not necessarily vice versa. Sometimes an impact won't fit in a tight spot, which why all sockets aren't heavy duty impact sockets.", "s": "Tools", "t": 1545731404, "v": 1}
+{"a": "The_Burt", "b": "[ORDINAL] Gen.", "s": "whatisthiscar", "t": 1545734592, "v": 3}
+{"a": "The_Burt", "b": "Based on the tail lights I'm fairly certain it's a [[CARDINAL]/knowledge-base/1972-Oldsmobile-442).", "s": "whatisthiscar", "t": 1545748662, "v": 6}
+{"a": "The_Burt", "b": "What *else* would a [CARDINAL] be?", "s": "whatisthiscar", "t": 1545819021, "v": 1}
+{"a": "The_Burt", "b": "Thanks, I hate it.", "s": "WeirdWheels", "t": 1545819123, "v": 0}
+{"a": "The_Burt", "b": "I gave my wife a kid I made out of a nut once. It's alright I guess.", "s": "metalworking", "t": 1545819284, "v": 36}
+{"a": "The_Burt", "b": "I call a car by the [PRODUCT] designation given by the Factory. The *\"[ORGANIZATION] 442\"*, was a [DATE] only model. Every other iteration the [CARDINAL] was a specific package available for the *\"[ORGANIZATION] [PRODUCT]\"*. This car **IS** a [PRODUCT]. I'm not going to be a pedant and say you can't call it a [CARDINAL] because that's how people talk and everyone in the know will know what you mean. But it's absurd to suggest it's not a [PRODUCT].", "s": "whatisthiscar", "t": 1545869244, "v": 2}
+{"a": "The_Burt", "b": "You can try cutting a rubber washer so you can insert it into the hinge and create a little pressure and friction. Might be tricky to find the sweet spot for sizing the washer. It would probably be more helpful to show as much of the hinge as you can when asking for input.", "s": "metalworking", "t": 1545912223, "v": 3}
+{"a": "The_Burt", "b": "It's pretty uncommon for that sort of spring to just break, especially at [DATE]? How did it break, some catastrophic event? Were you moving when it broke, was it parked, was it something gradual, did it damage other components, did it effect the mounting points and surfaces etc etc. It's hard to answer that question without being fully informed.\n\nI'll say this, it *might* be possible to replace just [DATE] but that's really the sort of repair you would do yourself if you had that capacity. Largely because maybe it works, maybe it doesn't, you can assume all the risk as you feel out the problem and address other issues as they come up.\n\nBut by going to a shop you are making them assume part of the risk, not just financially but they are also leveraging their reputation against the effectiveness of the repairs. If it were I would politely decline to do anything less than the work guaranteed to be [PERCENT] safe and effective.", "s": "askcarguys", "t": 1545912787, "v": 1}
+{"a": "The_Burt", "b": "[PERSON]", "s": "movies", "t": 1545913053, "v": 1}
+{"a": "The_Burt", "b": "Looks like a manufacturing defect, the ball is supposed to drilled all the way through.", "s": "fixit", "t": 1545913458, "v": 1}
+{"a": "The_Burt", "b": "This can be done real-time but its kind of tricky. You can disconnect the line that returns fluid from the rack to the reservoir and put it in a bucket or pan and then plug the reservoir. Then with the car running you add clean fluid while someone turns the rack left and right (careful not to [PERSON] it out) until clean fluid comes out of the rack. Then hook it all back up and top it off. Pro tip, a snugly fitting funnel that can hold a fair amount of fluid in the top of the reservoir is a good way to keep the system from sucking air while your juggling all the ins and outs of this job. ", "s": "askcarguys", "t": 1545930546, "v": 5}
+{"a": "The_Burt", "b": "Just for comparisons sake, the method I described above is almost too fast. You've got to be on your toes and frankly, no offense, if you're not comfortable and familiar working on cars, this could away from you pretty fast.", "s": "askcarguys", "t": 1545950084, "v": 2}
+{"a": "The_Burt", "b": "So which [CARDINAL] of you is the man?", "s": "RoastMyCar", "t": 1545981925, "v": 10}
+{"a": "The_Burt", "b": "I'm a little confused when you say cabover, they are rear engine. So by definition they can't be \"cabover\". ", "s": "beetle", "t": 1545983131, "v": 1}
+{"a": "The_Burt", "b": "That's not strictly accurate, a forward control is anything whose engine is not entirely forward of the windshield AND whose controls are in [DATE] of the vehicle, they don't have to be \"in front of\" the front wheels.. Technically a [ORGANIZATION], and a [PRODUCT] van, and a Previa are all [ORGANIZATION] too, but you don't see people calling them that. ", "s": "beetle", "t": 1545983820, "v": 1}
+{"a": "The_Burt", "b": "I didn't read your post. The answer is [ORGANIZATION].", "s": "askcarguys", "t": 1545983969, "v": 19}
+{"a": "The_Burt", "b": "I'm assuming you've already spotted it, but in the off chance you haven't there are [CARDINAL] major breaks here. The [CARDINAL] your uncle tried to fix with screws, and [CARDINAL] right next to your thumb in the [ORDINAL] image. You'll have to address both. \n\nI would recommend going straight to steel strapping to bridge the break and brace with something hopefully structurally sound enough. Maybe add additional vertical bracing between the [CARDINAL] broken pieces, like ribbing.", "s": "fixit", "t": 1545984387, "v": 3}
+{"a": "The_Burt", "b": "Thanks [PERSON].", "s": "Justrolledintotheshop", "t": 1545984580, "v": 1}
+{"a": "The_Burt", "b": "Reminds me of [Thunderbolt](https://makeagif.com/i/hYOom8)", "s": "Unexpected", "t": 1545989081, "v": 1}
+{"a": "The_Burt", "b": "Except they don't, no one does. Maybe you do but we've already established you're a strange bird so that isn't really relevant. Go look it up chief, I'm not trying to argue with you. There is a demonstrable difference between a [ORGANIZATION], A [ORGANIZATION], a [PRODUCT] and a rear engine. They have specific stipulations that describe them. The Haflinger is neither a [ORGANIZATION] nor a [ORGANIZATION].", "s": "beetle", "t": 1545989257, "v": -3}
+{"a": "The_Burt", "b": "Nothing that is *strictly* a shooter.", "s": "startrek", "t": 1545989395, "v": 1}
+{"a": "The_Burt", "b": "Really, having a conversation about the topic is arguing? And I called you names, really? Don't seem to remember doing that, wait are you getting your panties in a twist over \"strange bird\"? Wow dude, maybe you should take [TIME], cry it out, try to regain control of your shit. In the meantime, a Haflinger still isn't a forward control.", "s": "beetle", "t": 1545996621, "v": -4}
+{"a": "The_Burt", "b": "You spelled Turdcel wrong.", "s": "RoastMyCar", "t": 1545996666, "v": 21}
+{"a": "The_Burt", "b": "To what extent is the \"haptic\" feedback? Is it just a rumblepack? Does it do resistance?", "s": "DidntKnowIWantedThat", "t": 1545996887, "v": 2}
+{"a": "The_Burt", "b": "Get in the car [PERSON], theres no time to explain.", "s": "Justrolledintotheshop", "t": 1545996999, "v": 1}
+{"a": "The_Burt", "b": "Haha, The thumbnail looked like a vape coil with beads. Cool though, good job.", "s": "somethingimade", "t": 1545998985, "v": 2}
+{"a": "The_Burt", "b": "It's a common stupid stereotypical question lesbians get asked.", "s": "RoastMyCar", "t": 1546016907, "v": 1}
+{"a": "The_Burt", "b": "Nice, its ridiculous how expensive these have gotten.", "s": "projectcar", "t": 1546076893, "v": 2}
+{"a": "The_Burt", "b": "Remember its also post scarcity supported by replicator and transporter technology. Other than items of sentimentality, what do you really *need* to *own*, that can't be replicated or produced or borrowed from a communal supply? What services do you need, that would be unattainable without hard currency?", "s": "DaystromInstitute", "t": 1546077793, "v": 9}
+{"a": "The_Burt", "b": "Thing is a fucking train wreck.", "s": "beetle", "t": 1546077823, "v": 1}
+{"a": "The_Burt", "b": "Its probably [PERSON] by now.", "s": "Marvel", "t": 1546083418, "v": 10}
+{"a": "The_Burt", "b": "Penetration is always the answer. [PERSON] ought to handle it.", "s": "fixit", "t": 1546083464, "v": 2}
+{"a": "The_Burt", "b": "There are less embarrassing ways to come out Queen.", "s": "RoastMyCar", "t": 1546083769, "v": 3}
+{"a": "The_Burt", "b": "How [QUANTITY] are you getting?", "s": "RoastMyCar", "t": 1546085026, "v": 4}
+{"a": "The_Burt", "b": "Unless it has a line in on the back you'll want [[CARDINAL] of these.](https://www.amazon.com/ION-Audio-Cassette-Adapter-Bluetooth/dp/B00I3YLHAC/ref=sr_1_3?ie=UTF8&amp;qid=1546085072&amp;sr=8-3&amp;keywords=[PERSON])", "s": "fixit", "t": 1546085111, "v": 3}
+{"a": "The_Burt", "b": "There's no way it's going to pull that tree down on top of itself, its probably easier to make a claim if it just \"falls\" off a cliff.\n\nBut seriously you should probably just get a come-along, it works better. I straightened out a couple [LOCATION] with one back in [DATE].", "s": "projectcar", "t": 1546085404, "v": 2}
+{"a": "The_Burt", "b": "The [ORGANIZATION] is bluetooth, so no aux cable, it does need to be charged every once in a blue moon. The batteries last a ridiculously long time. The problem with the FM transmitter is there is always interference, it takes quite a bit of juice to overpower the signal in the air, even on seemingly dead frequencies. ", "s": "fixit", "t": 1546085546, "v": 1}
+{"a": "The_Burt", "b": "Who wants to invest in a relationship with someone so intensely focused on fucking themselves?\n\nAlso, [CARDINAL] for smokes? Did you travel back in time to take this picture?", "s": "RoastMyCar", "t": 1546085720, "v": 3}
+{"a": "The_Burt", "b": "If it plugs into your power port its moer powerful then the ones than the rechargeable ones **AND**, with a car your broadcasting from *within* the stereos antennae array. Because modern cars antenaes are laced through the A,B,C pillars and windshields.", "s": "fixit", "t": 1546086532, "v": 1}
+{"a": "The_Burt", "b": "Looks like a rollerskate that rolled through dog shit.", "s": "AwesomeCarMods", "t": 1546086625, "v": -1}
+{"a": "The_Burt", "b": "No he said its the [PRODUCT], not the [FAC].", "s": "RoastMyCar", "t": 1546097837, "v": 5}
+{"a": "The_Burt", "b": "Eh, My ZJ gets [CARDINAL]. But then I don't get hit on by mall cops so theres pros and cons.", "s": "RoastMyCar", "t": 1546103706, "v": 3}
+{"a": "The_Burt", "b": "It *could* be, but they have been building basically the same car for [DATE] so who knows for sure.", "s": "namethatcar", "t": 1546113590, "v": 2}
+{"a": "The_Burt", "b": "Boss Baby crossover?", "s": "Marvel", "t": 1546162528, "v": 9}
+{"a": "The_Burt", "b": "Its usually called the [PRODUCT] key, so you can let someone else park your car if you want. Some vehicles even behave different with the valet key, like having a [QUANTITY] max speed, etc.", "s": "askcarguys", "t": 1546162643, "v": 1}
+{"a": "The_Burt", "b": "All this just so \"*Joey\"* can throw [CARDINAL] handfuls of mozzarella in the very center and slam into the oven. Fuck you [PERSON].", "s": "specializedtools", "t": 1546162840, "v": 204}
+{"a": "The_Burt", "b": "Ooh ooh, EG33, Eg33.", "s": "projectcar", "t": 1546163958, "v": 0}
+{"a": "The_Burt", "b": "Whats it like having more money than taste?", "s": "RoastMyCar", "t": 1546164975, "v": 3}
+{"a": "The_Burt", "b": "It spilled... I paid for that coffee it spilled.", "s": "specializedtools", "t": 1546165230, "v": 31}
+{"a": "The_Burt", "b": "HEY this is reddit, you guys stop this reasonable civility bullshit right now! If somebody doesn't call someone a [NORP] in [TIME] I'm calling the cops!", "s": "AwesomeCarMods", "t": 1546168934, "v": 17}
+{"a": "The_Burt", "b": "[PRODUCT], [FAC], a bunch of [ORGANIZATION] and [ORGANIZATION] and [ORGANIZATION]. [ORGANIZATION] is your friend man, its not exactly rare.", "s": "askcarguys", "t": 1546183425, "v": 1}
+{"a": "The_Burt", "b": "Kids these believin in [LOCATION] and [ORGANIZATION] and Unicorns and shit.", "s": "RoastMyCar", "t": 1546183485, "v": 3}
+{"a": "The_Burt", "b": "All of those examples I listed and the plethora of those I haven't specifically have a valet mode that incorporates a valet key. Not just \"a valet key\", but a valet mode &amp; key etc etc.", "s": "askcarguys", "t": 1546190504, "v": 1}
+{"a": "The_Burt", "b": "Bro, that's awesome. I figured this post died hard, thanks heaps.", "s": "partscounter", "t": 1546270176, "v": 1}
+{"a": "The_Burt", "b": "*pa* [PERSON]?", "s": "Battlecars", "t": 1546271903, "v": 1}
+{"a": "The_Burt", "b": "idk why, I realize its *exactly* the same body. But [ORGANIZATION] always looks like they have a big ass to me.", "s": "CrownVictoria", "t": 1559366567, "v": 4}
+{"a": "The_Burt", "b": "Did joints with the masses and ashes away", "s": "marvelstudios", "t": 1559367202, "v": 11}
+{"a": "The_Burt", "b": "We got'm the states, during a time when [ORGANIZATION]'s reputation was pretty poor. They don't have *that* much of a following but you still see them every once in awhile.", "s": "projectcar", "t": 1559367561, "v": 3}
+{"a": "The_Burt", "b": "Straight [CARDINAL].", "s": "namethatcar", "t": 1559381177, "v": 3}
+{"a": "The_Burt", "b": "Not a Kei Car. [PERSON] X-90", "s": "namethatcar", "t": 1559381232, "v": 10}
+{"a": "The_Burt", "b": "Would it even be legal to drive in [LOCATION] after you've modified it? I'm betting it wouldn't be. Why not look for something cool *in* [LOCATION]. Maybe something you could bring back to the states if you wanted.", "s": "projectcar", "t": 1559385459, "v": 1}
+{"a": "The_Burt", "b": "What car? Where?", "s": "namethatcar", "t": 1559385584, "v": 0}
+{"a": "The_Burt", "b": "Good place to start. I know the fuel line is good, what are the odds of a float problem on a brand spanking new carb you think?", "s": "askcarguys", "t": 1559389201, "v": 1}
+{"a": "The_Burt", "b": "So if I understand it correctly the float seems to not be rising enough, so I need to adjust it *up*?", "s": "askcarguys", "t": 1559400618, "v": 1}
+{"a": "The_Burt", "b": "I guess we'll take your word for it?", "s": "projectcar", "t": 1559401252, "v": 7}
+{"a": "The_Burt", "b": "[QUANTITY]", "s": "Justrolledintotheshop", "t": 1559456920, "v": 1}
+{"a": "The_Burt", "b": "I guess its time to try and catch a showing of *What we left behind*. While its fresh.", "s": "startrek", "t": 1559457373, "v": 2}
+{"a": "The_Burt", "b": "[PERCENT], [DATE] on a warm day *maybe*. You guys are so bad at judging size.", "s": "RoastMyCar", "t": 1559457484, "v": 1}
+{"a": "The_Burt", "b": "[ORGANIZATION]I think*.", "s": "namethatcar", "t": 1559475207, "v": 6}
+{"a": "The_Burt", "b": "Put all those green leds in metal drum and burn them, then we can talk.", "s": "Battlecars", "t": 1559481329, "v": 1}
+{"a": "The_Burt", "b": "Yeah that's a *version* of the Aero 8 in every way that matters.", "s": "namethatcar", "t": 1559486958, "v": 1}
+{"a": "The_Burt", "b": "[ORDINAL] things [ORDINAL], hit that thing with some penetrant. [PRODUCT] is basically black magic, let it soak for [TIME] before another attempt.", "s": "Tools", "t": 1559489992, "v": 2}
+{"a": "The_Burt", "b": "[PERSON]", "s": "marvelstudios", "t": 1559490321, "v": 5}
+{"a": "The_Burt", "b": "Yeah, well, the [PRODUCT] will see to this injustice soon enough.", "s": "AskReddit", "t": 1559542645, "v": 3}
+{"a": "The_Burt", "b": "Here's the long and the short of it. Anything is possible with enough time, effort and money. However it isn't as easy as getting and then installing some other engine. You're going to have to plan out whether or not that engine is going to fit, will you have room for exhaust, will that exhaust interfere with your steering? How are you going to cool that engine? What transmission are you going to use, cause you won't be able to use the [ORGANIZATION] one. What transfercase? Will that transfercase work with your diffs? Will your axles be strong enough? How are you going to control that engine? Does the transmission you chose need a controller? The list is nearly endless.\n\nSo what you're asking is an incredibly complex question that inherently includes a lot of unasked questions. The simple answer is Yes its technically possible. But the simple fact that you asked the question you asked and the way you asked it strongly implies that you're probably not going to be able to do it. At least not yet. Its going to involve a lot of [CARDINAL] off custom engineering and fabrication, you'd essentially have to build a new truck from almost the ground up. \n\nIf what you want is an SUV with a V8 that you can turbo. I would recommend getting something that already has most of the infrastructure you want or need, and refining it with the small things you need to get it where you want. It's a better starting project and you'll have a better final result, and learn a bunch to boot. Like you could get a [LOCATION], or an old [PRODUCT], maybe a [PRODUCT] and just figure out how to run forced induction on *that*. Besides the Endeavor is hot garbage anyways, why invest the time and money into it?", "s": "askcarguys", "t": 1559545105, "v": 2}
+{"a": "The_Burt", "b": "Ironic, Consider its a [NORP] flag.", "s": "AwesomeCarMods", "t": 1559545246, "v": 1}
+{"a": "The_Burt", "b": "Go easy guys he doesn't know the controls. He's just mashing buttons.", "s": "Whatcouldgowrong", "t": 1559549772, "v": 4}
+{"a": "The_Burt", "b": "\"INEXPLICABLY DAMP\"", "s": "AskReddit", "t": 1559549917, "v": 1}
+{"a": "The_Burt", "b": "I live around the corner from a bar, [DATE] I'm working on my truck, curbside in front of my place when I hear a subtle little *bong* and feel the truck rock just a little bit. I lean out front under the hood and some dude is sitting in the street next to my truck holding his head. He looks at me and slurs out \"eeeey man look where you going\". He barely manages to stand up and drunkenly shuffle off on his way. [PERSON] and behold he was sporting a really long rat tail.", "s": "AskReddit", "t": 1559550123, "v": 1}
+{"a": "The_Burt", "b": "https://www.ebay.com/itm/Fairmount-Cleve-23-5mm-20mm-Double-Open-End-Machine-Wrench-/110307505834\n\nClaimed [QUANTITY]. [ORGANIZATION] though so, you never know.", "s": "Tools", "t": 1559552131, "v": 1}
+{"a": "The_Burt", "b": "Which T5? Do you just mean a white block?", "s": "projectcar", "t": 1559552299, "v": 1}
+{"a": "The_Burt", "b": "You can't leave us hangin chief. What was so urgent about this?", "s": "namethatcar", "t": 1559552441, "v": 11}
+{"a": "The_Burt", "b": "So boost than?", "s": "projectcar", "t": 1559552533, "v": 2}
+{"a": "The_Burt", "b": "I took a shit that color once. My wife made me to the emergency room. Turns out it was just too much curry.", "s": "RoastMyCar", "t": 1559595228, "v": 14}
+{"a": "The_Burt", "b": "When they did they legalize male prostitution in [LOCATION]?", "s": "RoastMyCar", "t": 1559595366, "v": 2}
+{"a": "The_Burt", "b": "Like you can't select reverse with the shifter, or you put it in reverse but nothing happens?", "s": "GrandCherokee", "t": 1559595587, "v": 2}
+{"a": "The_Burt", "b": "[ORGANIZATION] with a hardtop?", "s": "projectcar", "t": 1559668148, "v": 10}
+{"a": "The_Burt", "b": "You [ORDINAL].... is it even running?", "s": "RoastMyCar", "t": 1559668501, "v": 30}
+{"a": "The_Burt", "b": "Yeah it really changes the lines a lot, looks great. Are those rear fenders original or have you widened them?", "s": "projectcar", "t": 1559668941, "v": 12}
+{"a": "The_Burt", "b": "Looks great.", "s": "projectcar", "t": 1559673800, "v": 4}
+{"a": "The_Burt", "b": "and cervezas", "s": "Marvel", "t": 1559717358, "v": 16}
+{"a": "The_Burt", "b": "[PRODUCT] is easily one of the best looking [ORGANIZATION] ever built. I've always loves that color but I hate the fact that its always paired with a tan/light interior. I hate beige! Cool car either way.", "s": "projectcar", "t": 1559720444, "v": 1}
+{"a": "The_Burt", "b": "I think you paid too much.", "s": "projectcar", "t": 1559720555, "v": 1}
+{"a": "The_Burt", "b": "[ORGANIZATION] lol", "s": "RoastMyCar", "t": 1559733483, "v": 1}
+{"a": "The_Burt", "b": "[ORGANIZATION]. [DATE]", "s": "whatisthiscar", "t": 1559739801, "v": 35}
+{"a": "The_Burt", "b": "This is no joke, stuff can be spooky if you're not careful. Like even a [DATE] or two later it will flash up.", "s": "projectcar", "t": 1559740553, "v": 2}
+{"a": "The_Burt", "b": "Doesn't have to be time travel. Any number of other science fiction fates could be in store for them. Could even be as simple as crew who were believed dead are in fact trapped or imprisoned somewhere. Who knows.", "s": "startrek", "t": 1559746276, "v": 1}
+{"a": "The_Burt", "b": "It's important to get started early. What other steps have you taken to make sure you're entire life is mundane and boring?", "s": "RoastMyCar", "t": 1559748038, "v": 15}
+{"a": "The_Burt", "b": "Pretty much.", "s": "RoastMyCar", "t": 1559755363, "v": 2}
+{"a": "The_Burt", "b": "Liar. You don't have any friends. We can tell.", "s": "RoastMyCar", "t": 1559755424, "v": 3}
+{"a": "The_Burt", "b": "Looks like a vibrator.", "s": "WeirdWheels", "t": 1559757504, "v": -1}
+{"a": "The_Burt", "b": "I have no idea but its fucking sweet so I want to be able to find [DATE].", "s": "whatisthiscar", "t": 1559762995, "v": 6}
+{"a": "The_Burt", "b": "Yes I always associate Anime with.... [LOCATION].", "s": "namethatcar", "t": 1559769693, "v": 7}
+{"a": "The_Burt", "b": "Let's try this. Why *wouldn't* Captain America hold a rainbow flag?", "s": "marvelstudios", "t": 1559769892, "v": 29}
+{"a": "The_Burt", "b": "Ended in [CARDINAL] not [CARDINAL].", "s": "whatisthiscar", "t": 1559776903, "v": 1}
+{"a": "The_Burt", "b": "You gotta stop trusting anything [PERSON] says bro. I owned a [DATE], said [PERSON] on the title and everything.", "s": "whatisthiscar", "t": 1559777593, "v": 1}
+{"a": "The_Burt", "b": "Mmm, more like [PERSON].", "s": "Marvel", "t": 1559777949, "v": 3}
+{"a": "The_Burt", "b": "It looks like they made something else look like a scout. Instead of making a Scout look like this. I'm betting this started life as a [ORGANIZATION] of some type.", "s": "Justrolledintotheshop", "t": 1559778119, "v": 12}
+{"a": "The_Burt", "b": "So how closely related are his parents? Are we talking like [ORDINAL] cousins or are they fraternal twins?", "s": "Justrolledintotheshop", "t": 1559778348, "v": 11}
+{"a": "The_Burt", "b": "I'm the source chief and personally I don't care if you eat crow or eat shit. I know I'm right, and thats good enough for me. Remember we're talking about cars built [DATE]. When production standards, state laws, and every other kind of rule and regulation were totally inconsistent. It's not like a fucking [ORGANIZATION] built [DATE] where literally every record imaginable exists and is probably available online. [DATE] manufactures and dealers could do pretty much whatever the fuck they wanted and it changed from state to state.", "s": "whatisthiscar", "t": 1559817650, "v": -1}
+{"a": "The_Burt", "b": "Buying a $[MONEY] [ORGANIZATION] junker cause you spend all your money on [LOCATION] light and child support and then calling it a \"project car\". What could be sadder?", "s": "RoastMyCar", "t": 1559827068, "v": 5}
+{"a": "The_Burt", "b": "I like how they got the headlights to express that vapid-dead-on-the-inside-glaze that the drivers always seem to have.", "s": "RoastMyCar", "t": 1559827339, "v": 5}
+{"a": "The_Burt", "b": "[PERSON] [ORGANIZATION] and Truck Stop takes it right out of his check every other [DATE].", "s": "RoastMyCar", "t": 1559828309, "v": 4}
+{"a": "The_Burt", "b": "[ORGANIZATION] knew they could never actually improve the XF20, but they built the XF30 anyways because they knew some stupid [NORP] would buy it anyways.", "s": "RoastMyCar", "t": 1559828401, "v": 2}
+{"a": "The_Burt", "b": "I wonder if I'm always seeing images of broken Snap-On tools because they break a lot or because they don't so its *picture worthy* when it happens.", "s": "Justrolledintotheshop", "t": 1559829495, "v": 73}
+{"a": "The_Burt", "b": "Wow, that would've been great.", "s": "marvelstudios", "t": 1559829633, "v": -2}
+{"a": "The_Burt", "b": "Sex toy. You don't wanna know how you use it.", "s": "Tools", "t": 1559829686, "v": 2}
+{"a": "The_Burt", "b": "On what planet?", "s": "RoastMyCar", "t": 1559850671, "v": 1}
+{"a": "The_Burt", "b": "It was a rhetorical question kid.", "s": "RoastMyCar", "t": 1559850737, "v": 3}
+{"a": "The_Burt", "b": "You're wrong, that's an [PRODUCT] anywhere in the states. Because of when it was built the regulations are such that it is consistent and there isn't a single [PRODUCT] anywhere in the state after [DATE]. This wasn't the case [DATE] and these kinds of anomalies aren't uncommon. Like I said you can't rely solely on [ORGANIZATION], it's not always right or complete. By [DATE], this was pretty much unheard of. I can only thing of a few strange scenarios after like [CARDINAL]. Like [PRODUCT], [ORGANIZATION] and some [ORGANIZATION].", "s": "whatisthiscar", "t": 1559854526, "v": -1}
+{"a": "The_Burt", "b": "Literally *every* way.", "s": "RoastMyCar", "t": 1559854561, "v": 1}
+{"a": "The_Burt", "b": "It used to be a Datsun [PRODUCT], and I'm guessing a camper shell intended for use with something that wasn't a Datsun [PRODUCT].", "s": "WeirdWheels", "t": 1559854672, "v": 3}
+{"a": "The_Burt", "b": "You're not getting it, it was definitely a [NORP], it was titled as a [DATE], this happened all the way into [DATE]. What you're not getting is the fact  that sometimes vehicles aren't sold or titled in [DATE] they're built. This isn't uncommon or unusual, you just don't know what the fuck you're talking about. You're taking the internet as rote and its fucking lame. Learn something kid, damn.", "s": "whatisthiscar", "t": 1559855208, "v": 0}
+{"a": "The_Burt", "b": "Clearly neither of us cares what the other thinks or says. So why don't you go eat a dick and I'll get back to being right.", "s": "whatisthiscar", "t": 1559863665, "v": 1}
+{"a": "The_Burt", "b": "Who would hold *you* responsible for the repairs?", "s": "whatisthiscar", "t": 1559928803, "v": 2}
+{"a": "The_Burt", "b": "Because this is reddit. Where its primary feature and mechanic is utterly and completely dysfunctional.", "s": "marvelstudios", "t": 1559933406, "v": 1}
+{"a": "The_Burt", "b": "Mmm, better not, I mean unless you want it to turn itself inside out.", "s": "RoastMyCar", "t": 1559933457, "v": 3}
+{"a": "The_Burt", "b": "Oh god you scared me. Whatever you do don't say that [CARDINAL] times or she'll show up and ban the sub.", "s": "WeirdWheels", "t": 1559933613, "v": 2}
+{"a": "The_Burt", "b": "*POS\n\n[ORGANIZATION]", "s": "RoastMyCar", "t": 1559982886, "v": 5}
+{"a": "The_Burt", "b": "[PERSON]", "s": "RoastMyCar", "t": 1559982903, "v": 5}
+{"a": "The_Burt", "b": "That color is incredible.", "s": "AwesomeCarMods", "t": 1560001397, "v": 87}
+{"a": "The_Burt", "b": "Every time I see a super 7 I feel like the rear fenders look odd. I want to see one with floating rear fenders.", "s": "WeirdWheels", "t": 1560001489, "v": 4}
+{"a": "The_Burt", "b": "Found okay I hope. Was the sub of any *actual* help?", "s": "namethatcar", "t": 1560013553, "v": 2}
+{"a": "The_Burt", "b": "Oh no, did you spill your e-juice?", "s": "RoastMyCar", "t": 1560019990, "v": 5}
+{"a": "The_Burt", "b": "Fuck that.", "s": "AwesomeCarMods", "t": 1560020202, "v": 8}
+{"a": "The_Burt", "b": "Wooooooah", "s": "marvelstudios", "t": 1560022522, "v": 1}
+{"a": "The_Burt", "b": "Finally, a wholesome use for a deepfake.", "s": "marvelstudios", "t": 1560022762, "v": -1}
+{"a": "The_Burt", "b": "Hey man, we keep it really informal around here. No need to introduce yourself.", "s": "AwesomeCarMods", "t": 1560052855, "v": -2}
+{"a": "The_Burt", "b": "Yeah if you want to be super technical and a little anal they're not really [PERSON]. But they are the continuation of a [ORGANIZATION] model after [ORGANIZATION] died so its a little pedantic to nit pick.", "s": "namethatcar", "t": 1560064200, "v": 1}
+{"a": "The_Burt", "b": "It's very nice but I feel like the *ultimate* beach van would be able to drive on sand. Just sayin'", "s": "AwesomeCarMods", "t": 1560064288, "v": 2}
+{"a": "The_Burt", "b": "So what you're saying is we've confirmed [ORGANIZATION] shoots webs?", "s": "marvelstudios", "t": 1560064350, "v": 2}
+{"a": "The_Burt", "b": "Are those audi rings as part of the emblem?", "s": "namethatcar", "t": 1560064431, "v": 1}
+{"a": "The_Burt", "b": "Maybe thats natural cause he's not in captivity anymore.", "s": "marvelstudios", "t": 1560070165, "v": 12}
+{"a": "The_Burt", "b": "Maybe a winch.", "s": "Battlecars", "t": 1560078788, "v": 10}
+{"a": "The_Burt", "b": "I miss [PERSON] so much it hurts.", "s": "movies", "t": 1560149224, "v": 2}
+{"a": "The_Burt", "b": "XJ***S***, [ORDINAL] generation I think, but I'm not a [ORGANIZATION] aficionado or anything.", "s": "whatisthiscar", "t": 1560169649, "v": 5}
+{"a": "The_Burt", "b": "XK*E* I think.", "s": "namethatcar", "t": 1560171522, "v": 1}
+{"a": "The_Burt", "b": "I've heard of these. They're the ones where the right pedal turns the car right, the middle pedal turns the car left and you have to keep the left pedal all the way in to go straight and whoever breaks down last is king of the losers.", "s": "RoastMyCar", "t": 1560199634, "v": 14}
+{"a": "The_Burt", "b": "Yeah, heat shield for the catalytic converter.", "s": "askcarguys", "t": 1560199711, "v": 7}
+{"a": "The_Burt", "b": "Incredible likeness. Go whole hog on that [PERSON] theme, looks great.", "s": "Marvel", "t": 1560199880, "v": 48}
+{"a": "The_Burt", "b": "I don't know your truck but if it has [ORGANIZATION], it has an expansion valve. Its entirely possible that it is *part* of an another component, but its a fundamental part of how the [ORGANIZATION] works so there definitely is one.", "s": "askcarguys", "t": 1560217542, "v": 2}
+{"a": "The_Burt", "b": "If you don't like it, go back to your safe space. No one will judge you at /r/The_Donald, assuming of course you're part of the circlejerk.", "s": "AwesomeCarMods", "t": 1560262125, "v": -3}
+{"a": "The_Burt", "b": "Yeah me too.", "s": "AwesomeCarMods", "t": 1560284884, "v": 1}
+{"a": "The_Burt", "b": "Look I'm not gonna lie, its weird that you married your mom, so please stop trying to fix things for me.", "s": "RoastMyCar", "t": 1560289453, "v": 0}
+{"a": "The_Burt", "b": "Some titles are *only* ok in [WORK_OF_ART] subs. Sorry, it just popped into my head.", "s": "WeirdWheels", "t": 1560289517, "v": 3}
+{"a": "The_Burt", "b": "&gt; My wife said \n\n[ORGANIZATION] mom said\n\nSee the joke is she's the same person. It helps if you have a sense of humor I guess.", "s": "RoastMyCar", "t": 1560293016, "v": 0}
+{"a": "The_Burt", "b": "Are you on fire yet liar? If not, quit wasting time.", "s": "whatisthiscar", "t": 1560302977, "v": 1}
+{"a": "The_Burt", "b": "Visibly rotting undercarriage. Its like you're twins!", "s": "RoastMyCar", "t": 1560338411, "v": 1}
+{"a": "The_Burt", "b": "Great practical effects film too.", "s": "movies", "t": 1560338507, "v": 1}
+{"a": "The_Burt", "b": "[ORGANIZATION] fans are like [PERSON] Fans. [CARDINAL] good release in [DATE] the lowest common denominator is still swearing their allegiance. \"Its still just as good, its just like it used to be!\"", "s": "RoastMyCar", "t": 1560338839, "v": 2}
+{"a": "The_Burt", "b": "Great art, terrible premise. [PERSON] is dumb as shit. There has to be a better casting choice.", "s": "Marvel", "t": 1560339338, "v": 2}
+{"a": "The_Burt", "b": "Oh no, someone vandalized your car.", "s": "RoastMyCar", "t": 1560339533, "v": 2}
+{"a": "The_Burt", "b": "What is the name of that song?", "s": "marvelstudios", "t": 1560339731, "v": 1}
+{"a": "The_Burt", "b": "I doubt it. As others have said you wouldn't debadge an M or put it on shitty faux m-pars.", "s": "whatisthiscar", "t": 1560339863, "v": 1}
+{"a": "The_Burt", "b": "Those aren't M wheels, they aren't even [ORGANIZATION] wheels. They're some no name knock off thats supposed to look a little like Style 37s, which are common on [CARDINAL] and [CARDINAL] series [ORGANIZATION] of that era. The M wheels you're thinking of are Style 66 wheels, which **are** E39 M wheels, but are only vaguely similar to these.", "s": "whatisthiscar", "t": 1560340122, "v": 4}
+{"a": "The_Burt", "b": "[Repo Man \\(1984\\)](https://www.youtube.com/[ORGANIZATION])", "s": "movies", "t": 1560340312, "v": 1}
+{"a": "The_Burt", "b": "[PERSON] as [PERSON]? Yes please.", "s": "movies", "t": 1560340398, "v": 2}
+{"a": "The_Burt", "b": "They need to use a different dummy head or mannequin for [PERSON]. The head gear looks like some kind of freaky skull.", "s": "marvelstudios", "t": 1560340664, "v": 4}
+{"a": "The_Burt", "b": "You can still watch them for free, you just have to use motortrend to do it, and the episodes are all a month old. Basically it's paid members only for [DATE] on almost all the shows.", "s": "Battlecars", "t": 1560416035, "v": 11}
+{"a": "The_Burt", "b": "https://www.youtube.com/watch?v=xWct_KYGRQo", "s": "whatisthiscar", "t": 1560416200, "v": 1}
+{"a": "The_Burt", "b": "Debit works too.", "s": "Battlecars", "t": 1560425731, "v": -5}
+{"a": "The_Burt", "b": "Holds up to [CARDINAL]!?! [PERSON]!", "s": "specializedtools", "t": 1560439647, "v": 65}
+{"a": "The_Burt", "b": "Cop Car.", "s": "askcarguys", "t": 1560440637, "v": 42}
+{"a": "The_Burt", "b": "Sure but is it the [ORGANIZATION] SRTRD-4 [ORGANIZATION] [PERSON] edition?", "s": "RoastMyCar", "t": 1560455181, "v": 5}
+{"a": "The_Burt", "b": "Thats a good spot, I wasn't sure cause its missing the bumperettes but it would seem you are correct.", "s": "whatisthiscar", "t": 1560455376, "v": 3}
+{"a": "The_Burt", "b": "Bottom right?", "s": "whatisthiscar", "t": 1560455526, "v": 3}
+{"a": "The_Burt", "b": "There it is.", "s": "RoastMyCar", "t": 1560455796, "v": 1}
+{"a": "The_Burt", "b": "Fuck man, I got emotional in like [PERCENT] of [ORGANIZATION] episodes, cause [WORK_OF_ART] is a bleeder valve.", "s": "startrek", "t": 1560455857, "v": 6}
+{"a": "The_Burt", "b": "Wait for season 8, it's a real jerker.", "s": "startrek", "t": 1560493751, "v": 2}
+{"a": "The_Burt", "b": "They look so familiar, what are they?", "s": "projectcar", "t": 1560494055, "v": 1}
+{"a": "The_Burt", "b": "[PERSON], they looked factory but I didn't think they were [ORGANIZATION] for some reason. Anyway, looks good.", "s": "projectcar", "t": 1560512477, "v": 1}
+{"a": "The_Burt", "b": "Yeah a hydro would be a great [ORDINAL] mod.", "s": "askcarguys", "t": 1560512504, "v": 2}
+{"a": "The_Burt", "b": "When did they stop?", "s": "AwesomeCarMods", "t": 1560516495, "v": 7}
+{"a": "The_Burt", "b": "Seems like the only time shitty car mods gets it right the damn things end up in here.", "s": "AwesomeCarMods", "t": 1560516646, "v": 1}
+{"a": "The_Burt", "b": "No. Season [CARDINAL].", "s": "startrek", "t": 1560522287, "v": 1}
+{"a": "The_Burt", "b": "B2 [ORGANIZATION]", "s": "namethatcar", "t": 1560525515, "v": 2}
+{"a": "The_Burt", "b": "[ORGANIZATION], [ORGANIZATION], some other badge engineered name of the same car?", "s": "namethatcar", "t": 1560525754, "v": 1}
+{"a": "The_Burt", "b": "My point is if there is no appreciable distinction between a [ORGANIZATION] and a [ORGANIZATION] how is anyone supposed to know its a [ORGANIZATION] and not a [ORGANIZATION]. Kind of spoils it as a challenge contender, at least if you're not going to accept any of the above as an answer.", "s": "namethatcar", "t": 1560571828, "v": 1}
+{"a": "The_Burt", "b": "[PERSON] Fix and [PERSON] have a good approach to teaching beginners and a pretty large library of videos to pick through already.", "s": "askcarguys", "t": 1560586532, "v": 26}
+{"a": "The_Burt", "b": "No. Buy a [ORGANIZATION].", "s": "askcarguys", "t": 1560586696, "v": 2}
+{"a": "The_Burt", "b": "Knowledge is not the same as experience for one. Also [PERSON] is not the same as [PERSON], or [PERSON], let alone the same as [LOCATION] or [PERSON]. [PERSON] is a new entity, composed of and similar too but entirely apart from any past iterances which existed.", "s": "DaystromInstitute", "t": 1560600139, "v": 4}
+{"a": "The_Burt", "b": "Did you thank your father for giving you his D?", "s": "RoastMyCar", "t": 1560600696, "v": 1}
+{"a": "The_Burt", "b": "Pretty lame.", "s": "CrownVictoria", "t": 1560606501, "v": 16}
+{"a": "The_Burt", "b": "I don't say this very often, but it's even less appealing topless.", "s": "thewholecar", "t": 1560623562, "v": 13}
+{"a": "The_Burt", "b": "That might be the worst description of a truck I've ever read. That said the [PRODUCT] is a [ORGANIZATION], not a truck.", "s": "whatisthiscar", "t": 1560658342, "v": 2}
+{"a": "The_Burt", "b": "That's awesome. Would you say it actually handles \"good\" now, or is it just not as bad.", "s": "CrownVictoria", "t": 1560671181, "v": 7}
+{"a": "The_Burt", "b": "OMFG you guys are the fucking worst with this shit.", "s": "askcarguys", "t": 1560677556, "v": 1}
+{"a": "The_Burt", "b": "There automoderator, now theres a fucking question mark. Ridiculous.", "s": "askcarguys", "t": 1560677629, "v": 6}
+{"a": "The_Burt", "b": "Here we are, we've been here awhile, waiting for you to catch up.", "s": "RoastMyCar", "t": 1560682315, "v": 1}
+{"a": "The_Burt", "b": "I hate everything about this.", "s": "marvelstudios", "t": 1560690978, "v": 3}
+{"a": "The_Burt", "b": "Better than anything I've ever drawn, great job dude.", "s": "Marvel", "t": 1560695690, "v": 1}
+{"a": "The_Burt", "b": "[PERSON] dude enough. You've posted this [CARDINAL] times already.", "s": "Tools", "t": 1560695942, "v": 10}
+{"a": "The_Burt", "b": "lol", "s": "Tools", "t": 1560696119, "v": 1}
+{"a": "The_Burt", "b": "Sweet. Cannonball doesn't get enough respect.", "s": "Marvel", "t": 1560696351, "v": 3}
+{"a": "The_Burt", "b": "Some people, and I use the term loosely, won't accept anything but an [NORP] Captain America.", "s": "marvelstudios", "t": 1560714201, "v": 17}
+{"a": "The_Burt", "b": "/r/shittycarmods", "s": "WeirdWheels", "t": 1560714243, "v": 2}
+{"a": "The_Burt", "b": "So be honest, there have to be some upsides. I mean you're not gonna sit on'm and no one can you kick in the balls now. You're basically invincible.", "s": "RoastMe", "t": 1560760547, "v": 1}
+{"a": "The_Burt", "b": "What [ORGANIZATION]?", "s": "whatisthiscar", "t": 1560760570, "v": 79}
+{"a": "The_Burt", "b": "# M\u033c\u032c\u033c\u032a\u0332\u0355\u031fO\u0322\u0332\u033bN\u035e\u0331\u0359\u0329\u033bE\u031f\u031fY\u033b\u0355\u0318\u0324", "s": "movies", "t": 1560773287, "v": 8}
+{"a": "The_Burt", "b": "Sort of loses some of its majesty with the guy wobbling around like crazy.", "s": "Battlecars", "t": 1560774762, "v": 1}
+{"a": "The_Burt", "b": "You [ORDINAL].", "s": "RoastMyCar", "t": 1560776917, "v": 1}
+{"a": "The_Burt", "b": "Someone ruined a mustang and a truck to make this turd. Its horrible.", "s": "AwesomeCarMods", "t": 1560777000, "v": 1}
+{"a": "The_Burt", "b": "Theres gotta be a cheaper way to scrape gum off the asphalt.", "s": "AwesomeCarMods", "t": 1560777108, "v": 5}
+{"a": "The_Burt", "b": "It's [ORGANIZATION], different car from the [NORP]. If thats what you were thinking.", "s": "namethatcar", "t": 1560790099, "v": 5}
+{"a": "The_Burt", "b": "No no, this is on representative of \"[WORK_OF_ART]\". As if we're all the same dude. Fuck that. This is cringey garbage at best.", "s": "CrownVictoria", "t": 1560796630, "v": 1}
+{"a": "The_Burt", "b": "Me. Looks fun but its probably horrible to drive.", "s": "AwesomeCarMods", "t": 1560862203, "v": 1}
+{"a": "The_Burt", "b": "The brodozer guys are becoming self aware, but you've over corrected. So... sorry about your penis.", "s": "RoastMyCar", "t": 1560862790, "v": 3}
+{"a": "The_Burt", "b": "How do you know its anti-theft specifically? You could try [this I guess.](http://www.fixya.com/cars/t2967714-anti_theft_truck_start_reset)", "s": "askcarguys", "t": 1560886012, "v": 2}
+{"a": "The_Burt", "b": "[Good Enough](https://www.youtube.com/watch?v=LxLhytQ67fs) - [PERSON].", "s": "AskReddit", "t": 1560926782, "v": 1}
+{"a": "The_Burt", "b": "With [CARDINAL] of [these](https://www.amazon.com/[ORGANIZATION]/ref=sr_1_2?keywords=radiator+funnel+fill+kit&amp;qid=1560927079&amp;s=gateway&amp;sr=8-2) and a [ORGANIZATION] tutorial you can drain and fill yourself pretty easily. The hardest part will be collecting the use coolant for proper disposal.\n\nWhether you do it or have it done, with a used vehicle unless you have reliable and complete service records , its a good idea to do all your fluids and filters at your earliest convenience anyways.", "s": "askcarguys", "t": 1560927261, "v": 1}
+{"a": "The_Burt", "b": "The high points on the nose look [ORGANIZATION] to me.", "s": "namethatcar", "t": 1560939831, "v": 23}
+{"a": "The_Burt", "b": "See I thought the same thing about the [LOCATION] and the B pillar and if you look at the [LOCATION] is has a little kicked up slant on the window right before the C pillar. Which might make it look slanted at a distance in a crappy image.", "s": "whatisthiscar", "t": 1560950477, "v": 2}
+{"a": "The_Burt", "b": "Your cat didn't die, it killed itself. It was the shame.", "s": "RoastMyCar", "t": 1560950553, "v": 2}
+{"a": "The_Burt", "b": "The only way a [ORGANIZATION] Owner can have [CARDINAL] good headgaskets.", "s": "RoastMyCar", "t": 1561043556, "v": 23}
+{"a": "The_Burt", "b": "\"And I have a new pants suit!\"\n\nThat's the wrong kind of drag race friend.", "s": "RoastMyCar", "t": 1561146068, "v": 0}
+{"a": "The_Burt", "b": "[ORGANIZATION]. *Obivously*. (Which translates to [PERSON] incidentally.)", "s": "AwesomeCarMods", "t": 1561189610, "v": 10}
+{"a": "The_Burt", "b": "I don't know whats supposed to be wrong with the plate, but it looks like its supposed to say [PERSON]. Which is a racing circuit in [LOCATION] and a [NORP] God of Luck.", "s": "AwesomeCarMods", "t": 1561206725, "v": 16}
+{"a": "The_Burt", "b": "Mira", "s": "AwesomeCarMods", "t": 1561206745, "v": 4}
+{"a": "The_Burt", "b": "I'm right there with you chief. From a technical perspective I'm intrigued with the what the supercar makers develop. But I have [CARDINAL] interest in owning one and honestly I'm a little biased *against* people that do because they just seem to only be status symbols. Fuck yo Lambo, look at my [DATE] truck, its way cooler.", "s": "cars", "t": 1561210422, "v": 1}
+{"a": "The_Burt", "b": "It wears out the brakes and generally puts some extra strain on the car in general. There are different types of parking brake setups and that will determine what part it wears on. It could be a dedicated parking brake, or it could just use the standard brakes.", "s": "askcarguys", "t": 1561215417, "v": 16}
+{"a": "The_Burt", "b": "Shit, I don't think I've ever seen an [ORGANIZATION] sedan. That's sick.", "s": "Battlecars", "t": 1561219078, "v": 9}
+{"a": "The_Burt", "b": "http://www.aleromod.com/forums/showthread.php?t=23981\n\nTheres bound to be some fab required, there always is, especially going from auto to manual. That said I believe the basic infrastructure is very similar. God only what needs to be addressed  in regard to ecu/[ORGANIZATION] etc.", "s": "askcarguys", "t": 1561228134, "v": 7}
+{"a": "The_Burt", "b": "Wow that is an ugly ship.", "s": "startrek", "t": 1561228347, "v": 1}
+{"a": "The_Burt", "b": "Take it but don't trust it. Have it checked it out.", "s": "Blacksmith", "t": 1561228458, "v": 15}
+{"a": "The_Burt", "b": "True enough.", "s": "Blacksmith", "t": 1561233426, "v": 6}
+{"a": "The_Burt", "b": "Ok, correct me if I'm wrong, but are they *adding* sound effects to the hits? I swear I keep hearing the exact same \"clang\" when bots make contact. Am I nuts?", "s": "battlebots", "t": 1561236353, "v": 4}
+{"a": "The_Burt", "b": "[DATE], somewhere in there. hard to tell.", "s": "namethatcar", "t": 1561236626, "v": 1}
+{"a": "The_Burt", "b": "Definitely a Grand Cherokee.", "s": "whatisthiscar", "t": 1561236710, "v": 4}
+{"a": "The_Burt", "b": "ugh, *Daaaaad*, stop!", "s": "Blacksmith", "t": 1561236838, "v": 35}
+{"a": "The_Burt", "b": "Go away creepy ass bot.", "s": "Blacksmith", "t": 1561236923, "v": 27}
+{"a": "The_Burt", "b": "Ok, no headlights is easy enough to decipher. Plenty of [DATE] and [DATE] cars have hideaway headlights of [CARDINAL] type or another. However no *rear* light at all, is disqualifies for me. Nothing from that era had hidden tail lights from the factory. So either your description is inadequate or the vehicle was heavily customized which only makes it more unlikely to be unidentified.\n\nThe sub shouldn't allow text only posts.", "s": "namethatcar", "t": 1561237230, "v": 2}
+{"a": "The_Burt", "b": "This is literally [CARDINAL] of the only franchises you *could* reboot, and it wouldn't even necessarily reboot the franchise.", "s": "movies", "t": 1561237329, "v": 1}
+{"a": "The_Burt", "b": "I've never noticed it before. I think I'm noticing it now because its literally the same sound played again and again.", "s": "battlebots", "t": 1561261864, "v": 2}
+{"a": "The_Burt", "b": "This the cheap one on [ORGANIZATION]? I've nearly bought [CARDINAL] like [CARDINAL] times but I keep telling myself its probably junk.", "s": "Tools", "t": 1561289928, "v": 3}
+{"a": "The_Burt", "b": "What made you pick a [CARDINAL]? What are your initial impressions?", "s": "projectcar", "t": 1561290101, "v": 18}
+{"a": "The_Burt", "b": "Unless you own a domestic from back when the big [CARDINAL] made cars worth owning.", "s": "Tools", "t": 1561290177, "v": 4}
+{"a": "The_Burt", "b": "Get a flex shaft attachment to use with your dremel. It makes it easier to get into tight spaces and be precise and that little bit of flex can save your motor. The cable inside will always break before stressing the tool itself.", "s": "Tools", "t": 1561290404, "v": 2}
+{"a": "The_Burt", "b": "There's a good chance that what you got is still compatible with [ORGANIZATION] accessories. A lot of the cheap off brand ones are.", "s": "Tools", "t": 1561299744, "v": 1}
+{"a": "The_Burt", "b": "Whats the weight gain with the [LOCATION]?", "s": "projectcar", "t": 1561309702, "v": 2}
+{"a": "The_Burt", "b": "A commute that doesn't involve everyone with line of sight doing *exactly* the speed limit.", "s": "RoastMyCar", "t": 1561310377, "v": 3}
+{"a": "The_Burt", "b": "Tingles. Damn.", "s": "Marvel", "t": 1561310970, "v": 1}
+{"a": "The_Burt", "b": "What the hell do you mean you have a project due [DATE]!?!", "s": "KidsAreFuckingStupid", "t": 1561360724, "v": 1}
+{"a": "The_Burt", "b": "I don't even want to roast it, Props to your pops. Hope you appreciate that shit.", "s": "RoastMyCar", "t": 1561360847, "v": 3}
+{"a": "The_Burt", "b": "Surly", "s": "AskReddit", "t": 1561389322, "v": 1}
+{"a": "The_Burt", "b": "Its possible the belt was removed because something was wrong with the [ORGANIZATION] comp. Try to turn the [ORGANIZATION] pulley by hand with [ORGANIZATION] off. Then try it again with the [ORGANIZATION] \"on\".", "s": "askcarguys", "t": 1561436551, "v": 1}
+{"a": "The_Burt", "b": "I see a 9C1, wtf?", "s": "CrownVictoria", "t": 1561436615, "v": 3}
+{"a": "The_Burt", "b": "Anyone know if these are compatible with any other batteries?", "s": "AllToolSales", "t": 1561448344, "v": 1}
+{"a": "The_Burt", "b": "Looks great, sincere question. Why import an [ORGANIZATION] when you can get an [PRODUCT]?", "s": "projectcar", "t": 1561448528, "v": 6}
+{"a": "The_Burt", "b": "You're gross.", "s": "whatisthiscar", "t": 1561452347, "v": 3}
+{"a": "The_Burt", "b": "Links Broke.", "s": "projectcar", "t": 1561452392, "v": 1}
+{"a": "The_Burt", "b": "[ORGANIZATION] and you already know why.", "s": "askcarguys", "t": 1561460216, "v": 6}
+{"a": "The_Burt", "b": "Used to happen to me all the time. Like I'd literally be *on a date* with my fiance (wife now) and get flirted with or have waiters putting there number on receipts and shit. It hasn't happened in a long time which I guess is how I know I'm old now lol.", "s": "AskReddit", "t": 1561467950, "v": 2}
+{"a": "The_Burt", "b": "Number [CARDINAL]? As in it's a [FAC]?", "s": "RoastMyCar", "t": 1561467994, "v": 6}
+{"a": "The_Burt", "b": "Acceptable. Barely.", "s": "CrownVictoria", "t": 1561468395, "v": 3}
+{"a": "The_Burt", "b": "Oh wow, ok. Cause I can find them for like $[MONEY]K in acceptable shape around here. Not mint, but healthy enough to start with.", "s": "projectcar", "t": 1561468455, "v": 3}
+{"a": "The_Burt", "b": "Yes. That's not to say it can't be salvaged, but it would be far cheaper to simply replace it. Which is the only determining factor in whether a car is totaled or not.", "s": "GrandCherokee", "t": 1561469063, "v": 1}
+{"a": "The_Burt", "b": "Have we already called [PRODUCT]?", "s": "marvelstudios", "t": 1561469302, "v": 1}
+{"a": "The_Burt", "b": "I heard Data borrowed it for awhile.", "s": "startrek", "t": 1561478363, "v": 4}
+{"a": "The_Burt", "b": "No, sorry, I meant any other brand of tool.", "s": "AllToolSales", "t": 1561488153, "v": 1}
+{"a": "The_Burt", "b": "Why am I unsurprised the [ORGANIZATION] guys title is The Cuck Motto.", "s": "RoastMyCar", "t": 1561552816, "v": -3}
+{"a": "The_Burt", "b": "Must've been quite a hill.", "s": "RoastMyCar", "t": 1561553345, "v": 4}
+{"a": "The_Burt", "b": "You spelled plower wrong.", "s": "RoastMyCar", "t": 1561553717, "v": 9}
+{"a": "The_Burt", "b": "If it really is on [WORK_OF_ART], Death, and Robots then I am fucking stoked. While remaining skeptical.", "s": "startrek", "t": 1561553784, "v": 1}
+{"a": "The_Burt", "b": "You're probably driving a lot more stop/start/idle miles doing deliveries than you were previously. Give it a couple tanks to learn.", "s": "askcarguys", "t": 1561556217, "v": 5}
+{"a": "The_Burt", "b": "Conversation?", "s": "RoastMyCar", "t": 1561556583, "v": 5}
+{"a": "The_Burt", "b": "That can't be street legal. Pretty sure seats are required by law.", "s": "whatisthiscar", "t": 1561563739, "v": 2}
+{"a": "The_Burt", "b": "/r/woooosh", "s": "whatisthiscar", "t": 1561563847, "v": 5}
+{"a": "The_Burt", "b": "Sorry to hear your abnormally large clitoris. But hey, that 'stache is coming in real nice.", "s": "RoastMyCar", "t": 1561635373, "v": 1}
+{"a": "The_Burt", "b": "Not even poor mans, these things are infamously capable hardcore offroaders.", "s": "whatisthiscar", "t": 1561718837, "v": 5}
+{"a": "The_Burt", "b": "\"not my type\" is /r/Shitty_Car_Mods in a nutshell.", "s": "AwesomeCarMods", "t": 1561718901, "v": 7}
+{"a": "The_Burt", "b": "[CARDINAL] are for Alphas. Long live the Beta One Tire Fire.", "s": "RoastMyCar", "t": 1561789389, "v": 1}
+{"a": "The_Burt", "b": "Trading it in for damn near anything else and it you would end up with a better and cooler vehicle.", "s": "askcarguys", "t": 1561824977, "v": 4}
+{"a": "The_Burt", "b": "Sometimes dead is better.", "s": "Battlecars", "t": 1561825149, "v": 0}
+{"a": "The_Burt", "b": "It's a dune buggy. Basically a space frame/tube chassis based off a [ORGANIZATION] [PRODUCT].", "s": "whatisthiscar", "t": 1561825274, "v": 7}
+{"a": "The_Burt", "b": "No 5dr Mk2 [ORGANIZATION], it's a fascia conversion on a standard Golf.", "s": "whatisthiscar", "t": 1561835218, "v": 1}
+{"a": "The_Burt", "b": "An oxymoron?", "s": "AwesomeCarMods", "t": 1561835362, "v": 5}
+{"a": "The_Burt", "b": "My [ORDINAL] car was an [DATE] [ORGANIZATION]. Fun car.", "s": "projectcar", "t": 1561836122, "v": 1}
+{"a": "The_Burt", "b": "The answer is [CARDINAL], but [PERSON] comes before [PERSON], then it's \"[WORK_OF_ART]\".", "s": "NoStupidQuestions", "t": 1561882953, "v": 1}
+{"a": "The_Burt", "b": "Cause its a truck which was born into this world as a rugged offroader. Again, if this okay why not every fucking [ORGANIZATION] and [LOCATION]. How is this place then any different from /r/4x4.", "s": "Battlecars", "t": 1561898084, "v": 0}
+{"a": "The_Burt", "b": "Which would make it a candidate for r/awesomecarmods or r/4x4, this sub is not either of those subs. This is r/battleCARS", "s": "Battlecars", "t": 1561898122, "v": 1}
+{"a": "The_Burt", "b": "But does it do cheese and meat?", "s": "specializedtools", "t": 1561898244, "v": 0}
+{"a": "The_Burt", "b": "You didn't look up the definition of the word Upgraded, that's what.", "s": "RoastMyCar", "t": 1561898298, "v": 17}
+{"a": "The_Burt", "b": "[ORGANIZATION] is one of those platforms that feels odd without a straight [CARDINAL] imo. But I'd still drive it ;p. Have fun mate.", "s": "projectcar", "t": 1561898475, "v": 1}
+{"a": "The_Burt", "b": "I mean, the [PERSON]. Obviously.", "s": "projectcar", "t": 1561898560, "v": 1}
+{"a": "The_Burt", "b": "Looks like a stick of knock off dollar store deodorant. Which is ironic if you think about it.", "s": "RoastMyCar", "t": 1561898686, "v": 4}
+{"a": "The_Burt", "b": "[ORGANIZATION] ([DATE]). [ORDINAL] pass I kind of dismissed it. I felt it was *about* as good as the previous incarnation. Watched it recently and it actually holds up really well and honestly wish more was done to transition this character and story into the proceeding appearances of [FAC] in the overall [ORGANIZATION].", "s": "marvelstudios", "t": 1561898818, "v": 48}
+{"a": "The_Burt", "b": "The ending of this film pissed me the fuck off. I took it personally. A perfect example of [CARDINAL] of a great film and [CARDINAL] fuck you to the fans.", "s": "movies", "t": 1561899958, "v": 3}
+{"a": "The_Burt", "b": "The very end was a cliffhanger. Like literally [TIME]. I'm talking about [TIME]. They were total garbage.", "s": "movies", "t": 1561912005, "v": 10}
+{"a": "The_Burt", "b": "Well then you should go watch [WORK_OF_ART], thats the movie we're talking about.", "s": "movies", "t": 1561912409, "v": 6}
+{"a": "The_Burt", "b": "That's not a pickup truck. That's a [ORGANIZATION] pail.", "s": "AwesomeCarMods", "t": 1577881889, "v": 1}
+{"a": "The_Burt", "b": "I'm curious how it actually interfaces with whatever its lifting. I don't see forks or claws or hooks or anything at the ends of the arms. I assume the operating isn't using *their* hand. So how does this pick up a couple sacks of cement, or [QUANTITY] drum of water or whatever.", "s": "gadgets", "t": 1577882537, "v": 1}
+{"a": "The_Burt", "b": "In [CARDINAL] almost snarky word: Friction.", "s": "askcarguys", "t": 1577882869, "v": -3}
+{"a": "The_Burt", "b": "[ORDINAL] is a [ORDINAL] [PRODUCT] sedan. [ORDINAL] is a [ORDINAL] Gen Civic sedan *I think*, its pretty mangled and I kind of get [ORDINAL] gen [PRODUCT] vibes from it.", "s": "namethatcar", "t": 1577883339, "v": 1}
+{"a": "The_Burt", "b": "I think it really depends on what the issues are. If its something approachable by a driveway mechanic it might have enough value to be worth selling privately. If its something catastrophic it might be destined for a wrecker.", "s": "askcarguys", "t": 1577955531, "v": 1}
+{"a": "The_Burt", "b": "[DATE] [ORGANIZATION] [PRODUCT]", "s": "whatisthiscar", "t": 1577955602, "v": 1}
+{"a": "The_Burt", "b": "For the genuine \"[WORK_OF_ART]\" experience, head on over to /r/askcarguys . Where every post is a fight that no one wins.", "s": "MechanicAdvice", "t": 1578123096, "v": 1}
+{"a": "The_Burt", "b": "Looks like an homage to an All-In-[CARDINAL] Feminine Topiary Tool.", "s": "RoastMyCar", "t": 1578123229, "v": 1}
+{"a": "The_Burt", "b": "I've never met one, but I am familiar with their work and you could say I'm a big fan.", "s": "RoastMyCar", "t": 1578125004, "v": 1}
+{"a": "The_Burt", "b": "Well that looked absolutely spine shattering.", "s": "AwesomeCarMods", "t": 1578295954, "v": 1}
+{"a": "The_Burt", "b": "I think the term you want is \"[WORK_OF_ART]\".", "s": "whatisthiscar", "t": 1578296231, "v": 2}
+{"a": "The_Burt", "b": "You forgot the personalized plates on the last one, that show [DATE] and chassis code.", "s": "namethatcar", "t": 1578318487, "v": 3}
+{"a": "The_Burt", "b": "Sounds to me like you already know what you ought to do.", "s": "askcarguys", "t": 1578319112, "v": 1}
+{"a": "The_Burt", "b": "It kind of depends on the make and model and whether or not the transmission came out of a vehicle that was *exactly* the same as yours or not. Some vehicles the ECU controls the transmission, some vehicles the transmission has its own brain. Also transmissions are generally used in [CARDINAL] kind of vehicle so even though your car is an \"A\" and uses an \"X\" transmission, and you bought a reman \"X\" transmission it might have come out of a \"B\" car and would thus be programmed for a \"B\" car. So lots of variables and its entirely possible that you will or won't need a reflash.", "s": "askcarguys", "t": 1578319739, "v": 3}
+{"a": "The_Burt", "b": "I didn't know they made [CARDINAL] shots of nitrous for.... whatever that is.", "s": "RoastMyCar", "t": 1578777273, "v": 1}
+{"a": "The_Burt", "b": "Does the [PRODUCT] have a chassis that can be body swapped? I always just assumed they were unibody.", "s": "AwesomeCarMods", "t": 1578838865, "v": 103}
+{"a": "The_Burt", "b": "That is **not** what the lock on the pump handle does. It should only work, locked or not, when inserting in the fuel neck. That shit is broke.", "s": "holdmycosmo", "t": 1578917169, "v": 1}
+{"a": "The_Burt", "b": "Well shit if they can get it that small, just make it a watch and start development on a BT powerbank/screen to pair it with.", "s": "gadgets", "t": 1579077453, "v": 1}
+{"a": "The_Burt", "b": "Matches the top of her head I'm sure.", "s": "Justrolledintotheshop", "t": 1579077482, "v": 1}
+{"a": "The_Burt", "b": "I had pretty much this exact truck, traded a TV for it. It was one of the best trucks I ever had.", "s": "projectcar", "t": 1579099097, "v": 7}
+{"a": "The_Burt", "b": "Its the safest car on the road.", "s": "whatisthiscar", "t": 1579099222, "v": 1}
+{"a": "The_Burt", "b": "Do your fuel filters while you're at it. This sounds similar to an issue I had with a scummy fuel tank. When the truck sits for awhile, any scum or sediment settles to the bottom of the tank, below the pickup filter for the fuel pump. But once its started or moved, that stuff gets kicked up and can clog the pickup filter in the tank, making for a hard start.", "s": "askcarguys", "t": 1579598633, "v": 1}
+{"a": "The_Burt", "b": "Not really a Mad [PERSON] aesthetic. More of a stadium truck style.", "s": "Battlecars", "t": 1579599004, "v": 0}
+{"a": "The_Burt", "b": "Well, in any situation where you can observe the belt/tensioner/pulley in action, the car is stationary with the hood up. Which means its idling at under [CARDINAL] rpm, even if you blip the throttle its still low rpm and not under load. So it very well could still be a belt/tensioner/pulley and it wouldn't hurt to just go ahead and service these items as they're likely due and it may eliminate your problem.\n\nNext most likely squeal in order of probability imo would be the power steering. If you're low on fluid, or have developed a leak, you could be getting cavitation which makes an ungodly racket. I would expect that to have a noticeable *feel* associated with the noise, but who knows. So keep an eye on your [ORGANIZATION] fluid levels, see if you're low or losing fluid or topping it off has any effect on noise or steering feel.", "s": "askcarguys", "t": 1579679831, "v": 1}
+{"a": "The_Burt", "b": "Look at the mug on that bug. He \"*special*\".", "s": "projectcar", "t": 1579692786, "v": 1}
+{"a": "The_Burt", "b": "Mmm, idk. A blower is a blower and a turbo is a turbo. I think \"[WORK_OF_ART]\" does specifically mean supercharger, not forced induction in general. Not even a procharger, which is just a belt driven turbo compressor. Blown is specifically referring to a blower.", "s": "AwesomeCarMods", "t": 1579694000, "v": 2}
+{"a": "The_Burt", "b": "[ORGANIZATION], not a blower.", "s": "AwesomeCarMods", "t": 1579694029, "v": 1}
+{"a": "The_Burt", "b": "\"Upgrade\"", "s": "RoastMyCar", "t": 1579694837, "v": 7}
+{"a": "The_Burt", "b": "Wow, a lot of it fell off.", "s": "RoastMyCar", "t": 1579728284, "v": 3}
+{"a": "The_Burt", "b": "Geez, put a shirt on would ya.", "s": "projectcar", "t": 1579843302, "v": 2}
+{"a": "The_Burt", "b": "Well if you're *that* good at black magic you don't need to worry about a smog test.", "s": "askcarguys", "t": 1579894329, "v": 1}
+{"a": "The_Burt", "b": "We both know you only bought it so you can pretend to be [PRODUCT] on your commute and god damn it, why shouldn't you!?", "s": "RoastMyCar", "t": 1579897645, "v": 1}
+{"a": "The_Burt", "b": "Once you've the knack for it you'll downshift *to* decelerate.", "s": "askcarguys", "t": 1579989482, "v": 1}
+{"a": "The_Burt", "b": "You'd have to get pretty creative with tubbing the rear end to get enough meat for traction.", "s": "whatisthiscar", "t": 1579989694, "v": 6}
+{"a": "The_Burt", "b": "Surely you didn't just call me [PERSON]!", "s": "whatisthiscar", "t": 1580023696, "v": 2}
+{"a": "The_Burt", "b": "The title suggests theres a prolapse joke in here somewhere and the image doesn't disappoint.", "s": "RoastMyCar", "t": 1580024528, "v": 1}
+{"a": "The_Burt", "b": "Hey man don't feel bad, they're just as unreliable as the [PERSON] so its basically the same.", "s": "RoastMyCar", "t": 1580024781, "v": 5}
+{"a": "The_Burt", "b": "Looks clean and stock, is it all original?", "s": "Justrolledintotheshop", "t": 1580024830, "v": 1}
+{"a": "The_Burt", "b": "Def a [PERSON]. Hearse would never need to be that long, tails would be different and I doubt it would have rear doors there.", "s": "WeirdWheels", "t": 1580025963, "v": 9}
+{"a": "The_Burt", "b": "That's true.", "s": "namethatcar", "t": 1580025984, "v": 5}
+{"a": "The_Burt", "b": "Good way to get your tags stolen.", "s": "Justrolledintotheshop", "t": 1580026018, "v": 1}
+{"a": "The_Burt", "b": "Does the [CARDINAL] like boost?", "s": "projectcar", "t": 1580026302, "v": 2}
+{"a": "The_Burt", "b": "IS THAT A [ORGANIZATION]!?\n\nNo. No I'm sorry, it isn't.", "s": "AwesomeCarMods", "t": 1580026476, "v": 2}
+{"a": "The_Burt", "b": "SW30?", "s": "AwesomeCarMods", "t": 1580026528, "v": 3}
+{"a": "The_Burt", "b": "Wow, uglier and more obscure than a [ORGANIZATION]. That's no small feat.", "s": "RoastMyCar", "t": 1580030565, "v": 51}
+{"a": "The_Burt", "b": "Wow thats ugly.", "s": "WeirdWheels", "t": 1580030985, "v": 4}
+{"a": "The_Burt", "b": "Couldn't afford an Escort hu? Man thats rough.", "s": "RoastMyCar", "t": 1580031557, "v": 2}
+{"a": "The_Burt", "b": "You can put those extra updoots in the trunk of your car and stick'm right up your anus.", "s": "RoastMyCar", "t": 1580031678, "v": 0}
+{"a": "The_Burt", "b": "https://www.youtube.com/watch?v=ZmQowojnnUw\n\nSee the white rubber/plastic components. Those eventually wear out. They crack, they become misshapen and the  holes become elongated. Which is where the *slop* comes from. You might be able to get away with just replacing the soft components, if the hard components are in good shape. But if any are bent or corroded, you may as well do the whole lot.", "s": "MechanicAdvice", "t": 1580031964, "v": 1}
+{"a": "The_Burt", "b": "You mean [ORGANIZATION]?", "s": "AwesomeCarMods", "t": 1580102096, "v": 1}
+{"a": "The_Burt", "b": "I mean it says it right there \"[WORK_OF_ART]\".", "s": "namethatcar", "t": 1580109568, "v": 2}
+{"a": "The_Burt", "b": "Right model, wrong [DATE]. Facelift was '[CARDINAL]-14", "s": "namethatcar", "t": 1580109759, "v": -6}
+{"a": "The_Burt", "b": "I just want to know why you aren't rev matching?", "s": "askcarguys", "t": 1580110479, "v": 1}
+{"a": "The_Burt", "b": "You are [PERCENT] wrong, I know because I own one of these and I like how you edited your post to hide the fact that you were [PERCENT] wrong, y' sneaky cunt. Now its true that the [LOCATION] didn't get the YF until [DATE], it doesn't change the fact that the YF was in production since [DATE] and the [ORDINAL] face lift was in [CARDINAL]**.", "s": "namethatcar", "t": 1580113375, "v": -13}
+{"a": "The_Burt", "b": "You're trying to cleverly phrase your argument to dance around the fact that you're [PERCENT] wrong despite the fact that nothing you're  saying disproves what I said. Furthermore if your edit was strictly for posterities sake you would've typed out an \"Edit: etc etc\" Like anyone else does, but you didn't, you changed your original [PERCENT] incorrect text and utterly failed to mention the edit, cause you're a sneaky cunt.", "s": "namethatcar", "t": 1580126974, "v": -7}
+{"a": "The_Burt", "b": "Thank you.", "s": "buildingblocks", "t": 1580139146, "v": 1}
+{"a": "The_Burt", "b": "I'm not angry, I just don't appreciate being told I'm wrong by someone being blatantly dishonest.", "s": "namethatcar", "t": 1580139237, "v": -2}
+{"a": "The_Burt", "b": "Maybe I'm missing something but couldn't there be other, newer, tickets?", "s": "Justrolledintotheshop", "t": 1580146788, "v": 3}
+{"a": "The_Burt", "b": "What other disposable items do you keep and reuse despite how disgusting and trashy it makes you look?", "s": "RoastMyCar", "t": 1580146926, "v": 1}
+{"a": "The_Burt", "b": "Oh, my God, they found me, I don't know how, but they found me.", "s": "whatisthiscar", "t": 1580171025, "v": 2}
+{"a": "The_Burt", "b": "The [earlier Charger nose](https://www.gbfans.com/images/pb/MoparMadness/PART_1289339163595-1.jpg) looks so much better than this, in the context of a [ORGANIZATION] swap. This nose on the [ORGANIZATION] just looks... phallic.", "s": "AwesomeCarMods", "t": 1580371872, "v": 3}
+{"a": "The_Burt", "b": "Stop going to these places, there are lots of super easy ways for them to total your car, it's not worth the [MONEY] or whatever you're saving. Either do it yourself, or go to a proper mechanic.", "s": "askcarguys", "t": 1580372132, "v": 5}
+{"a": "The_Burt", "b": "I like what [PERSON] builds, but I can't stand his videos. [PERSON] is a [PERCENT] broth youtuber, and I would rather run a lemon zester across my taint than listen to him talk.", "s": "AwesomeCarMods", "t": 1580373920, "v": 1}
+{"a": "The_Burt", "b": "They're hiding in the door aisle, gettin' in on.", "s": "Tools", "t": 1580374124, "v": 1}
+{"a": "The_Burt", "b": "It's a dealer option.", "s": "WeirdWheels", "t": 1580406285, "v": 8}
+{"a": "The_Burt", "b": "No cause, see, its bent in [CARDINAL]...", "s": "namethatcar", "t": 1580420873, "v": 5}
+{"a": "The_Burt", "b": "I usually really like these, how'd you get it to look all weak and dorky?", "s": "RoastMyCar", "t": 1580448301, "v": 1}
+{"a": "The_Burt", "b": "Don't yuck someone elses yum you ungrateful bastard. I mean how many opportunities did your parents have to just toss you off into the bushes and drive on, but they kept *you* around didn't they? Show some gratitude.", "s": "whatisthiscar", "t": 1580448696, "v": 2}
+{"a": "The_Burt", "b": "\nCold cranking amps are worth considering if you live where it gets cold. Otherwise don't worry about it. What you want to pay attention to is the physical dimensions of the battery, you need a battery that will *fit* in the hole, and not be too tall. The other and arguably more important thing is the type and orientation of terminals, your positive and negative cables need to actually reach and then attach to the battery posts. \n\nThere are designations that correlate to the shape of a battery and the orientation of its posts, \"group size\" is the term and yours is an [PRODUCT] I believe. I'm sure there is a battery out there which is not an [PRODUCT], that would fit in the hole and could be made to work with your terminals but I couldn't tell you what it is, and it wouldn't necessarily be any better or more affordable. That said there are going to be lots and lots of iterations of [PRODUCT] battery out there and the cost with vary greatly based on what and (mostly) where you buy it. Generally speaking its just more practical to get the best *correct* battery you can. [PRODUCT] is a pretty beefy battery and I'm betting a good price for a decent battery is gonna be $[MONEY]-ish.", "s": "askcarguys", "t": 1580458779, "v": 2}
+{"a": "The_Burt", "b": "Yeah I've been there, batteries are pretty expensive. I was looking at battery size charts that I've used before (with little success mind you) and its weird, [PRODUCT] also known as [CARDINAL], doesn't appear on any of them. It's a valid group size, it's just not on any of these charts for some reason. Makes me think it might be a pretty unique shape, I did notice all the other batteries of similar dimensions were [CARDINAL]\" taller. Maybe the [CARDINAL] is uniquely short.", "s": "askcarguys", "t": 1580472738, "v": 1}
+{"a": "The_Burt", "b": "Its Shitty.", "s": "RoastMyCar", "t": 1580500676, "v": -3}
+{"a": "The_Burt", "b": "It doesn't look like theres a lot done to it, which is usually good. What all have you done to it?", "s": "projectcar", "t": 1591112372, "v": 3}
+{"a": "The_Burt", "b": "100hp? Show us the [CARDINAL] shot or I call BS.", "s": "RoastMyCar", "t": 1591125426, "v": 33}
+{"a": "The_Burt", "b": "Buy the nicest [ORGANIZATION] you can afford, end of conversation.", "s": "askcarguys", "t": 1591125523, "v": 4}
+{"a": "The_Burt", "b": "I don't know what to tell you man, you've had the exact opposite experience of [PERCENT] of the fucking planet. Congratulations. But its hard to take you seriously when your top contenders are a TLX or a Q50. Have fun with constant overpriced maintenance and repairs and meteoric diminishing value. Should be extra fun to deal with while you're in school.", "s": "askcarguys", "t": 1591159045, "v": 1}
+{"a": "The_Burt", "b": "[TIME]? Did you do the hood with a [PRODUCT]?", "s": "RoastMyCar", "t": 1591189062, "v": 6}
+{"a": "The_Burt", "b": "... lonely men.", "s": "projectcar", "t": 1591189253, "v": 1}
+{"a": "The_Burt", "b": "Mine are hung on the edge of a shelf. Straps and cords, next to the chains.", "s": "Tools", "t": 1591189418, "v": 2}
+{"a": "The_Burt", "b": "No.", "s": "projectcar", "t": 1591189447, "v": 7}
+{"a": "The_Burt", "b": "Any car, every car, is only as reliable as its owner. That [PRODUCT] came to you guys [DATE], sounds like the previous owner is more responsible for whatever condition it was in more than [ORGANIZATION] was, on top of thought there isn't a [ORGANIZATION] of a [ORGANIZATION] on the planet that any better fit or finish than a [ORGANIZATION], more often than not it's worse. Just sayin.", "s": "askcarguys", "t": 1591259319, "v": 1}
+{"a": "The_Burt", "b": "You got some... I don't know, some kind of *shit* on your door mate.", "s": "RoastMyCar", "t": 1591259427, "v": 115}
+{"a": "The_Burt", "b": "A Bit? Are you kidding me? This whole thing looks like the little kids jungle gym at the mall, it's terrible.", "s": "Battlecars", "t": 1591259530, "v": -2}
+{"a": "The_Burt", "b": "Well done. Although, and I hate to say it, I actually liked the before more.", "s": "HomeImprovement", "t": 1591302800, "v": -1}
+{"a": "The_Burt", "b": "[PERSON] 5x4.5", "s": "askcarguys", "t": 1591303186, "v": 2}
+{"a": "The_Burt", "b": "Mixed feelings on the slushbox, but its nice to know someones loving her, instead of being neglected somewhere.", "s": "projectcar", "t": 1591515277, "v": 0}
+{"a": "The_Burt", "b": "Might have to shop a little but I can't imagine not having my bench grinder.", "s": "HomeImprovement", "t": 1591515720, "v": 2}
+{"a": "The_Burt", "b": "Where on the planet are you? Asking for the targeting satellite.", "s": "Justrolledintotheshop", "t": 1591554502, "v": 5}
+{"a": "The_Burt", "b": "I have a pretty big head and wear glasses, I know the struggle. I picked up a set of [ORGANIZATION] [PRODUCT] a little while ago and have been very pleased. There are sets that sound better, but a lot more that sound much worse and most importantly none have been as comfortable in my opinion.", "s": "gadgets", "t": 1591620792, "v": 1}
+{"a": "The_Burt", "b": "No such thing as a [CARDINAL] door [ORGANIZATION] btw.", "s": "whatisthiscar", "t": 1591629690, "v": 4}
+{"a": "The_Burt", "b": "Just buy the nicest [PRODUCT] you can afford.", "s": "askcarguys", "t": 1591686165, "v": 10}
+{"a": "The_Burt", "b": "You know those cut off wheels are replaceable right? You can get new ones.", "s": "Tools", "t": 1591686243, "v": 22}
+{"a": "The_Burt", "b": "I'm pretty sure thats a Horse.", "s": "whatisthiscar", "t": 1591690398, "v": 3}
+{"a": "The_Burt", "b": "[PRODUCT]'s are fine, your fuel economy and reliability won't be quite as good. But those trade offs are mostly personal preference.", "s": "askcarguys", "t": 1591718034, "v": 2}
+{"a": "The_Burt", "b": "They're not drastically less reliable or anything, it's still a [ORGANIZATION] after all. You've just got a heavier vehicle with a more complex drivetrain and there a little luxury and more amenities means more stuff to maintain. Like I said [ORGANIZATION] are fine, but if you want the pinnacle of reliable, [PRODUCT] is where its at.", "s": "askcarguys", "t": 1591729661, "v": 2}
+{"a": "The_Burt", "b": "No thanks. Is what you should have said.", "s": "RoastMyCar", "t": 1591729697, "v": 2}
+{"a": "The_Burt", "b": "I mean it says *Camaro* right there on the side.", "s": "whatisthiscar", "t": 1591729920, "v": 6}
+{"a": "The_Burt", "b": "Yeesh, be sure to hose the cabin out real good.", "s": "projectcar", "t": 1591772270, "v": 1}
+{"a": "The_Burt", "b": "Could rent a tiny trailer from uhaul. You'd have to buy the hitch and pay for the install (if you haven't got one) but that's an investment with value down the road.", "s": "askcarguys", "t": 1591772515, "v": 8}
+{"a": "The_Burt", "b": "[CARDINAL] give or take [QUANTITY] depending on what the transaxle is out of.", "s": "WeirdWheels", "t": 1591772684, "v": 1}
+{"a": "The_Burt", "b": "[ORGANIZATION] trans would grenade on its [ORDINAL] launch. But there a company in [LOCATION], their name escapes me at the moment, that makes a ring and pinion kit for [CARDINAL] and [CARDINAL] speed [ORGANIZATION] transmissions that reverses the differential, specifically for rear engine applications.", "s": "WeirdWheels", "t": 1591772823, "v": 2}
+{"a": "The_Burt", "b": "Renders aren't mods. Get this shit out of here.", "s": "AwesomeCarMods", "t": 1591772890, "v": 3}
+{"a": "The_Burt", "b": "Got to be honest, not really feeling the tie. But otherwise, damned impressive work.", "s": "somethingimade", "t": 1591776414, "v": 4}
+{"a": "The_Burt", "b": "I can't remember, is one of the [ORGANIZATION] ones?", "s": "projectcar", "t": 1592052307, "v": 3}
+{"a": "The_Burt", "b": "Pretty sure [LOCATION] got them.", "s": "WeirdWheels", "t": 1592052416, "v": 1}
+{"a": "The_Burt", "b": "Yeah I went and looked it up, all the Mk8s were. It gets confusing cause some of these went from the [PERSON] to the MN12 and the change was almost indiscernible.", "s": "projectcar", "t": 1592073855, "v": 2}
+{"a": "The_Burt", "b": "If you would have to smog it where you live, No. If not, absolutely yes.", "s": "MechanicAdvice", "t": 1592073959, "v": 12}
+{"a": "The_Burt", "b": "Stage 1.3 on a cold day.", "s": "RoastMyCar", "t": 1592080331, "v": 34}
+{"a": "The_Burt", "b": "They just took the hood off.", "s": "whatisthiscar", "t": 1592118639, "v": 29}
+{"a": "The_Burt", "b": "* Lo and Behold.", "s": "gadgets", "t": 1592118675, "v": 2}
+{"a": "The_Burt", "b": "It's a joke asshole, did you forget what fucking sub you're in?", "s": "RoastMyCar", "t": 1592167731, "v": 2}
+{"a": "The_Burt", "b": "[NORP].", "s": "whatisthiscar", "t": 1592167925, "v": -5}
+{"a": "The_Burt", "b": "*Before* wheels, tires and suspensions be sure to do all your services. [ORGANIZATION]/[ORGANIZATION] apparently have a common issue with filthy trans and diff fluid, not sure why, but it effects performance and longevity so be sure to handle that. As for *after* wheels, tires and suspension I would start with [ORGANIZATION]. You won't really pick up power but [ORGANIZATION] engines in general tend to have better throttle response and boxer intake sounds are always nice.", "s": "askcarguys", "t": 1592208966, "v": 11}
+{"a": "The_Burt", "b": "So offer an alternative.", "s": "askcarguys", "t": 1592225058, "v": 2}
+{"a": "The_Burt", "b": "[ORGANIZATION]&gt;Very little gains and too many cheap products out there.", "s": "askcarguys", "t": 1592227512, "v": 4}
+{"a": "The_Burt", "b": "Not shit talking or anything, just being completely honest with you, the [ORGANIZATION] is a pretty terrible platform for a modder/enthusiast to work with. Here's the long and the short of it, none of the existing infrastructure is going to support any real power, and even if it could you'd never really be able to use it. On top of that any of the appropriate changes to the infrastructure to get you where you want to be (engine/tranny/suspension swap) will never be street legal in [LOCATION]. \n\nSo the most practical and efficient approach for you to take, is to move to a different platform. Be that with a [ORDINAL] *project* car, or selling the [ORGANIZATION] and moving to a more reasonable daily/project, however you approach it, pursuing the [ORGANIZATION] just isn't going to work out.", "s": "askcarguys", "t": 1592301073, "v": 2}
+{"a": "The_Burt", "b": "This is inside the house right? Is there any odor or droppings or anything like that? Do you have any insect issues? Flies, gnats, that sort of thing?", "s": "HomeImprovement", "t": 1592375716, "v": 1}
+{"a": "The_Burt", "b": "That was absolutely a joke, why are there flowers and purses in there?", "s": "askcarguys", "t": 1592416847, "v": 1}
+{"a": "The_Burt", "b": "Every time you think of a question, like \"What even **is** horsepower?\" Type that question into [ORGANIZATION]. [PERCENT] of the time it works everytime. Then, the video you just watched will plant the seed for another question and another and another.", "s": "askcarguys", "t": 1592422507, "v": 1}
+{"a": "The_Burt", "b": "[DATE] of the generation did poorly, there were revisions and the scores went up pretty dramatically.", "s": "askcarguys", "t": 1592510420, "v": 1}
+{"a": "The_Burt", "b": "Have you considered turning it in the correct direction?", "s": "MechanicAdvice", "t": 1592510579, "v": -1}
+{"a": "The_Burt", "b": "The wrinkles in the can look they were made while tightening.", "s": "MechanicAdvice", "t": 1592510990, "v": 1}
+{"a": "The_Burt", "b": "Thats a lot of effort to make it a \"[WORK_OF_ART]\". Just put a high back seat and a steering wheel in and it will be better in every way.", "s": "WeirdWheels", "t": 1592548861, "v": 3}
+{"a": "The_Burt", "b": "Between [ORGANIZATION] reliability and AT&amp;Ts service record this can't have [CARDINAL] or [QUANTITY] on it. You still paid too much.", "s": "RoastMyCar", "t": 1592549015, "v": 19}
+{"a": "The_Burt", "b": "It's so bland, it actually took [TIME] to figure out what the fuck it is. Congratulations on the vanilla colonoscopy of cars I guess.", "s": "RoastMyCar", "t": 1592628929, "v": 2}
+{"a": "The_Burt", "b": "A [ORGANIZATION] wrapped around a [PRODUCT]? Who'd-a-thunk?", "s": "IdiotsInCars", "t": 1592650609, "v": 1}
+{"a": "The_Burt", "b": "I had [CARDINAL] of these, with the [FAC] and a [CARDINAL] speed. There is nothing inherently wrong with them, but I wish I had found a [CARDINAL] door. The coupes is impractical to the point of being just silly. The doors are sooooooo long, if someone parks close to you you're screwed. The trunk in the coupe, while impressive in regards to capacity, is ridiculously deep, if your groceries or whatever roll to the front you practically have to climb in there to get them out again. Also, the actual trunk opening is tiny and oddly angled, so you can put relatively small things in it, considering how cavernous the trunk itself is. Also I found it wasn't very comfortable, and I don't know the seats or roofline are all that different from coupe to sedan, but I found there to be little headroom and I had to sit very reclined, you might not have this issue if you're under  [CARDINAL] or so. On the same note, the backseat was unusable for anyone over [QUANTITY] tall, if you have or will ever have a car seat, forget it, not happening.\n\nOther than that, it was relatively quick and reliable, mine had [CARDINAL] on it when I traded it straight up for a [ORGANIZATION].", "s": "askcarguys", "t": 1592682660, "v": 2}
+{"a": "The_Burt", "b": "You know when you feel a shit coming on at a really inopportune moment? Like you're trying to make your flight, or catch a bus or get to work on time and then you get that firm and undeniable alert from your bodies announcer-whose-way-too-close-to-the-mic voice *\"You're going to have to shit very soon.\"* And you're like *God dammit I was on time too, alright let's see how bad this is going to be.* And it turns out to be a [QUANTITY], but its one and done, [CARDINAL] wipe, no drama. And all you can say is like, *well that was far from ideal, but it certainly could have been worse*, and you catch your flight or bus or whatever, and you're a little less comfortable than you could have been, cause you just took a huge shit, but at the same time your like, *At least I'm not trying to wrestle that hog while you check your bags, or the middle of this meeting or bus or whatever.*\n\nThats what this [ORGANIZATION] is. Like, nobody *wants* to deal with this shit, no one was looking forward to.... **this**. But hey, at least you didn't shit your pants.", "s": "RoastMyCar", "t": 1592722451, "v": 67}
+{"a": "The_Burt", "b": "Bought your wheels at [ORGANIZATION] and there still worth twice what the truck is.", "s": "RoastMyCar", "t": 1592722864, "v": 2}
+{"a": "The_Burt", "b": "Look everyone, look at the funny and original joke he thought of. I've never seen or even imagine this kind of humor before. Incredible, please sir, tell us how you do it.", "s": "namethatcar", "t": 1592754126, "v": 7}
+{"a": "The_Burt", "b": "Ooh, a [ORGANIZATION]. Or a [DATE] [ORGANIZATION] [PRODUCT].", "s": "whatisthiscar", "t": 1592761191, "v": 3}
+{"a": "The_Burt", "b": "I [ORDINAL] the [PERSON], looks like an [PRODUCT].", "s": "whatisthiscar", "t": 1592761655, "v": 4}
+{"a": "The_Burt", "b": "Really terrible picture, I'm getting [DATE] [ORGANIZATION] vibes from it. Maybe an [ORGANIZATION]?", "s": "whatisthiscar", "t": 1592762320, "v": 2}
+{"a": "The_Burt", "b": "Does it have reverse?", "s": "AwesomeCarMods", "t": 1592836658, "v": 12}
+{"a": "The_Burt", "b": "You spelled \"no\" wrong.", "s": "AwesomeCarMods", "t": 1592837310, "v": -47}
+{"a": "The_Burt", "b": "You overestimate yourself.", "s": "RoastMyCar", "t": 1592837435, "v": 5}
+{"a": "The_Burt", "b": "You can just say [PERSON], we know its slow.", "s": "RoastMyCar", "t": 1592837487, "v": 10}
+{"a": "The_Burt", "b": "Its just you.", "s": "Battlecars", "t": 1592837567, "v": 15}
+{"a": "The_Burt", "b": "Thank you.", "s": "AwesomeCarMods", "t": 1592884583, "v": 2}
+{"a": "The_Burt", "b": "Just off the top of my head could it have been an [PRODUCT] or [PRODUCT]? Maybe a [ORGANIZATION] edition, or a [ORGANIZATION] badge? Was it a newer or older car? Any other details about the car you can remember?", "s": "askcarguys", "t": 1592893960, "v": 3}
+{"a": "The_Burt", "b": "It's not out of the question if its in really really good condition and has been very very well maintained. But honestly, for a [ORDINAL] car, take your [QUANTITY] or whatever your budget and just buy the nicest [PRODUCT] you can find. Can. Not. Go. Wrong.", "s": "MechanicAdvice", "t": 1592894151, "v": 5}
+{"a": "The_Burt", "b": "Its okay from the back. Still looks like a big flaccid cock from the front.", "s": "AwesomeCarMods", "t": 1592894427, "v": 6}
+{"a": "The_Burt", "b": "Yeah mid-2000s ish sort of excludes [ORGANIZATION] or [PERSON], they were a different breed then, but it fits for [PRODUCT].", "s": "askcarguys", "t": 1592894828, "v": 5}
+{"a": "The_Burt", "b": "Hey, if thats your bag.", "s": "AwesomeCarMods", "t": 1592895108, "v": 5}
+{"a": "The_Burt", "b": "I've never seen a specific law about wearing a helmet in a car on public streets. Probably because thats a terrible idea and you shouldn't do it. You're going to have huge blind spots, no periphereal vision, diminished hearing and yeah you're probably going to draw some unwanted attention. Even if there isn't a specific \"no helmet\" law it probably wouldn't be much of a stretch for them to give a reckless driving citation or something along those lines for doing something so obviously ill advised.\n\nAs for the rest of it, there's no laws regarding a cage and I can't imagine any law enforcement giving you shit about an improved restraint system. You'll have to check local laws about removing your air bag, that's probably illegal, but is often one of those \"only if they happen to see it and don't like you\" kind of things. \n\nNow its not uncommon to cage a street vehicle that also sees track time. The liberal application of pool noodles is usually enough to keep you from bashing your brains out every time you get in and out of the car.", "s": "askcarguys", "t": 1592896178, "v": 7}
+{"a": "The_Burt", "b": "Lab results came back, there was rodent DNA in the wound.\n\nWhat are you telling me rookie, a mouse shot grandma?", "s": "DidntKnowIWantedThat", "t": 1592896525, "v": 40}
+{"a": "The_Burt", "b": "Its hip to be square.", "s": "projectcar", "t": 1592896590, "v": 0}
+{"a": "The_Burt", "b": "**Most** [NORP] aren't in this sub though are they? **Most** [NORP] are never gonna see this post, **Most** [NORP] who *do* see this post, know what a SEAT is. So its pretty silly to treat a SEAT like a rare animal *in here*, isn't it.", "s": "whatisthiscar", "t": 1592912731, "v": 1}
+{"a": "The_Burt", "b": "Congrats and well done sir, she's a looker.", "s": "projectcar", "t": 1592912960, "v": 18}
+{"a": "The_Burt", "b": "[ORGANIZATION] has replaced [ORGANIZATION] as the go to private party [LOCATION] if that helps. To simplify things just look for the nicest [PRODUCT] you can find for the amount of money you want to spend. Perfect [ORDINAL] car.", "s": "askcarguys", "t": 1592913183, "v": 1}
+{"a": "The_Burt", "b": "ts'lotta boogers.", "s": "Justrolledintotheshop", "t": 1592913682, "v": 3}
+{"a": "The_Burt", "b": "Get outta here with this bullshit.", "s": "RoastMyCar", "t": 1592913869, "v": 3}
+{"a": "The_Burt", "b": "Fucking video games, are you serious?", "s": "RoastMyCar", "t": 1592923240, "v": 1}
+{"a": "The_Burt", "b": "and I said [ORGANIZATION], mission accomplished.", "s": "RoastMyCar", "t": 1592926036, "v": 1}
+{"a": "The_Burt", "b": "Oh do they? With your post sitting at negative numebrs? STFU, [ORGANIZATION] with this bullshit, this is not what this sub is for.", "s": "RoastMyCar", "t": 1592926445, "v": 1}
+{"a": "The_Burt", "b": "Its tapered at both ends, to keep your cheeks from clapping, and to cut down on splashes.", "s": "RoastMyCar", "t": 1592970999, "v": 2}
+{"a": "The_Burt", "b": "So let them send the same guy. Without even commenting on how bad the work is, you can't expect anyone to respect your right to ask for a refund if you won't respect the contractors rights too.", "s": "HomeImprovement", "t": 1592971352, "v": 9}
+{"a": "The_Burt", "b": "You've completely missed the point of my comment.", "s": "whatisthiscar", "t": 1593180363, "v": 0}
+{"a": "The_Burt", "b": "Doesn't matter, you don't have the range to get to Nowhere anyways.", "s": "RoastMyCar", "t": 1593180749, "v": 3}
+{"a": "The_Burt", "b": "The pants that are too short, the t-shirt over the dress shirt, the stupid hat, the steaming pile of a car. I applaud the effort but none are enough of a distraction to keep us from noticing you have something on your face, it looks like chocolate milk, or cat shit. Its right below your nose... what is that?", "s": "RoastMyCar", "t": 1593180974, "v": 6}
+{"a": "The_Burt", "b": "That's right gentleman, if you don't have to call your Daddy to change a flat for you, don't even bother.", "s": "projectcar", "t": 1593204465, "v": 58}
+{"a": "The_Burt", "b": "The Sedan of the future was a hatchback? It looks like a [ORGANIZATION], or I guess a [ORGANIZATION] looks like it.", "s": "WeirdWheels", "t": 1593204629, "v": 3}
+{"a": "The_Burt", "b": "Lots of them are still on the road. Proportionately more of them than others from the era. Because they weren't very popular and were never hot-rodded and abused.", "s": "whatisthiscar", "t": 1593204771, "v": 1}
+{"a": "The_Burt", "b": "Before the many medical and surgical breakthroughs of [DATE], this was the only way to make a convincing transition from Male to Female.", "s": "RoastMyCar", "t": 1593205023, "v": 2}
+{"a": "The_Burt", "b": "I traded a TV for [CARDINAL] of these back in [DATE].", "s": "whatisthiscar", "t": 1593248516, "v": 1}
+{"a": "The_Burt", "b": "Looks like an Ass with a wedgie.", "s": "WeirdWheels", "t": 1593317228, "v": 3}
+{"a": "The_Burt", "b": "Looks like an old Viking or [NORP] chassis, like  \"medium duty\" truck. Are those considered [PRODUCT]?", "s": "AwesomeCarMods", "t": 1593327455, "v": 24}
+{"a": "The_Burt", "b": "They seem sturdy enough, but these are more for repo and wrecker guys. These wouldn't be very useful at a shop or at home because they don't have casters.", "s": "MechanicAdvice", "t": 1593329686, "v": 1}
+{"a": "The_Burt", "b": "Clever, but ought to be hinged like tongs.", "s": "Blacksmith", "t": 1593364113, "v": 2}
+{"a": "The_Burt", "b": "Wait, is that a Herkimer Battle Jitney? oh no it's.... I don't know what the fuck that is.", "s": "RoastMyCar", "t": 1593404064, "v": 2}
+{"a": "The_Burt", "b": "Tail lights look a bit like knockoff [CARDINAL] [PRODUCT] tails.", "s": "namethatcar", "t": 1593415998, "v": 3}
+{"a": "The_Burt", "b": "[ORGANIZATION]", "s": "namethatcar", "t": 1593416020, "v": 2}
+{"a": "The_Burt", "b": "Do we need tools that effect the rotation of the [LOCATION]? No. Do we want tools that effect the rotation of the [LOCATION]? What a stupid question.", "s": "Tools", "t": 1593416729, "v": 1}
+{"a": "The_Burt", "b": "Can you talk more about using a transfer case as a coupler? Maybe when you get more into the drivetrain.", "s": "EVConversion", "t": 1593417651, "v": 1}
+{"a": "The_Burt", "b": "Took me a minute.", "s": "Tools", "t": 1593417719, "v": 2}
+{"a": "The_Burt", "b": "As a big [ORGANIZATION] fan, I really don't appreciate you coming in here and reminding people about this dark era in the history of [ORGANIZATION].", "s": "RoastMyCar", "t": 1593452103, "v": 167}
+{"a": "The_Burt", "b": "I'm very interested to see how it goes. Keep up the good work man.", "s": "EVConversion", "t": 1593490760, "v": 2}
+{"a": "The_Burt", "b": "Is there a more detailed record of the build somewhere? Hows it handle compared to before the swap? Do you know the weight balance?", "s": "projectcar", "t": 1593498966, "v": 1}
+{"a": "The_Burt", "b": "Depends on the cop, if they're a petrol head they may be able to identify an engine, or at least note that an engine isn't the one thats meant to be there.\n\nAs far as the consequences that can also depend on the cop. I definitely think you *could* get impounded but in my experience you'll usually get sent to a CARB referee for an inspection. See you're not necessarily in trouble for the swap, you're in trouble for not being emissions compliant, thus the [ORGANIZATION]. If you fail the CARB inspection they'll pull your registration at the very least. You may have the opportunity to get emissions compliant and then CARB certified and *then* re-register the vehicle, but depending on whatever was going on when you got pulled over, you might never see the car again either.", "s": "askcarguys", "t": 1593504757, "v": 13}
+{"a": "The_Burt", "b": "Whats the thing between the circular saw and the right angle driver, below the impact driver?", "s": "Tools", "t": 1593504927, "v": 1}
+{"a": "The_Burt", "b": "Okay, what you have a is [ORGANIZATION] [ORGANIZATION] [PRODUCT], [ORGANIZATION] is a model designation, it refers to this generation of this car. This car is manufactured and sold with different names in different parts of the world, they all fall under that umbrella designation of [ORGANIZATION]. The [ORGANIZATION] is the [ORDINAL] generation of [PRODUCT] sold in [LOCATION], it is based on what [ORGANIZATION] call the [LOCATION], and it is the [ORDINAL] generation of [LOCATION]. The [ORGANIZATION] was produced from [DATE], there was a small facelift done in [DATE].\n\nWhat this means is there is no easily discernible difference between a [DATE] and a [DATE], at ground [CARDINAL] they're the same car inside and out. There can be small differences depending on trim and what options were purchased when the car was originally sold, etc etc. But you're not going to find any meaningful way to identify a [DATE] vs a [DATE].\n\nNow \"Sedan\" is not a model designation, its more of a classification. So if you're googling furiously to figure what a *\"[DATE] [ORGANIZATION] Sedan S 4DR\"*, you're not going to find anything useful. A [PRODUCT] *is* a Sedan, but so is an [PRODUCT] and a [PRODUCT] and a [NORP] and so on and so forth. It just means a hard top with a trunk. As opposed to a convertible or a hatchback or a wagon etc etc)\n\nSo long story short, it sounds like you have a manual for some other [PRODUCT], Maybe a Versa or an [PRODUCT], because they also have alternate body styles, Hatchback or [PRODUCT] respectively, and I imagine their manuals are differentiated accordingly. [This](https://www.ebay.com/itm/2016-Nissan-Sentra-OEM-Owner-s-Manual-Set-W-Case-Used/164208065900?hash=item263b903d6c:g:K0kAAOSwsDlewwYK) is a set of the Manuals that would and should have come with your car, if that helps.", "s": "askcarguys", "t": 1593506793, "v": 1}
+{"a": "The_Burt", "b": "I was leaning towards a dust buster, but I really have no idea lol.", "s": "Tools", "t": 1593506905, "v": 1}
+{"a": "The_Burt", "b": "Not much else to say, do what this guys says and do it like *now*.", "s": "askcarguys", "t": 1593507336, "v": 2}
+{"a": "The_Burt", "b": "* [ORGANIZATION]", "s": "Justrolledintotheshop", "t": 1593507409, "v": 2}
+{"a": "The_Burt", "b": "I think I'd print my son some toys, seems like a practical thing to test and learn with and he'd love it.", "s": "gadgets", "t": 1593523097, "v": 1}
+{"a": "The_Burt", "b": "The caption and the flag make it shitty.", "s": "Battlecars", "t": 1593523754, "v": 5}

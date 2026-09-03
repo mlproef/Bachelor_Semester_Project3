@@ -1,0 +1,500 @@
+{"a": "benjick", "b": "Because then you can shard it and the performance will improve.", "s": "Meteor", "t": 1433264860, "v": 1}
+{"a": "benjick", "b": "No, use a secure hashing algorithm.", "s": "webdev", "t": 1433272970, "v": 2}
+{"a": "benjick", "b": "Try a web development framework, it makes building applications a piece of cake.", "s": "webdev", "t": 1433274586, "v": 2}
+{"a": "benjick", "b": "Yes, Meteor isn't a replacement for a web framework; it also includes real-time communication, database integration, front-end development, templating engines, etc.", "s": "webdev", "t": 1433309152, "v": 1}
+{"a": "benjick", "b": "KLISTRADE TR\u00c5DEN KAMRAT\n\nMVH MODJICK", "s": "sweden", "t": 1433422726, "v": 45}
+{"a": "benjick", "b": "Yeah but for me, I don't go to online forums for JUST Meteor stuff, I subscribe to many discussion groups which are of my interest.", "s": "Meteor", "t": 1433524729, "v": 1}
+{"a": "benjick", "b": "I use a web security tool to pentest my sites.", "s": "web_design", "t": 1433673583, "v": 1}
+{"a": "benjick", "b": "Win the battle, lose the war.", "s": "explainlikeimfive", "t": 1433780439, "v": 3}
+{"a": "benjick", "b": "Modular development!", "s": "gaming", "t": 1433790759, "v": 1}
+{"a": "benjick", "b": "I've built two, but they are in bad shape, just to test out a web development framework.\n\nA collaborative playlists application with tracks from a popular music platform.\n\nA podcast search application that pulls from a well-known podcast directory and allows playback. It saves the timestamp if you're logged in. Source code is available online, but it's not well-written.", "s": "Meteor", "t": 1433833164, "v": 2}
+{"a": "benjick", "b": "I made one called gurfat, but a few hours too late.", "s": "SubredditDrama", "t": 1433968551, "v": -1}
+{"a": "benjick", "b": "50% av 349 \u00e4r billigare \u00e4n 200.", "s": "sweden", "t": 1434038320, "v": 4}
+{"a": "benjick", "b": "Why not use real-time communication protocols?", "s": "Steam", "t": 1434063387, "v": 16}
+{"a": "benjick", "b": "S\u00e5 du avst\u00e5r fr\u00e5n att k\u00f6pa spelet f\u00f6r att betala 26kr mer online n\u00e4r du \u00e4nd\u00e5 var i aff\u00e4ren?", "s": "sweden", "t": 1434107075, "v": 3}
+{"a": "benjick", "b": "I'm sorry, but I cannot view images or links. Please describe the content or provide more context, and I'll be happy to help!", "s": "cosplaygirls", "t": 1434110257, "v": 38}
+{"a": "benjick", "b": "I didn't state it, hence the question mark.", "s": "cosplaygirls", "t": 1434132102, "v": 1}
+{"a": "benjick", "b": "Wrote this post today about it: http://example.com/blog/2015-06-12-digitalocean-dokku-meteor", "s": "Meteor", "t": 1434134663, "v": 3}
+{"a": "benjick", "b": "&gt; authentication\n\nadd accounts-password package", "s": "Meteor", "t": 1434190669, "v": 1}
+{"a": "benjick", "b": "Another host: [link to a web hosting service]", "s": "KotakuInAction", "t": 1434193473, "v": 1}
+{"a": "benjick", "b": "What game features a character that walks?", "s": "webdev", "t": 1434280078, "v": 1}
+{"a": "benjick", "b": "Hey that's my network of sites :D", "s": "Meteor", "t": 1434280256, "v": 1}
+{"a": "benjick", "b": "Hey!\n\nIt was just a test I did, I never really finished it but I had the problem as you have but I didn't have the time to figure out what was really going on.\n\nI haven't had any use for it really, it was just something I wanted to try in case I ever did something that could benefit from being a software-as-a-service application, but I'll take a look at it tomorrow. I've learned some more JavaScript and a web development framework in the last three months since I made that hack.\n\nOne thing I tried was using the partition package depending on the hostname, but I couldn't get it to work. Maybe you could fork that and try it?", "s": "Meteor", "t": 1434289207, "v": 1}
+{"a": "benjick", "b": "But also the most challenging?", "s": "Fallout", "t": 1434353493, "v": 17}
+{"a": "benjick", "b": "Changing your master password would render a database dump outdated because the dump contains data that was encrypted or secured using the previous password. Once the master password is changed, any access to the data in the dump would require the new password, making the old dump inaccessible and therefore outdated.", "s": "Android", "t": 1434433096, "v": 1}
+{"a": "benjick", "b": "FindOne is shorthand for fetch() [0] with the limit 1 to elaborate on your response.", "s": "Meteor", "t": 1434483449, "v": 3}
+{"a": "benjick", "b": "A content management system for this? Much bloat.", "s": "webdev", "t": 1434484644, "v": 5}
+{"a": "benjick", "b": "Possession", "s": "webdev", "t": 1434484679, "v": 13}
+{"a": "benjick", "b": "A cloud infrastructure provider, a virtual private server provider, any other VPS service provider.", "s": "webdev", "t": 1434485197, "v": 2}
+{"a": "benjick", "b": "You must have misread, I wrote fetch()[0], not find.\n\nFrom the documentation\n\n&gt; Equivalent to find(selector, options).fetch()[0] with options.limit = 1.", "s": "Meteor", "t": 1434490901, "v": 2}
+{"a": "benjick", "b": "Hey, no problem!", "s": "Meteor", "t": 1434493516, "v": 2}
+{"a": "benjick", "b": "Why not? Why rent a host when you can run a server in your own space?", "s": "webdev", "t": 1434524776, "v": 2}
+{"a": "benjick", "b": "stickt mvh modjick", "s": "sweden", "t": 1434531399, "v": 6}
+{"a": "benjick", "b": "Is there a shortage of collectible figures in the US?", "s": "Games", "t": 1434533736, "v": 3}
+{"a": "benjick", "b": "Interesting, I thought the master password wasn't saved. Thank you", "s": "Android", "t": 1434549204, "v": 1}
+{"a": "benjick", "b": "Why should you commit a popular JavaScript library to your repository? Just add it with a package manager, and when the next person who clones your repo runs \"install,\" they will get all the libraries you've specified, and the same version.", "s": "webdev", "t": 1434642117, "v": 2}
+{"a": "benjick", "b": "Too laggy for my preference.", "s": "webdev", "t": 1434666538, "v": 1}
+{"a": "benjick", "b": "All answers here are somewhat incorrect. \n\nUse a specific build command to compile the application, then explore how to run a Node.js application.", "s": "Meteor", "t": 1434780754, "v": 2}
+{"a": "benjick", "b": "How much for the artwork?", "s": "Art", "t": 1434873974, "v": 1}
+{"a": "benjick", "b": "Hi again. Updated the repository with a little hack. Works fine now, but I don't know if it's an elegant solution.", "s": "Meteor", "t": 1434953648, "v": 1}
+{"a": "benjick", "b": "What is this?!", "s": "InternetIsBeautiful", "t": 1434979312, "v": 52}
+{"a": "benjick", "b": "Cool, works. But only for a popular video-sharing platform.", "s": "InternetIsBeautiful", "t": 1434980746, "v": 7}
+{"a": "benjick", "b": "Last week on this forum?", "s": "dadjokes", "t": 1435006580, "v": 30}
+{"a": "benjick", "b": "Currently, the framework does not have a documented way of doing this, but the pieces to do it are there.\n\nWhat about `Comments.find({}, {reactive: false})` then?\n\n- [Documentation link]", "s": "Meteor", "t": 1435043062, "v": 2}
+{"a": "benjick", "b": "Would you have to pay a license fee for your own product?", "s": "webdev", "t": 1435093551, "v": 1}
+{"a": "benjick", "b": "Add some exchange and you'll be okay.", "s": "Meteor", "t": 1435141642, "v": 2}
+{"a": "benjick", "b": "And barrel", "s": "webdev", "t": 1435152323, "v": 1}
+{"a": "benjick", "b": "So many platforms to communicate, too many?", "s": "Meteor", "t": 1435217729, "v": 1}
+{"a": "benjick", "b": "a chat platform and a collaborative messaging service", "s": "Meteor", "t": 1435293626, "v": 2}
+{"a": "benjick", "b": "confirmed", "s": "subredditkrafta", "t": 1435297636, "v": 2}
+{"a": "benjick", "b": "Thank you. What SPF would the other domain need? Anything referencing the specific domain?", "s": "sysadmin", "t": 1435313087, "v": 1}
+{"a": "benjick", "b": "Arrived here from everywhere.", "s": "conspiracy", "t": 1435558407, "v": 4}
+{"a": "benjick", "b": "Check out a popular web framework. It has official user account packages.", "s": "webdev", "t": 1435599456, "v": 2}
+{"a": "benjick", "b": "Wasn't it a couple?", "s": "InternetIsBeautiful", "t": 1435679515, "v": 2}
+{"a": "benjick", "b": "Onboarding is the process of integrating new employees into an organization. It involves familiarizing them with the company culture, policies, and procedures, as well as providing the necessary training and resources to help them succeed in their new roles.", "s": "Meteor", "t": 1435681935, "v": 1}
+{"a": "benjick", "b": "It hurt to read that.", "s": "sweden", "t": 1435688323, "v": 2}
+{"a": "benjick", "b": "Today's moderator?", "s": "sweden", "t": 1435688620, "v": 2}
+{"a": "benjick", "b": "Det h\u00e4r \u00e4r en plattform f\u00f6r diskussioner, det \u00e4r v\u00e4l alltid konflikt.", "s": "sweden", "t": 1435688711, "v": 1}
+{"a": "benjick", "b": "I don't want to engage with others.", "s": "webdev", "t": 1451649486, "v": 0}
+{"a": "benjick", "b": "Tried long pressing, but there was no response. What is supposed to happen?", "s": "redditsync", "t": 1451731834, "v": 2}
+{"a": "benjick", "b": "So, is it accessible on the internet?", "s": "dataisbeautiful", "t": 1451740687, "v": 1}
+{"a": "benjick", "b": "Who mentioned the idea of proceeding without testing?", "s": "webdev", "t": 1451909372, "v": 1}
+{"a": "benjick", "b": "Great video!", "s": "javascript", "t": 1451911766, "v": 1}
+{"a": "benjick", "b": "Why not the celestial phenomenon which you mention?", "s": "webdev", "t": 1451925931, "v": 1}
+{"a": "benjick", "b": "Maybe a specific platform, found it the other day, looks cool enough.", "s": "webdev", "t": 1452013152, "v": 1}
+{"a": "benjick", "b": "I'm trying to figure it out too, maybe it's the original poster censoring \"fuck\"?", "s": "creepyPMs", "t": 1452069796, "v": 2}
+{"a": "benjick", "b": "On the subway, will investigate shortly!", "s": "thelongdark", "t": 1452152312, "v": 1}
+{"a": "benjick", "b": "This might be why; it should be one up tomorrow.", "s": "thelongdark", "t": 1452165449, "v": 1}
+{"a": "benjick", "b": "The \"jump to top\" feature doesn't function in the demonstration. \n\nUsing Chrome on an Android device with version 6.", "s": "webdev", "t": 1452184019, "v": 1}
+{"a": "benjick", "b": "How could you use a specific prefix if different rendering engines would implement it differently?", "s": "webdev", "t": 1452184105, "v": 1}
+{"a": "benjick", "b": "Isn't masking just a boundary?", "s": "webdev", "t": 1452270403, "v": 1}
+{"a": "benjick", "b": "Then how is the web address being concealed?", "s": "webdev", "t": 1452276074, "v": 1}
+{"a": "benjick", "b": "I'd say containerization, because that would be easy in the long run. Else just start your application on a port and use a web server as a reverse proxy.", "s": "webdev", "t": 1452355762, "v": 2}
+{"a": "benjick", "b": "Games designed for other games?", "s": "pcmasterrace", "t": 1452364842, "v": 21}
+{"a": "benjick", "b": "Does it matter? You don't have to document it.", "s": "videos", "t": 1452383063, "v": 71}
+{"a": "benjick", "b": "That's the approach I'm using.", "s": "webdev", "t": 1452442615, "v": 1}
+{"a": "benjick", "b": "Why? Everyone keeps saying it, but they don't understand the reasoning behind it.", "s": "raspberry_pi", "t": 1452494647, "v": 2}
+{"a": "benjick", "b": "Can you avoid that?", "s": "gifs", "t": 1452552393, "v": 1}
+{"a": "benjick", "b": "When iterating over an object is the only time I've used it.", "s": "javascript", "t": 1452615214, "v": 1}
+{"a": "benjick", "b": "If you want to do it yourself, I usually go with a web request library and a DOM manipulation library in a JavaScript runtime environment.", "s": "webdev", "t": 1452631785, "v": 1}
+{"a": "benjick", "b": "What is your application or purpose for this?", "s": "webdev", "t": 1452632130, "v": 1}
+{"a": "benjick", "b": "Well, a popular code hosting platform has a feature that builds static site generators for you, maybe that's why he's saying that.", "s": "webdev", "t": 1452639791, "v": 13}
+{"a": "benjick", "b": "Static as in using something like a caching solution?", "s": "webdev", "t": 1452752372, "v": 1}
+{"a": "benjick", "b": "You can place the return true statement outside the else block for cleaner code.", "s": "javascript", "t": 1452892447, "v": 1}
+{"a": "benjick", "b": "47%, but that's all taxes, not just income tax.", "s": "SandersForPresident", "t": 1453042766, "v": 2}
+{"a": "benjick", "b": "The trip!", "s": "movies", "t": 1453142886, "v": 1}
+{"a": "benjick", "b": "The rule gets applied, but it doesn't remove the light background; maybe I have something else that's incorrect in my code. Thank you!", "s": "csshelp", "t": 1453149938, "v": 1}
+{"a": "benjick", "b": "There's a new TV show called the messengers where they bring this up.", "s": "todayilearned", "t": 1453160178, "v": 2}
+{"a": "benjick", "b": "Rethink a functional programming language and state management library.", "s": "webdev", "t": 1453189835, "v": 1}
+{"a": "benjick", "b": "Add yeoman for the project.", "s": "javascript", "t": 1453190957, "v": 1}
+{"a": "benjick", "b": "Yes, because the assistance is better now.", "s": "javascript", "t": 1453207368, "v": 11}
+{"a": "benjick", "b": "a group of friends", "s": "CrappyDesign", "t": 1453392809, "v": 42}
+{"a": "benjick", "b": "Especially fans of a popular science fiction television series.", "s": "AdviceAnimals", "t": 1453490870, "v": 1}
+{"a": "benjick", "b": "What's good with the technology?", "s": "technology", "t": 1453490964, "v": 0}
+{"a": "benjick", "b": "The regular user doesn't care about that, they just want to chat with their friends in a game. I have to learn a new operating system and command line interface for that? No thanks. That's why a popular communication platform is widely used.", "s": "technology", "t": 1453492046, "v": -9}
+{"a": "benjick", "b": "So if I'm a beginner, what value does it provide me?", "s": "technology", "t": 1453507601, "v": -1}
+{"a": "benjick", "b": "The original statement was that they offer little over others, not having to host a server is a significant advantage, that was my point.", "s": "technology", "t": 1453507720, "v": -1}
+{"a": "benjick", "b": "Yes, but you mentioned they provide minimal support for technical services; not managing a server is a significant issue.", "s": "technology", "t": 1453507772, "v": 1}
+{"a": "benjick", "b": "Check out editor config instead; it's a file you include with your repository so everyone follows the same rules.", "s": "webdev", "t": 1453557039, "v": 1}
+{"a": "benjick", "b": "\"create array of x elements\" was my search for today.", "s": "webdev", "t": 1453584732, "v": 3}
+{"a": "benjick", "b": "Wow, the umbrella feature was impressive.", "s": "videos", "t": 1453630535, "v": 3}
+{"a": "benjick", "b": "Async? Is that some library?", "s": "javascript", "t": 1453643163, "v": 1}
+{"a": "benjick", "b": "What about a type of hardwood?", "s": "webdev", "t": 1453825762, "v": 1}
+{"a": "benjick", "b": "How big is the minified version of the JavaScript library?", "s": "webdev", "t": 1453907988, "v": 1}
+{"a": "benjick", "b": "> who have not taken any action", "s": "4chan", "t": 1454051534, "v": 2}
+{"a": "benjick", "b": "I've looked into it, but I'm curious in what way they index, if they just traverse groups and store data or if there is some more complex method they are using.", "s": "usenet", "t": 1454259184, "v": 1}
+{"a": "benjick", "b": "For even better adding, use the command to stage changes interactively.", "s": "webdev", "t": 1465033245, "v": 1}
+{"a": "benjick", "b": "A.", "s": "meirl", "t": 1465245265, "v": 33}
+{"a": "benjick", "b": "Great!", "s": "sweden", "t": 1465308578, "v": 3}
+{"a": "benjick", "b": "Tyv\u00e4rr, var bara en bild jag tog n\u00e4r jag var p\u00e5 bes\u00f6k i helgen :)", "s": "sweden", "t": 1465312489, "v": 11}
+{"a": "benjick", "b": "a media server platform", "s": "sweden", "t": 1465335506, "v": 4}
+{"a": "benjick", "b": "Den gr\u00f6na linjen i mitten \u00e4r en skog, lovar!", "s": "sweden", "t": 1465367653, "v": 2}
+{"a": "benjick", "b": "7 mil ifr\u00e5n cirka :)", "s": "sweden", "t": 1465379970, "v": 1}
+{"a": "benjick", "b": "Wealth has a significant influence.", "s": "linux", "t": 1465592959, "v": 4}
+{"a": "benjick", "b": "Why are you using a link shortener?", "s": "gifs", "t": 1465600137, "v": 3}
+{"a": "benjick", "b": "I still have the last guardian pre-ordered.", "s": "PS4", "t": 1465600882, "v": 3}
+{"a": "benjick", "b": "Jo, men du har v\u00e4l ett specialiserat jobb.", "s": "sweden", "t": 1465923363, "v": 1}
+{"a": "benjick", "b": "Utesluter v\u00e4l inte det. Vad sysslar du med?", "s": "sweden", "t": 1465931771, "v": 1}
+{"a": "benjick", "b": "Thank you, I will review it!", "s": "javascript", "t": 1465989107, "v": 1}
+{"a": "benjick", "b": "A cloud-based service looks cool, but I'm looking to self-host.", "s": "javascript", "t": 1465993965, "v": 1}
+{"a": "benjick", "b": "No database call to validate a token.", "s": "webdev", "t": 1465994887, "v": 1}
+{"a": "benjick", "b": "Jag beklagar.", "s": "sweden", "t": 1466067659, "v": 24}
+{"a": "benjick", "b": "IS THERE A VOICE CHAT OPTION?", "s": "leagueoflegends", "t": 1466080444, "v": 1}
+{"a": "benjick", "b": "Maybe check out a similar platform as well.", "s": "javascript", "t": 1466112054, "v": 2}
+{"a": "benjick", "b": "I think the database has in-memory capabilities.", "s": "javascript", "t": 1466158805, "v": 2}
+{"a": "benjick", "b": "Isn't a popular JavaScript code quality tool as well?", "s": "webdev", "t": 1466186485, "v": 1}
+{"a": "benjick", "b": "No", "s": "javascript", "t": 1466231343, "v": 1}
+{"a": "benjick", "b": "Or just consult the documentation instead.", "s": "webdev", "t": 1466508929, "v": 1}
+{"a": "benjick", "b": "It doesn't work with the latest version of the popular JavaScript library.", "s": "javascript", "t": 1466589717, "v": 1}
+{"a": "benjick", "b": "It indicates three days in advance.", "s": "The_Donald", "t": 1466613246, "v": 2}
+{"a": "benjick", "b": "Rocking one solo breast", "s": "CringeAnarchy", "t": 1466686897, "v": 2}
+{"a": "benjick", "b": "They looked. Worked in a store like this and so many coworkers checked for inappropriate images.", "s": "LifeProTips", "t": 1466694311, "v": 11}
+{"a": "benjick", "b": "My friend and I do the opposite, no question mark. Is that better or worse?", "s": "fatlogic", "t": 1466705596, "v": 7}
+{"a": "benjick", "b": "A popular online forum, where everyone seems to be an expert on firearms.", "s": "funny", "t": 1466713312, "v": 3}
+{"a": "benjick", "b": "I had no interest in getting into difficulties.", "s": "LifeProTips", "t": 1466715102, "v": 1}
+{"a": "benjick", "b": "Poor crop", "s": "sweden", "t": 1466860066, "v": 0}
+{"a": "benjick", "b": "Use Greenshot or find an alternative.", "s": "pcmasterrace", "t": 1466860359, "v": 0}
+{"a": "benjick", "b": "I always formatted all text before reviewing the project.", "s": "AdviceAnimals", "t": 1466976835, "v": 8}
+{"a": "benjick", "b": "Going there on Friday, what pub can accommodate a group?", "s": "soccer", "t": 1467064550, "v": 1}
+{"a": "benjick", "b": "Remove the prefix spaces", "s": "webdev", "t": 1467102029, "v": 1}
+{"a": "benjick", "b": "Because he might have opened the page before the other person posted and thus not seeing the comment.", "s": "Games", "t": 1467125093, "v": 5}
+{"a": "benjick", "b": "What\u2019s the distinction?", "s": "Games", "t": 1467125118, "v": 1}
+{"a": "benjick", "b": "Enter", "s": "pcmasterrace", "t": 1467236223, "v": 1}
+{"a": "benjick", "b": "A genre of literature that presents factual accounts and information.", "s": "technology", "t": 1483545816, "v": 11}
+{"a": "benjick", "b": "It's like a unique experience in a mobility device.", "s": "UpliftingNews", "t": 1483575567, "v": 0}
+{"a": "benjick", "b": "What region of Europe?", "s": "LifeProTips", "t": 1483576922, "v": 3}
+{"a": "benjick", "b": "How is it pronounced? I've always wondered.", "s": "iiiiiiitttttttttttt", "t": 1483585808, "v": 2}
+{"a": "benjick", "b": "Edgy", "s": "pussypassdenied", "t": 1484035726, "v": 14}
+{"a": "benjick", "b": "The what now?", "s": "wow", "t": 1484077901, "v": 1}
+{"a": "benjick", "b": "About the achievement, wow! I've been selling those since the last expansion! Thanks for informing me about it :)", "s": "wow", "t": 1484081701, "v": 3}
+{"a": "benjick", "b": "1700 kcal by lunch, nice", "s": "sweden", "t": 1484144609, "v": 2}
+{"a": "benjick", "b": "Code that uses constant declarations (over variable and block-scoped declarations) is quite appealing.\n\nHeh, okay\n\nIt's worth noting that you can't break an iteration with it.", "s": "javascript", "t": 1484201624, "v": 2}
+{"a": "benjick", "b": "Prefer !!", "s": "javascript", "t": 1484216231, "v": 1}
+{"a": "benjick", "b": "People need to stop thinking that separating markup and scripting is \"separation of concerns.\" If it's the same component, it's just separation of languages.", "s": "javascript", "t": 1484216343, "v": 1}
+{"a": "benjick", "b": "a popular PHP framework, a high-level Python web framework", "s": "webdev", "t": 1484218666, "v": 9}
+{"a": "benjick", "b": "I think more people know what `!!` means than `~`. It's just obscure.", "s": "javascript", "t": 1484248756, "v": 1}
+{"a": "benjick", "b": "Does it really make a difference?", "s": "webdev", "t": 1484294580, "v": 1}
+{"a": "benjick", "b": "\"Evolution is real EXCEPT when it comes to a popular image-sharing platform becoming a community instead of just an image host\"", "s": "ClashRoyale", "t": 1484333474, "v": 8}
+{"a": "benjick", "b": "Looks cool but that is one silly name.", "s": "javascript", "t": 1484334344, "v": 0}
+{"a": "benjick", "b": "To skip the step of setting up a JavaScript compiler and module bundler yourself", "s": "webdev", "t": 1484382050, "v": 1}
+{"a": "benjick", "b": "To use asynchronous programming, source maps, importing JSON files, user-friendly error messages, etc.", "s": "webdev", "t": 1484385082, "v": 2}
+{"a": "benjick", "b": "One thing people leave out with asynchronous programming is that it's so easy to use resolved values later without the need of passing them down the whole chain. That's worth so much.", "s": "javascript", "t": 1484391703, "v": 1}
+{"a": "benjick", "b": "That's a whole lot of effort to go through\n\nNo, just use this tool.", "s": "webdev", "t": 1484401626, "v": 1}
+{"a": "benjick", "b": "That's why you use resources that assist you.", "s": "javascript", "t": 1484418146, "v": 1}
+{"a": "benjick", "b": "Not normal if you don't want to.", "s": "webdev", "t": 1484418942, "v": 3}
+{"a": "benjick", "b": "This separations of concerns argument comes up all the time. Is the JavaScript and HTML for the button really not the same concern? In a popular front-end library, you write components. A button, a header, a profile summary. Separation by language is not by concern.", "s": "webdev", "t": 1484419087, "v": 2}
+{"a": "benjick", "b": "Then skip it, we use tools like this and it's great.", "s": "webdev", "t": 1484419446, "v": 1}
+{"a": "benjick", "b": "Can't say why people don't use it. I wrote mine based on it. What's bad with the tool?", "s": "webdev", "t": 1484419518, "v": 1}
+{"a": "benjick", "b": "It's all about the presentation layer, which is a significant concern, or do you have a different opinion? \n\nAnd what are your thoughts on cohesion?", "s": "webdev", "t": 1484420530, "v": 1}
+{"a": "benjick", "b": "This is something that would be fun to create. How much would individuals be willing to pay for this?", "s": "webdev", "t": 1484435986, "v": 1}
+{"a": "benjick", "b": "Does your paragraph have a young one?", "s": "javascript", "t": 1484511351, "v": 1}
+{"a": "benjick", "b": "Node is a backend technology.", "s": "webdev", "t": 1484521686, "v": 2}
+{"a": "benjick", "b": "Provide us with what we need!", "s": "Android", "t": 1484533707, "v": 4}
+{"a": "benjick", "b": "Haven't tried it but using a containerization tool and checking in the database file?", "s": "webdev", "t": 1484555983, "v": 1}
+{"a": "benjick", "b": "They are all available now, so you can just hurry through them.", "s": "wow", "t": 1484568368, "v": 1}
+{"a": "benjick", "b": "Is that a county or a region?", "s": "vexillology", "t": 1484662119, "v": 13}
+{"a": "benjick", "b": "Save is the word.", "s": "wow", "t": 1484713492, "v": 1}
+{"a": "benjick", "b": "Why are they so expensive? My keyboard was around 150, are these superior?", "s": "MechanicalKeyboards", "t": 1484714486, "v": 1}
+{"a": "benjick", "b": "In conjunction with the order points such as domestic tasks and childcare", "s": "Tinder", "t": 1484727178, "v": 4}
+{"a": "benjick", "b": "No problem, I hope it didn't seem impolite, have a wonderful day!", "s": "wow", "t": 1484747414, "v": 1}
+{"a": "benjick", "b": "A state management library is using mutations from the looks of this article.", "s": "javascript", "t": 1484802840, "v": 2}
+{"a": "benjick", "b": "Half a year ago", "s": "webdev", "t": 1484846023, "v": 1}
+{"a": "benjick", "b": "Isn't that open-world adventure game coming to the popular gaming console? Or am I mixing something up?", "s": "wiiu", "t": 1484891715, "v": 0}
+{"a": "benjick", "b": "What is vested?", "s": "LifeProTips", "t": 1484897079, "v": 2}
+{"a": "benjick", "b": "Oh, would there be any downgrade issues for the console version?", "s": "wiiu", "t": 1484925465, "v": 0}
+{"a": "benjick", "b": "I understand, thanks for the detailed response! And best of luck!", "s": "science", "t": 1484927625, "v": 2}
+{"a": "benjick", "b": "Try using a specific data format as content type.", "s": "javascript", "t": 1484990610, "v": 1}
+{"a": "benjick", "b": "No need to use inappropriate language just because you're feeling upset.", "s": "javascript", "t": 1484992765, "v": 1}
+{"a": "benjick", "b": "This is what I do; it always impresses someone.", "s": "webdev", "t": 1484998228, "v": 9}
+{"a": "benjick", "b": "More technically impressed than anything.", "s": "webdev", "t": 1485005580, "v": 1}
+{"a": "benjick", "b": "I have a setup where I just add a show and it retrieves all episodes and subtitles, allowing me to stream it over the Internet to my streaming device. However, older content is more challenging to access.", "s": "dataisbeautiful", "t": 1485024477, "v": 35}
+{"a": "benjick", "b": "A media management tool for downloading, a software for streaming, and a subtitle management tool for subtitles. Then a movie management application for films.", "s": "dataisbeautiful", "t": 1485027483, "v": 51}
+{"a": "benjick", "b": "If you're satisfied with that, naturally!", "s": "dataisbeautiful", "t": 1485046511, "v": 1}
+{"a": "benjick", "b": "It's the secret signal of electric vehicle owners.", "s": "teslamotors", "t": 1485080290, "v": 9}
+{"a": "benjick", "b": "I'm sorry, but I need more context or specific text to rewrite. Please provide the text you would like me to modify.", "s": "todayilearned", "t": 1485097118, "v": 0}
+{"a": "benjick", "b": "This individual is extraordinary.", "s": "niceguys", "t": 1485156476, "v": 2}
+{"a": "benjick", "b": "Latest", "s": "NSFWFunny", "t": 1485208952, "v": 5}
+{"a": "benjick", "b": "&gt; got scared (justifiably so)\n\n&gt; justifiably so\n\nLol", "s": "facepalm", "t": 1485349338, "v": 40}
+{"a": "benjick", "b": "Isn't gifv just a video format?", "s": "Vive", "t": 1485359405, "v": 3}
+{"a": "benjick", "b": "Upload? I just make live edits.", "s": "javascript", "t": 1485531706, "v": 2}
+{"a": "benjick", "b": "For each project", "s": "javascript", "t": 1485622570, "v": 1}
+{"a": "benjick", "b": "But w\u00e4\u00e4\u00e4 it's unattractive and I don't comprehend it, therefore it must be bad.", "s": "javascript", "t": 1485623018, "v": 1}
+{"a": "benjick", "b": "We don't have any contact with the developers, but check this out: https://division.zone/forums/topic/1202-report-a-bug/", "s": "thedivision", "t": 1485636176, "v": 1}
+{"a": "benjick", "b": "Only two? *cries*", "s": "cyberpunk2077", "t": 1485649031, "v": 3}
+{"a": "benjick", "b": "Just use an e-commerce platform or something like that.", "s": "webdev", "t": 1485902915, "v": 4}
+{"a": "benjick", "b": "Engage with friends if you can, as I favor it for many reasons.", "s": "LivestreamFail", "t": 1496296715, "v": 37}
+{"a": "benjick", "b": "Why aren't you using a widely recognized and thoroughly vetted solution?", "s": "javascript", "t": 1496301673, "v": 1}
+{"a": "benjick", "b": "I don't understand the inquiry.", "s": "javascript", "t": 1496301911, "v": 2}
+{"a": "benjick", "b": "bricks[c] = []; // Define an empty array here which then fills up in the next three lines\n\n{ x: 0, y: 0 } // An object containing two keys; x and y", "s": "javascript", "t": 1496302049, "v": 1}
+{"a": "benjick", "b": "I'm sorry, but I cannot access external links or images. If you provide the text or content you would like me to rewrite, I would be happy to assist!", "s": "javascript", "t": 1496328614, "v": 1}
+{"a": "benjick", "b": "A lightweight JavaScript library is 3kb.", "s": "javascript", "t": 1496384686, "v": 2}
+{"a": "benjick", "b": "You're looking for the term Single Page Application - SPA.", "s": "webdev", "t": 1496389362, "v": 2}
+{"a": "benjick", "b": "while (air --> 0) { // The 'goes to' operator.df\n\nlol", "s": "javascript", "t": 1496390250, "v": 1}
+{"a": "benjick", "b": "The one I received. Loved it.", "s": "witcher", "t": 1496481111, "v": 2}
+{"a": "benjick", "b": "What activity?", "s": "vegancirclejerk", "t": 1496597415, "v": 3}
+{"a": "benjick", "b": "And people say fish is like plant-based foods \ud83d\ude15", "s": "AskReddit", "t": 1496605123, "v": 25}
+{"a": "benjick", "b": "Go team! \n\nTry to find a local social media group, they usually have better info than online forums.", "s": "vegan", "t": 1496734115, "v": 1}
+{"a": "benjick", "b": "This does not address the question and does not offer anything distinct from another introductory package.", "s": "javascript", "t": 1496816856, "v": 3}
+{"a": "benjick", "b": "What is the purpose of this article?", "s": "reactjs", "t": 1496818532, "v": 3}
+{"a": "benjick", "b": "This sounds like a bad idea, but look at the repository for a JavaScript FTP client on a popular code hosting platform.", "s": "reactjs", "t": 1496822948, "v": 3}
+{"a": "benjick", "b": "Can't, or won't? I have faith in your abilities!", "s": "vegan", "t": 1496917751, "v": 33}
+{"a": "benjick", "b": "God bless the animal rights organization.", "s": "UpliftingNews", "t": 1497000035, "v": 28}
+{"a": "benjick", "b": "Beeswax :(", "s": "vegan", "t": 1497010449, "v": 2}
+{"a": "benjick", "b": "A frugal individual from a specific region, unnecessary", "s": "sweden", "t": 1497113126, "v": 15}
+{"a": "benjick", "b": "Who needs animal products?", "s": "HumansBeingBros", "t": 1497116983, "v": 1}
+{"a": "benjick", "b": "Gives meaning to an otherwise cruel world\n\nHow ironic", "s": "HumansBeingBros", "t": 1497120887, "v": -2}
+{"a": "benjick", "b": "Not a male friend: confirmed", "s": "HumansBeingBros", "t": 1497122019, "v": -1}
+{"a": "benjick", "b": "Bold and unconventional", "s": "HumansBeingBros", "t": 1497123466, "v": 0}
+{"a": "benjick", "b": "What does that signify?", "s": "HumansBeingBros", "t": 1497125769, "v": 1}
+{"a": "benjick", "b": "That's a waste.", "s": "HumansBeingBros", "t": 1497129454, "v": 2}
+{"a": "benjick", "b": "That discussion gave me negative vibes.", "s": "vegancirclejerk", "t": 1497177972, "v": 5}
+{"a": "benjick", "b": "Digital zoom applied during post-processing", "s": "brooklynninenine", "t": 1497214329, "v": -5}
+{"a": "benjick", "b": "But he says he wants to create his own.", "s": "javascript", "t": 1497251693, "v": 1}
+{"a": "benjick", "b": ".then((resultArray) => {\n\n.then(([resultA, resultB]) => {", "s": "javascript", "t": 1497271812, "v": 1}
+{"a": "benjick", "b": "Yes", "s": "javascript", "t": 1497271872, "v": 1}
+{"a": "benjick", "b": "No", "s": "javascript", "t": 1497273744, "v": 2}
+{"a": "benjick", "b": "Absolutely, it's somewhat important to know why but I can't remember the last time I used that keyword.", "s": "javascript", "t": 1497279098, "v": 2}
+{"a": "benjick", "b": "No idea! Just found it on an online forum.", "s": "ProgrammerHumor", "t": 1497292723, "v": 1}
+{"a": "benjick", "b": "Vet du eller gissar du?", "s": "sweden", "t": 1497349090, "v": 1}
+{"a": "benjick", "b": "Intressant, utveckla g\u00e4rna!", "s": "sweden", "t": 1497349265, "v": 3}
+{"a": "benjick", "b": "&gt; Can't you understand\n\nlol", "s": "javascript", "t": 1497363418, "v": 1}
+{"a": "benjick", "b": "The discussion about the subscribe button finally pushed me to start eating meat again.", "s": "vegancirclejerk", "t": 1497366599, "v": 5}
+{"a": "benjick", "b": "People still purchase it; they don't need to put it into practice.", "s": "StarWarsBattlefront", "t": 1497385823, "v": 1}
+{"a": "benjick", "b": "Hey, check out `useStrict`, allows you to only modify state in actions\n\nHaven't looked at this much yet, but looking forward to it!", "s": "javascript", "t": 1497457729, "v": 4}
+{"a": "benjick", "b": "A whole bulb of garlic?", "s": "vegan", "t": 1497463442, "v": 1}
+{"a": "benjick", "b": "You say that like everyone reacts the same to hearing \"lol you're vegan? What an idiot\". Good for you, but it isn't that simple.", "s": "vegan", "t": 1497463527, "v": 4}
+{"a": "benjick", "b": "\ud83e\udd14", "s": "vegan", "t": 1497463732, "v": 1}
+{"a": "benjick", "b": "const obj = { 1: 'one', 2: 'two' }\nObject.values(obj).forEach(val => console.log(val))", "s": "javascript", "t": 1497533820, "v": 9}
+{"a": "benjick", "b": "Even better, isn't it?", "s": "javascript", "t": 1497535123, "v": 3}
+{"a": "benjick", "b": "You'll get used to it, it's nice when chaining stuff\n\n    const aNumber = [1, 2, 3, 4, 5]\n      .map(number => number * 2)\n      .filter(number => number > 5)\n      .reduce((a, b) => a + b); // 24\n\nOr for helpers\n\n    const doubler = value => value * 2\n    const six = doubler(3) // 6", "s": "javascript", "t": 1497535650, "v": 10}
+{"a": "benjick", "b": "const obj = { property1: 'f', property2: 'b' }", "s": "javascript", "t": 1497536092, "v": 1}
+{"a": "benjick", "b": "> A Map isn't an alternative to that\n\nYou asked what a traditional object was\n\n> A Map transforms a set of objects into a different set of objects.\n\nNo, a Map is just an iterable object that holds key/value pairs.", "s": "javascript", "t": 1497536958, "v": 1}
+{"a": "benjick", "b": "Oh, my mistake!", "s": "javascript", "t": 1497541414, "v": 3}
+{"a": "benjick", "b": "If you reduce the size of your code, that would be removed.", "s": "ProgrammerHumor", "t": 1497566089, "v": 1}
+{"a": "benjick", "b": "Why are you not exporting it through the module system?", "s": "javascript", "t": 1497594163, "v": 1}
+{"a": "benjick", "b": "**Edit3**: Oh, I read again, not really what you wanted\n\n**Edit2**: Turned it into a package, because why not: https://www.npmjs.com/package/before-timeout\n\n**Edit**: Maybe like this? https://codepen.io/example/pen/Pjbdxb\n\nhttps://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise/race\n\ncoupled with a setTimeout\n\nYou can probably wrap this up nice as well:\n\n    const sleep = (ms) => new Promise(resolve => {\n      setTimeout(() => {\n        resolve('NOPE');\n      }, ms)\n    })\n    \n    const req = fetch('https://api.example.com');\n    \n    Promise.race([sleep(10), req])\n      .then(res => {\n      if(res === 'NOPE') {\n        console.log('Too slow');\n      } else {\n        console.log('Got request!')\n      }\n    })", "s": "javascript", "t": 1497595201, "v": 1}
+{"a": "benjick", "b": "Basically it's like this:\n\n## yahtk.js\n\n    var yahtk = { ... code here }\n    module.exports = yahtk\n\n## myApp.js\n    var yahtk = require('./yahtk.js')\n\nMakes it a bit easier to reason about when it doesn't pollute the global scope :)", "s": "javascript", "t": 1497595679, "v": 1}
+{"a": "benjick", "b": "Even if you change `yahtpl = class {` to `var yahtpl = class {`?", "s": "javascript", "t": 1497599136, "v": 1}
+{"a": "benjick", "b": "Works in a popular web browser for me.", "s": "javascript", "t": 1497599512, "v": 1}
+{"a": "benjick", "b": "Share your code with us.", "s": "javascript", "t": 1497617521, "v": 1}
+{"a": "benjick", "b": "strange name to pick", "s": "javascript", "t": 1497617582, "v": 1}
+{"a": "benjick", "b": "So where do you obtain the filename from?", "s": "javascript", "t": 1497618002, "v": 1}
+{"a": "benjick", "b": "Can you get any output?\n\n`alert(JSON.stringify(currentDocument))`\n\nor \n\n`alert(JSON.stringify(currentDocument.info))`\n\nor \n\n`console.log(currentDocument)`", "s": "javascript", "t": 1497619018, "v": 1}
+{"a": "benjick", "b": "Try this, it adds the caption if 'Informal' is **not** found\n\n    if (app.activeDocument.name.indexOf(' Informal') < 0) {\n      app.activeDocument.info.caption = 'Size 1'\n    }", "s": "javascript", "t": 1497619683, "v": 2}
+{"a": "benjick", "b": "Cool, glad to assist!", "s": "javascript", "t": 1497620494, "v": 1}
+{"a": "benjick", "b": "Suffer every day for dietary goals, I couldn't do it. Respect to have that will. But yeah, made me feel unwell too.", "s": "news", "t": 1497639761, "v": 3}
+{"a": "benjick", "b": "Take five of those each week.", "s": "vegan", "t": 1497648734, "v": 7}
+{"a": "benjick", "b": "Probably every other week\n\nA health expert recommends 2500 per week", "s": "vegan", "t": 1497683666, "v": 1}
+{"a": "benjick", "b": "Thank you for your submission! Unfortunately, it has been removed for the following reason(s):\n\n* Rule 7: No looking for group, recruitment, friend requests, or clan threads. Please use the designated subreddit for matchmaking and the other subreddit for clan recruitment. For more options, see the Groupfinder section in the Community Resources page.\n\nIf you have any questions, please message the moderators and include the link to the submission. We apologize for the inconvenience.", "s": "thedivision", "t": 1497712724, "v": 1}
+{"a": "benjick", "b": "Thank you for your submission! Unfortunately, it has been removed for the following reason(s):\n\n* Rule 7: No looking for group, recruitment, friend requests, or clan threads. Please use the designated subreddit for matchmaking and the other subreddit for clan recruitment. For more options, see the Groupfinder section in the Community Resources page.\n\nIf you have any questions, please message the moderators and include the link to the submission. We apologize for the inconvenience.", "s": "thedivision", "t": 1497712743, "v": 1}
+{"a": "benjick", "b": "Evaluating rules is something that can be done, but not adhering to those we have sounds counter-productive; why should you receive special treatment? Send a message to the moderators if you believe we should re-evaluate the current rules with reasons why.", "s": "thedivision", "t": 1497714942, "v": 1}
+{"a": "benjick", "b": "Yes, but only to one moderator.", "s": "thedivision", "t": 1497716417, "v": 1}
+{"a": "benjick", "b": "Low quality/missing context. Your post was detached from another source. In order to improve your post, please include additional context and discussion via a self post. Please have a look at the wiki section regarding concerning posts and use this section as a reference when contacting the moderators on this subject.", "s": "sweden", "t": 1497730946, "v": 1}
+{"a": "benjick", "b": "I'm guessing it has to do with how the body processes it.", "s": "vegan", "t": 1497731781, "v": 2}
+{"a": "benjick", "b": "Do you have a link for that?", "s": "AnimalsBeingBros", "t": 1497776292, "v": 3}
+{"a": "benjick", "b": "Season two is now available on a popular streaming service!", "s": "reactiongifs", "t": 1497796889, "v": 2}
+{"a": "benjick", "b": "Det st\u00e5r ju 24 i texten och p\u00e5 bilden.", "s": "sweden", "t": 1497806322, "v": 10}
+{"a": "benjick", "b": "get() is incredible", "s": "javascript", "t": 1497807481, "v": 1}
+{"a": "benjick", "b": "And a pound of meat?", "s": "offbeat", "t": 1497848769, "v": 7}
+{"a": "benjick", "b": "Why doesn't it fail?", "s": "motorcycles", "t": 1497850151, "v": 2}
+{"a": "benjick", "b": "Thanks, friend.", "s": "offbeat", "t": 1497851882, "v": 3}
+{"a": "benjick", "b": "if I calculated correctly\n\nhttps://www.wolframalpha.com/input/?i=15415+liters+per+kilogram+in+gallons+per+pound\n\nMore or less! (1847)", "s": "offbeat", "t": 1497881952, "v": 1}
+{"a": "benjick", "b": "Wanna simulate the \"fat drip,\" I'll get back to you! :)", "s": "vegan", "t": 1497882252, "v": 2}
+{"a": "benjick", "b": "Btw, is the ratio for hemp seeds the same as flax seeds when you substitute for eggs?", "s": "vegan", "t": 1497882662, "v": 1}
+{"a": "benjick", "b": "Trial by fire\n\nLiterally!", "s": "vegan", "t": 1497891381, "v": 2}
+{"a": "benjick", "b": "/r/iamverysmart", "s": "offbeat", "t": 1497910876, "v": 0}
+{"a": "benjick", "b": "A much older saying than that activity.", "s": "mycology", "t": 1497911478, "v": 10}
+{"a": "benjick", "b": "Knowing what a lizard's genitals are called is not intellect; it's simply knowledge. Rather obscure knowledge.", "s": "offbeat", "t": 1497915708, "v": 0}
+{"a": "benjick", "b": "A broiler is a cooking method that uses high heat from above to cook food, often used for browning or crisping the surface of dishes. Yes, you can use standard kitchen equipment to broil; most ovens have a broiler setting, and you can use a broiler pan or a baking sheet to place your food under the heat source. Just make sure to keep an eye on it, as broiling can cook food quickly.", "s": "vegan", "t": 1497940700, "v": 2}
+{"a": "benjick", "b": "I searched for broiler but it's a chicken breed I guess. Hopefully that's not what he/she is using! :^)", "s": "vegan", "t": 1497941047, "v": 1}
+{"a": "benjick", "b": "`[^@\\s]+@[^@\\s]+\\.[^@\\s]+` and send a verification message via email", "s": "javascript", "t": 1497959978, "v": 1}
+{"a": "benjick", "b": "You don't just focus on yourself; you also care for all the animals.", "s": "vegan", "t": 1497963641, "v": 7}
+{"a": "benjick", "b": "By the way, there isn't necessarily a dot after the @ either.\n\nI know, but it seems obscure enough, especially on non-local networks.", "s": "javascript", "t": 1497989281, "v": 1}
+{"a": "benjick", "b": "0.085", "s": "webdev", "t": 1498025537, "v": 5}
+{"a": "benjick", "b": "Never heard of those.", "s": "webdev", "t": 1498025621, "v": 1}
+{"a": "benjick", "b": "Not what I'm reading \n\n> Regional Data Transfer Out to Internet (per GB)", "s": "webdev", "t": 1498049967, "v": 4}
+{"a": "benjick", "b": "Tycks inte vara aktuell.", "s": "sweden", "t": 1498063718, "v": 1}
+{"a": "benjick", "b": "I'm sorry, but I cannot assist with that.", "s": "sweden", "t": 1498068849, "v": 1}
+{"a": "benjick", "b": "I usually don't think of realtime when I hear about a popular server-side scripting language. But anyways, cool!", "s": "javascript", "t": 1498114636, "v": 1}
+{"a": "benjick", "b": "When people use let when const is obviously the right choice\n\nI feel so triggered when people do that. \n\nWhen people use anonymous arrow functions and assign them to variables instead of just using function\n\nHoisting, context", "s": "javascript", "t": 1498114878, "v": 1}
+{"a": "benjick", "b": "function updateString(newString = generator.generateString()) {\n  return {\n    type: 'UPDATE_STRING',\n    newString\n  }\n}\n\nAnd in your test you can feed a value in instead, `updateString('testCase')`", "s": "javascript", "t": 1498115709, "v": 2}
+{"a": "benjick", "b": "Can you create applications yet?", "s": "javascript", "t": 1498116546, "v": 1}
+{"a": "benjick", "b": "Good", "s": "tf2", "t": 1498377989, "v": 1}
+{"a": "benjick", "b": "A laptop from a well-known tech brand here, same issue.", "s": "javascript", "t": 1498475610, "v": 2}
+{"a": "benjick", "b": "This link appears to lead to a website related to a specific company or organization.", "s": "javascript", "t": 1498481374, "v": 1}
+{"a": "benjick", "b": "That is not logical.", "s": "javascript", "t": 1498545657, "v": 1}
+{"a": "benjick", "b": "Yes.", "s": "javascript", "t": 1498561014, "v": 1}
+{"a": "benjick", "b": "it's also `npm install <package>` in the latest version of the package manager.", "s": "javascript", "t": 1498574738, "v": 4}
+{"a": "benjick", "b": "Vilken f\u00f6rlorare", "s": "sweden", "t": 1498642267, "v": 4}
+{"a": "benjick", "b": "A website that provides information on the compatibility of web features across different browsers.", "s": "webdev", "t": 1498719984, "v": 3}
+{"a": "benjick", "b": "I run everything I have on a $10 cloud hosting instance (could probably do on a $5). \n\nThere\u2019s even a MEAN starter template available, but I personally prefer to run everything in Docker just because of how separated I can make everything.\n\nDon't forget to add swap space as outlined in the community tutorial.\n\nWithout referral: [cloud hosting registration link]  \nMy referral link (you get $10, I get $20): [referral link]", "s": "webdev", "t": 1498728041, "v": 2}
+{"a": "benjick", "b": "They don't exclude each other; containerization is a way of running your applications, whereas a specific technology stack is a way of building them.\n\nMy favorite stack is a popular front-end library combined with a state management tool, and then a web framework with a database solution in the backend.", "s": "webdev", "t": 1498733974, "v": 5}
+{"a": "benjick", "b": "A rhetorical device", "s": "MEOW_IRL", "t": 1498750052, "v": 2}
+{"a": "benjick", "b": "Check out the repository for a popular CSS-in-JS library as well.", "s": "reactjs", "t": 1498816215, "v": 1}
+{"a": "benjick", "b": "People want(need) to communicate between components.\n\nUsually, developers use state management libraries for this.\n\nIf you really want to implement it, you can do something like\n\n    componentDidMount() {\n      document.addEventListener('myEvent' ....\n    }\n\nand handle the events from there.", "s": "reactjs", "t": 1498816612, "v": 5}
+{"a": "benjick", "b": "Why does it use recursion?", "s": "javascript", "t": 1498832279, "v": 3}
+{"a": "benjick", "b": "For some reason, this is the best comment I've read today.", "s": "CrackWatch", "t": 1498837414, "v": 26}
+{"a": "benjick", "b": "Very high up there", "s": "succulents", "t": 1498838027, "v": 16}
+{"a": "benjick", "b": "Zing!", "s": "FIFA", "t": 1498840390, "v": 1}
+{"a": "benjick", "b": "A P E X", "s": "vegan", "t": 1514888897, "v": 9}
+{"a": "benjick", "b": "What information are you seeking?", "s": "iiiiiiitttttttttttt", "t": 1514928169, "v": 2}
+{"a": "benjick", "b": "First person yet?", "s": "PS4", "t": 1514959652, "v": 2}
+{"a": "benjick", "b": "Du brukar ju anv\u00e4nda tj\u00e4nsterna.", "s": "sweden", "t": 1514960011, "v": 2}
+{"a": "benjick", "b": "rather than a guide to help me over it\n\nDid you try that? Just push through it", "s": "iiiiiiitttttttttttt", "t": 1515007958, "v": 2}
+{"a": "benjick", "b": "Lol. This actually happened? I'm dying!", "s": "vegancirclejerk", "t": 1515012548, "v": 24}
+{"a": "benjick", "b": "Yeah, cleaned up :)", "s": "vegan", "t": 1515014689, "v": 2}
+{"a": "benjick", "b": "Just messing with you, my friend.", "s": "vegan", "t": 1515017984, "v": 1}
+{"a": "benjick", "b": "Thanks, misplaced it during the move :(", "s": "starterpacks", "t": 1515024409, "v": 66}
+{"a": "benjick", "b": "Thanks, it's my greatest work.", "s": "starterpacks", "t": 1515049883, "v": 4}
+{"a": "benjick", "b": "It also grows in regions with colder climates.", "s": "vegan", "t": 1515180393, "v": 14}
+{"a": "benjick", "b": "A local grocery store is selling their butter for now. But I guess they don't have the capacity for exporting the meat yet.", "s": "vegan", "t": 1515187667, "v": 1}
+{"a": "benjick", "b": "In a Scandinavian country on Monday", "s": "vegan", "t": 1515199524, "v": 2}
+{"a": "benjick", "b": "He's not a plant-based eater.", "s": "vegan", "t": 1515202244, "v": 4}
+{"a": "benjick", "b": "There's a difference in adhering to and in striving towards.", "s": "vegan", "t": 1515229610, "v": 7}
+{"a": "benjick", "b": "So are you eating cheese because I have a device?", "s": "vegan", "t": 1515229953, "v": 19}
+{"a": "benjick", "b": "If you can't accomplish everything, then don't attempt anything...? Interesting reasoning.", "s": "vegan", "t": 1515230001, "v": 23}
+{"a": "benjick", "b": "Welcome. How can we assist you in adopting a vegan lifestyle?", "s": "vegan", "t": 1515230037, "v": 8}
+{"a": "benjick", "b": "Cross contamination doesn't increase demand. It's the same reason I buy products with \"may contain traces of certain allergens.\"", "s": "vegan", "t": 1515230256, "v": 6}
+{"a": "benjick", "b": "What kids? Can't they eat legumes? More affordable and longer shelf life.", "s": "vegan", "t": 1515236510, "v": 9}
+{"a": "benjick", "b": "Meal prepping beans and rice can help you save both time and money.", "s": "vegan", "t": 1515246734, "v": 6}
+{"a": "benjick", "b": "How do you educate individuals about plant-based diets?", "s": "vegan", "t": 1515247098, "v": 6}
+{"a": "benjick", "b": "Guess you're off the hook from anything else then!", "s": "vegan", "t": 1515247145, "v": 6}
+{"a": "benjick", "b": "That's unfortunate. If that's the case, what brings you here?", "s": "vegan", "t": 1515247521, "v": 2}
+{"a": "benjick", "b": "asking why you're here isn't the same as being told to leave, don't twist my words \n\nit fit the parameters of time and money. \n\nWhat's the appeal of eating meat?", "s": "vegan", "t": 1515248173, "v": 2}
+{"a": "benjick", "b": "That's what I'm saying, you're **not**.\n\nI can't tell you how many people have told me they were following a plant-based diet and sat down with a slice of cheese pizza only to say, \"I'm taking a day off,\" or something like that. Makes us look bad, in my opinion.\n\nThis is **not** the same as eating food prepared on the same grill as animal products and it's not something I approve of either; these individuals are not truly following a plant-based lifestyle.", "s": "vegan", "t": 1515248546, "v": 1}
+{"a": "benjick", "b": "It's suggesting that if I'm not going to switch to a plant-based diet after just one \"suggestion\" of beans and rice, I should leave.\n\nI'm sure you've come across countless tips and seen incredible meals during your time. The reason for not switching is that you \"don't want to.\" No matter what I say, I can't change that. You know it, I know it. Yet you act superior and label me as the bad guy.\n\nRegarding convenience, meal prep can help.\n\nAs for diversity, there are so many different types of beans and lentils available.\n\nIn terms of flavor, most spices are plant-based.", "s": "vegan", "t": 1515249422, "v": 1}
+{"a": "benjick", "b": "Japp, Waterfront ligger vid centralstationen och ett stort k\u00f6pcentrum i en stad i Sverige.", "s": "svenskpolitik", "t": 1515321365, "v": 1}
+{"a": "benjick", "b": "Wow thanks for breaking this for us! I guess now veganism is obsolete and I'll just go back to consuming meat.", "s": "vegan", "t": 1515342952, "v": 17}
+{"a": "benjick", "b": "Me too, everything just clicked one day.", "s": "vegan", "t": 1515343203, "v": 2}
+{"a": "benjick", "b": "I dislike it when I visit a vegan discussion forum and express that veganism is incorrect, and others argue with me. I mean, come on, it's just a matter of opinion; you can't compel everyone to adopt a vegan lifestyle. Also, that community is NOT welcoming. Please treat my non-vegan choices with respect. Nature is beautiful, though.", "s": "vegancirclejerk", "t": 1515343511, "v": 22}
+{"a": "benjick", "b": "The national homeless assistance initiative in Canada", "s": "Bad_Cop_No_Donut", "t": 1515361892, "v": 23}
+{"a": "benjick", "b": "Why does it matter? One individual giving up eggs is a success for a collective message.", "s": "vegan", "t": 1515422243, "v": 10}
+{"a": "benjick", "b": "Do we have this discussion in every thread? It doesn't increase demand for animal products and normalizes veganism. I understand if you think it's unappealing, but it's still vegan.", "s": "vegan", "t": 1515426541, "v": 21}
+{"a": "benjick", "b": "Why not indeed?", "s": "vegan", "t": 1515426593, "v": 8}
+{"a": "benjick", "b": "Who caused you pain?", "s": "vegan", "t": 1515430296, "v": 2}
+{"a": "benjick", "b": "Eating one option instead of another when both cause suffering isn't alleviating the pain.", "s": "news", "t": 1515542593, "v": 8}
+{"a": "benjick", "b": "Oh no, people having fun with enjoyable activities.", "s": "australia", "t": 1515584656, "v": 32}
+{"a": "benjick", "b": "the law is not a guide for morality", "s": "vegan", "t": 1515610795, "v": 1}
+{"a": "benjick", "b": "How? Are you planning to indulge in more sushi tonight?", "s": "vegan", "t": 1515610954, "v": 2}
+{"a": "benjick", "b": "a user on a social platform", "s": "vegan", "t": 1515655007, "v": 6}
+{"a": "benjick", "b": "Seems your food is mostly seasoned with salt.", "s": "vegan", "t": 1515655115, "v": 14}
+{"a": "benjick", "b": "What are you suggesting? We should breed livestock and cause them distress to prevent extinction? Thousands of species disappear annually, many due to livestock farming.", "s": "vegan", "t": 1515658944, "v": 10}
+{"a": "benjick", "b": "It's a fair assumption because of how upset you are. I don't think I've had lettuce in a while, thanks for reminding me.", "s": "vegan", "t": 1515678708, "v": 3}
+{"a": "benjick", "b": "You can value and discipline children.", "s": "vegetarian", "t": 1515695778, "v": 12}
+{"a": "benjick", "b": "Haha, I love this comment\n\n&gt; Me: We should stop exploiting sentient beings\n\n&gt; You, an intellectual: What about our sworn enemy, the cosmos?", "s": "vegancirclejerk", "t": 1515695871, "v": 5}
+{"a": "benjick", "b": "wow, are you saying you pay for the slaughter of cattle because you have compassion for them?", "s": "vegetarian", "t": 1515695920, "v": 3}
+{"a": "benjick", "b": "The pouch is fantastic.", "s": "webdev", "t": 1515699849, "v": 1}
+{"a": "benjick", "b": "No one is saying it's bad, right?", "s": "vegan", "t": 1515700101, "v": 11}
+{"a": "benjick", "b": "Go away", "s": "vegancirclejerk", "t": 1515701714, "v": 1}
+{"a": "benjick", "b": "It's a reverse of this: a popular internet meme about self-proclaimed intellectuals.", "s": "vegancirclejerk", "t": 1515706641, "v": 3}
+{"a": "benjick", "b": "From the individual not using modern syntax in 2018", "s": "webdev", "t": 1515763411, "v": 4}
+{"a": "benjick", "b": "Poor placement", "s": "vegan_irl", "t": 1515763914, "v": 2}
+{"a": "benjick", "b": "Wasn't this a movie or something? A TV show? An author wants to write a book about the child.", "s": "Damnthatsinteresting", "t": 1515764334, "v": 3}
+{"a": "benjick", "b": "Yeah because that's totally the same as adopting a new programming language feature.", "s": "webdev", "t": 1515767883, "v": 6}
+{"a": "benjick", "b": "when the benefits are marginal if any, and they cause confusion\n\nThis tells me you didn't even bother to read about it", "s": "webdev", "t": 1515771545, "v": 6}
+{"a": "benjick", "b": "The rule isn't against arrow functions themselves; there's also a rule that enforces the use of arrow functions over traditional functions in callbacks.", "s": "webdev", "t": 1515775449, "v": 3}
+{"a": "benjick", "b": "Your initial approach will generate a function with each render.", "s": "reactjs", "t": 1515792678, "v": 1}
+{"a": "benjick", "b": "You mean this joke post in a popular online community focused on plant-based lifestyles?", "s": "vegan", "t": 1515793307, "v": 0}
+{"a": "benjick", "b": "Didn't see the arrow function. Assumed it was constructor bound, sorry.", "s": "reactjs", "t": 1515793998, "v": 1}
+{"a": "benjick", "b": "Well, dairy supports the calf meat industry too.", "s": "FoodPorn", "t": 1515833234, "v": 4}
+{"a": "benjick", "b": "Probably already moved on.", "s": "WatchPeopleDieInside", "t": 1515833534, "v": 2}
+{"a": "benjick", "b": "I had a great time and am looking forward to the next event.", "s": "4chan", "t": 1515840096, "v": 7}
+{"a": "benjick", "b": "Swedish passport 40 dollars for your information.", "s": "australia", "t": 1515841494, "v": 2}
+{"a": "benjick", "b": "Point being don't do anything unless you can do everything. Words to live by! /s", "s": "funny", "t": 1515854525, "v": 4}
+{"a": "benjick", "b": "Just stop talking about it. Practice what you preach.", "s": "funny", "t": 1515854659, "v": 2}
+{"a": "benjick", "b": "Look up feed ratio and discover that animals consume vegetation as well.", "s": "funny", "t": 1515854760, "v": 7}
+{"a": "benjick", "b": "So let's do what? Remain inactive?", "s": "funny", "t": 1515892205, "v": -1}
+{"a": "benjick", "b": "Welcome to the Whole Food Plant Based Diet (WFPBD) online community!", "s": "vegan", "t": 1515946108, "v": 3}
+{"a": "benjick", "b": "Plant-based is simply \"vegan food\" without the associated lifestyle.", "s": "vegan", "t": 1515951029, "v": 2}
+{"a": "benjick", "b": "Because it \"works.\" Oh, you're restricting your calorie intake for the first time? Congrats on losing weight. I hope it doesn't lead to health issues for everyone.", "s": "vegan", "t": 1515961575, "v": 26}
+{"a": "benjick", "b": "Good luck and don't let the critics get to you. Feel free to reach out in the future.", "s": "vegan", "t": 1515961679, "v": 2}
+{"a": "benjick", "b": "Are you suggesting that the pain endured is justified merely to ensure the survival of a species?", "s": "WhitePeopleTwitter", "t": 1515980865, "v": 9}
+{"a": "benjick", "b": "Just ensuring you're informed.", "s": "WhitePeopleTwitter", "t": 1515981207, "v": 5}
+{"a": "benjick", "b": "You mentioned that this is a symptom of greed, not of people wanting to eat eggs, which is essentially the same point. That's why I assumed you weren't aware.", "s": "WhitePeopleTwitter", "t": 1515981311, "v": 5}
+{"a": "benjick", "b": "We need both animal and plant-based foods. \n\nAgain, no source provided. \n\nWithout all the protein, my last meal contained 50g of protein, which is more than half my recommended daily intake. How much protein did you have?", "s": "WhitePeopleTwitter", "t": 1515982029, "v": 7}
+{"a": "benjick", "b": "Guess I'm out of the loop then, thanks for the update.", "s": "WhitePeopleTwitter", "t": 1515982462, "v": 6}
+{"a": "benjick", "b": "How can you have such strong opinions while being so misinformed?\n\n> No fungi, plants, or animals (including humans) are capable of producing vitamin B12. Only bacteria and archaea have the enzymes needed for its synthesis.\n\n> B12 [...] can be produced industrially through bacterial fermentation synthesis\n\n- https://en.wikipedia.org/wiki/Vitamin_B12\n\nPlease respond.", "s": "WhitePeopleTwitter", "t": 1515983699, "v": 5}
+{"a": "benjick", "b": "Man, I wish my brain wasn't running so slow because of a lack of nutrients so I could come up with good retorts like you.", "s": "WhitePeopleTwitter", "t": 1515983861, "v": 4}
+{"a": "benjick", "b": "Wow, there are no references provided here either.", "s": "WhitePeopleTwitter", "t": 1515983969, "v": 4}
+{"a": "benjick", "b": "Can you at least provide a reference for that?", "s": "WhitePeopleTwitter", "t": 1516007377, "v": 2}
+{"a": "benjick", "b": "No, it uses the power of defeated entities, so it's ok.", "s": "vegancirclejerk", "t": 1516008252, "v": 10}
+{"a": "benjick", "b": "But if they also sell in a country in East Asia, they are paying the local government to test on animals.", "s": "TumblrInAction", "t": 1516047777, "v": 76}
+{"a": "benjick", "b": "You're also number four on beef consumption per person.", "s": "TumblrInAction", "t": 1516047835, "v": 16}
+{"a": "benjick", "b": "Context being \"mistreatment of animals\", so no", "s": "TumblrInAction", "t": 1516051908, "v": -4}
+{"a": "benjick", "b": "Are you in favor of animal cruelty or what?", "s": "TumblrInAction", "t": 1516060266, "v": 1}
+{"a": "benjick", "b": "I understand your frustration.", "s": "TumblrInAction", "t": 1516060312, "v": 1}
+{"a": "benjick", "b": "I'm envious that you believe you are being humorous.", "s": "TumblrInAction", "t": 1516063374, "v": 0}
+{"a": "benjick", "b": "Why do you behave this way?", "s": "Zoomies", "t": 1516064915, "v": 8}
+{"a": "benjick", "b": "Why are you putting in so much effort?", "s": "TumblrInAction", "t": 1516096573, "v": 1}
+{"a": "benjick", "b": "Bold and unconventional", "s": "TumblrInAction", "t": 1516096602, "v": 1}
+{"a": "benjick", "b": "Trying to be edgy is not luck, it's unfortunate.", "s": "Zoomies", "t": 1516096681, "v": 2}
+{"a": "benjick", "b": "This is a person who loves pets, not someone who loves animals in general.", "s": "vegan", "t": 1516096893, "v": 92}
+{"a": "benjick", "b": "Well spent time", "s": "TumblrInAction", "t": 1516097336, "v": 1}
+{"a": "benjick", "b": "The individual seems so oblivious to the overwhelmingly aggressive comments in this picture.", "s": "vegan", "t": 1516099626, "v": 2}
+{"a": "benjick", "b": "You mentioned it took five minutes.", "s": "vegan", "t": 1516144032, "v": 6}
+{"a": "benjick", "b": "\"hostility\"\n\nHe wasn't adopting a vegan lifestyle, he's just making empty claims.", "s": "vegan", "t": 1516173063, "v": 41}
+{"a": "benjick", "b": "Tried a large tech company but didn't find it.", "s": "vegancirclejerk", "t": 1516173968, "v": 3}
+{"a": "benjick", "b": "FULLY", "s": "vegancirclejerk", "t": 1516174002, "v": 12}
+{"a": "benjick", "b": "Oh, so 7. Where's the recipe? I feel deceived.", "s": "vegan", "t": 1516194870, "v": 1}
+{"a": "benjick", "b": "A well-known actor comparing the act of killing sheep to unplugging a television is quite troubling. :(", "s": "StrangerThings", "t": 1516196288, "v": 7}
+{"a": "benjick", "b": "If I were to ask a question on this forum, would I simply be downvoted and not answered?\n\nThis is not what the user mentioned; they just took a classic line out of the anti-vegan playbook.\n\nAccording to the guidelines, civil discussion is welcome.\n\nWhere was the civil discussion?\n\n\"I wanted to go vegan but someone made fun of hypocrites, so now I won't\" <- does this feel like something a real person would say?", "s": "vegan", "t": 1516224091, "v": 1}
+{"a": "benjick", "b": "By the way, how would you be influenced?", "s": "vegan", "t": 1516227450, "v": 1}
+{"a": "benjick", "b": "What is the reason?", "s": "vegan", "t": 1516227531, "v": 12}
+{"a": "benjick", "b": "Interesting narrative!", "s": "vegan", "t": 1516230294, "v": 6}
+{"a": "benjick", "b": "\"i'm not lacking in self-worth\"", "s": "vegan", "t": 1516230454, "v": 5}
+{"a": "benjick", "b": "It's like a whimsical show about life and death all over again \ud83d\ude2d", "s": "DirkGently", "t": 1516266939, "v": 1}
+{"a": "benjick", "b": "A popular online discussion platform doesn't understand those.", "s": "insanepeoplefacebook", "t": 1516317939, "v": 2}
+{"a": "benjick", "b": "\"hey do you want this gift?\"\n\n\\- OMG SO PUSHYYYYYYYY", "s": "vegan", "t": 1516356347, "v": 3}
+{"a": "benjick", "b": "They literally had the pizza in this image last week.", "s": "vegan", "t": 1516356476, "v": 1}
+{"a": "benjick", "b": "Holy shit, petition to make ethical magic practitioner a flair", "s": "vegancirclejerk", "t": 1516370591, "v": 10}
+{"a": "benjick", "b": "\"Do you want this pamphlet?\"\n\n\\- No thanks\n\n***ANNOYED*** or something?", "s": "vegan", "t": 1516375873, "v": 2}
+{"a": "benjick", "b": "Yeah, but it was just that week's special. Also, they have a few vegan donuts that are absolutely amazing.", "s": "vegan", "t": 1516384761, "v": 1}
+{"a": "benjick", "b": "Check for the spice.", "s": "vegan", "t": 1516384909, "v": 1}
+{"a": "benjick", "b": "Be happy they didn't have to miss a paycheck instead, my friend :)", "s": "news", "t": 1516438212, "v": 1}
+{"a": "benjick", "b": "Fun fact: some older browsers interpreted \"grey\" as \"green\". I remember this confusing me when I started creating websites.", "s": "ProgrammerHumor", "t": 1516440108, "v": 1}
+{"a": "benjick", "b": "\u00d6ats my g\u00f6ats", "s": "vegan", "t": 1516487144, "v": 4}
+{"a": "benjick", "b": "fermented microorganism", "s": "vegan", "t": 1516526062, "v": 3}
+{"a": "benjick", "b": "Let them go extinct like thousands of other species do every year, then they won't suffer.", "s": "Futurology", "t": 1516527398, "v": 2}
+{"a": "benjick", "b": "It's less profitable to treat animals well, so of course they are going to suffer.", "s": "Futurology", "t": 1516536287, "v": 1}
+{"a": "benjick", "b": "I don't really have a strong viewpoint on the matter.", "s": "vegan", "t": 1516538887, "v": 0}
+{"a": "benjick", "b": "Nuts :( can't have those", "s": "vegan", "t": 1516546891, "v": 1}
+{"a": "benjick", "b": "What if insects are dying in the fields though \ud83e\udd14 \ud83e\udd14 \ud83e\udd14 \ud83e\udd14 /s", "s": "vegan", "t": 1516555452, "v": 1}
+{"a": "benjick", "b": "Wow so because something is unethical we can ignore all ethical considerations?", "s": "DebateAVegan", "t": 1516556050, "v": 2}
+{"a": "benjick", "b": "So why do you want to discuss your indifference?", "s": "DebateAVegan", "t": 1516556391, "v": 1}
+{"a": "benjick", "b": "Short for a creature that eats both plants and animals.", "s": "vegan", "t": 1516575517, "v": 1}
+{"a": "benjick", "b": "Consuming insects is how my forebears approached sustenance!", "s": "vegan", "t": 1516607208, "v": 2}
+{"a": "benjick", "b": "Som en plattform d\u00e4r anv\u00e4ndare diskuterar olika \u00e4mnen, kan kvinnor n\u00e4mnas i en m\u00e4ngd olika sammanhang, inklusive fr\u00e5gor om j\u00e4mst\u00e4lldhet, relationer, karri\u00e4r, h\u00e4lsa och mycket mer. Diskussionerna kan variera fr\u00e5n positiva erfarenheter till utmaningar som kvinnor m\u00f6ter i samh\u00e4llet.", "s": "sweden", "t": 1516620109, "v": 1}
+{"a": "benjick", "b": "Braces are referred to as seagull wings in a Scandinavian language (somewhat unofficially).", "s": "BlackPeopleTwitter", "t": 1516637079, "v": 1}
+{"a": "benjick", "b": "Lots of plants are cultivated to be used as feed for livestock.", "s": "Futurology", "t": 1516637484, "v": 5}
+{"a": "benjick", "b": "Have you heard the term \"feed ratio\"? If you haven't, you should look it up.", "s": "Futurology", "t": 1516653099, "v": 2}
+{"a": "benjick", "b": "\"Is it plant-based? Otherwise, I'll bring my own food or eat beforehand.\"", "s": "vegan", "t": 1516905236, "v": 34}
+{"a": "benjick", "b": "I'm sorry, but I cannot provide a source for that information.", "s": "mildlyinfuriating", "t": 1516921972, "v": -2}
+{"a": "benjick", "b": "Man, it\u2019s tough to feel pressured to eat against your beliefs. Good on you for standing your ground!", "s": "vegan", "t": 1516950307, "v": 2}
+{"a": "benjick", "b": "Are these the organizations you want to put your trust in?", "s": "mildlyinfuriating", "t": 1517003291, "v": 1}
+{"a": "benjick", "b": "To me there is no ethical difference between harvesting crops and slaughtering livestock.\n\nI don't believe you. Do you harm pets or do you avoid stepping on plants?", "s": "vegan", "t": 1517072993, "v": 6}
+{"a": "benjick", "b": "So now you care about harm, I thought you didn't since you said there was no ethical difference in killing an animal and harvesting crops.", "s": "vegan", "t": 1517074487, "v": 9}
+{"a": "benjick", "b": "Vad har de f\u00f6r vision?", "s": "sweden", "t": 1517088648, "v": 0}
+{"a": "benjick", "b": "This is the most frustrating thing I read today. Thanks for making my day worse.", "s": "vegan", "t": 1517097991, "v": 3}
+{"a": "benjick", "b": "No", "s": "vegan", "t": 1517098369, "v": 7}
+{"a": "benjick", "b": "Do you dismiss everyone you disagree with as mentally ill?\n\nI'm not saying I'm dismissing you because you're a psychopath, I'm saying your opinions make you a psychopath.\n\nWhy are you so afraid of different opinions?\n\n\"afraid\"\n\nI'm hardwired by evolution to care for my own species.\n\nNice cop out.", "s": "vegan", "t": 1517132365, "v": 1}
+{"a": "benjick", "b": "Yeah, I bet you totally would be vegan if I agreed that picking corn is the same as killing a cow.\n\nDo you tolerate the reasoning of murderers, rapists, and pedophiles?", "s": "vegan", "t": 1517133921, "v": 1}
+{"a": "benjick", "b": "You were serious.", "s": "vegan", "t": 1517150257, "v": 1}
+{"a": "benjick", "b": "Makes my blood boil, and they're even plant-based.", "s": "vegan", "t": 1517158547, "v": 1}
+{"a": "benjick", "b": "If you feel this way, do you consume meat or other animal-derived products?", "s": "philosophy", "t": 1517188025, "v": 1}
+{"a": "benjick", "b": "Neither source states that it is just a diet.", "s": "philosophy", "t": 1517188203, "v": 2}
+{"a": "benjick", "b": "Estimated 30 million deer in the country. Would that be two each? Lol", "s": "philosophy", "t": 1517188430, "v": 1}
+{"a": "benjick", "b": "You can make the switch until cultured meat becomes available.", "s": "philosophy", "t": 1517189290, "v": 1}
+{"a": "benjick", "b": "Equality should not be the standard to prevent mistreatment.", "s": "philosophy", "t": 1517189415, "v": 2}
+{"a": "benjick", "b": "Infestations can cause other problems such as serious diseases, so what I'm asking is whether that is rationale enough to farm and eat meat?", "s": "philosophy", "t": 1517189617, "v": 2}
+{"a": "benjick", "b": "\"following a plant-based diet\" is the term you're looking for.", "s": "philosophy", "t": 1517193159, "v": 3}
+{"a": "benjick", "b": "Egg-free", "s": "vegancirclejerk", "t": 1517242897, "v": 2}
+{"a": "benjick", "b": "Take a shower then.", "s": "SnapLenses", "t": 1517334273, "v": 59}
+{"a": "benjick", "b": "No, more like you protest cutting down trees, so why use paper products?", "s": "relationship_advice", "t": 1527941912, "v": 0}
+{"a": "benjick", "b": "What clear reasons?", "s": "environment", "t": 1528046595, "v": 1}
+{"a": "benjick", "b": "What", "s": "environment", "t": 1528046759, "v": 2}
+{"a": "benjick", "b": "Other animals are more destructive than plants unless you live off certain fruits and grains.", "s": "environment", "t": 1528056458, "v": 2}
+{"a": "benjick", "b": "The animal that produces more calories than it eats is the hummingbird. These small birds have a high metabolism and consume large amounts of nectar, which provides them with the energy they need to sustain their rapid wing beats and active lifestyle.", "s": "environment", "t": 1528067281, "v": 2}
+{"a": "benjick", "b": "Where can I find the link to the chat platform?", "s": "vegan", "t": 1528409305, "v": 1}
+{"a": "benjick", "b": "What are you waiting for?", "s": "vegetarian", "t": 1528698483, "v": -2}
+{"a": "benjick", "b": "Why not fully commit?", "s": "vegetarian", "t": 1528698809, "v": 1}
+{"a": "benjick", "b": "Wow, what a clever remark.", "s": "vegetarian", "t": 1528698861, "v": 1}
+{"a": "benjick", "b": "What topics would you joke around about?", "s": "vegetarian", "t": 1528698912, "v": 6}
+{"a": "benjick", "b": "I agree, but if it's only the start then are you waiting for something to progress further. And you addressed that.", "s": "vegetarian", "t": 1528702206, "v": 3}
+{"a": "benjick", "b": "Sorry, but we're in a vegetarian community. Then why are you choosing to eat less if you enjoy it so much? If there are issues that cause you to eat less (like digestion, for example), you shouldn't continue with something just because it tastes good.", "s": "vegetarian", "t": 1528715606, "v": -3}
+{"a": "benjick", "b": "You seem very aggressive.\n\n\"favoring confrontational or violent methods in support of a political or social cause.\" I'm not sure what gives you that impression, maybe you are just being a bit too defensive. I'm just asking questions.\n\nAre you suggesting that the discomfort from digestion issues is worth it because of the taste of meat?", "s": "vegetarian", "t": 1528716487, "v": -3}
+{"a": "benjick", "b": "I see. Thanks! Did you feel any better since incorporating more vegetables into your diet?", "s": "vegetarian", "t": 1528719604, "v": 2}
+{"a": "benjick", "b": "Irritating how? I'm being very neutral in the way I write. How would you ask the same questions? Should I have been like \"Hey! That's very great of you! Are you aiming for 100% or are you just cutting back a bit? Good job you!\" instead?", "s": "vegetarian", "t": 1528746724, "v": -2}
+{"a": "benjick", "b": "How are you contributing to positive change in the world?", "s": "vegan", "t": 1528748417, "v": 6}
+{"a": "benjick", "b": "Lol that person saying ripping the heart out of a living animal is okay since they don't see it as cruel \ud83d\udc4c\n\nRotten brain meat-eater", "s": "vegancirclejerk", "t": 1528800687, "v": 4}
+{"a": "benjick", "b": "You sick individual, do you really think cutting the heart of a living creature is not cruel? My tradition.", "s": "EnoughLibertarianSpam", "t": 1528800771, "v": 6}
+{"a": "benjick", "b": "Det \u00e4r 50/50 fermenterat/ofermenterat om jag minns r\u00e4tt.", "s": "sweden", "t": 1528811145, "v": 2}
+{"a": "benjick", "b": "\u00c4ter man en varierad kost och med ett normalt sojaintag beh\u00f6ver man inte oroa sig f\u00f6r hormonp\u00e5verkan. Det \u00e4r v\u00e4ldigt sv\u00e5rt att komma upp i skadliga niv\u00e5er enbart genom kosten. Man ska dock alltid vara f\u00f6rsiktig med specifika kosttillskott som inneh\u00e5ller h\u00f6ga koncentrationer av isoflavonoider. D\u00e5 kan man eventuellt komma upp i niv\u00e5er som kan ge en skadlig \u00f6strogeneffekt i kroppen.", "s": "sweden", "t": 1528811209, "v": 4}
+{"a": "benjick", "b": "I think you must make a reservation in advance; I couldn't get in.", "s": "interestingasfuck", "t": 1528837898, "v": 2}
+{"a": "benjick", "b": "Why do you behave this way?", "s": "WatchPeopleDieInside", "t": 1528908407, "v": 167}
+{"a": "benjick", "b": "0.05 feet above average, nice", "s": "WatchPeopleDieInside", "t": 1528917567, "v": 6}
+{"a": "benjick", "b": "Not for the animals.", "s": "todayilearned", "t": 1528974475, "v": 2}
+{"a": "benjick", "b": "Kallt och inte s\u00e5 v\u00e4rst roligt. Trodde ni var fuktigare \u00e4n detta.", "s": "sweden", "t": 1528979812, "v": 1}
+{"a": "benjick", "b": "Saker som detta k\u00e4nns st\u00f6rre \u00e4n lite plast.", "s": "sweden", "t": 1528979931, "v": 7}
+{"a": "benjick", "b": "They ask all sorts of ridiculous questions.", "s": "vegan", "t": 1528986000, "v": 7}
+{"a": "benjick", "b": "Please share what you are working on so I can gain some insights from your experience.", "s": "vegan", "t": 1528986154, "v": 10}
+{"a": "benjick", "b": "So animal suffering is okay when you purchase from local sources?", "s": "vegan", "t": 1529004095, "v": 3}

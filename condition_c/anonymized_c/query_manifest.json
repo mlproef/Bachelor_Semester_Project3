@@ -1,0 +1,10 @@
+{
+  "side": "query",
+  "n_files": 500,
+  "layout": "condition_c/anonymized_c/query/user_*_query.jsonl",
+  "source": "llm-anonymization-main 2/results_40_4_august",
+  "model": "qwen3.6-35b-a3b-nvfp4",
+  "chunk_size": 20,
+  "max_iterations": 3,
+  "note": "Copied only splits-format query JSONL (same as A/B). Chunk dumps stay in the source run dir. Prompt-leak artifacts were surgically redone before copy."
+}

@@ -89,5 +89,5 @@ Details: `data/README.md`, `condition_*/README.md`, `so1_bge/README.md`, `so1_bg
 ## Secrets
 
 - Use `.env` (gitignored) or env vars: `OLLAMA_URL`, `OLLAMA_API_KEY`, `OLLAMA_MODEL`
-- For C you can also `cp condition_c/credentials_clean.py condition_c/credentials.py` (gitignored)
+- Condition C reads gitignored `condition_c/credentials.py` (loads the same `.env`)
 - Never commit `.env` or `credentials.py`

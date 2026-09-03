@@ -27,8 +27,7 @@ condition_c/
 │   ├── run_condition_c.py              # entrypoint (like A/B)
 │   ├── run_batch_chunked_anonymize.py  # multi-user loop
 │   └── run_chunked_anonymize.py        # core per-user logic
-├── src/                                # Staab pieces used by C
-└── credentials_clean.py
+└── src/                                # Staab pieces used by C
 ```
 
 There is no `anonymized_c/candidates/` yet.
@@ -42,8 +41,8 @@ There is no `anonymized_c/candidates/` yet.
 The CLI default `--out-root` is `condition_c/results_condition_c/` (local rerun, gitignored). The committed experiment output is `anonymized_c/query/`.
 
 ```bash
-cp condition_c/credentials_clean.py condition_c/credentials.py   # optional; or use .env
-# preferred: fill repo-root .env (OLLAMA_URL / OLLAMA_API_KEY / OLLAMA_MODEL)
+# fill repo-root .env (OLLAMA_URL / OLLAMA_API_KEY / OLLAMA_MODEL)
+# Condition C also reads gitignored condition_c/credentials.py from that env
 
 # from repo root
 python condition_c/scripts/run_condition_c.py

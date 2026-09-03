@@ -1,0 +1,7 @@
+Replace specific identifying information (names of people, city names, company names, institution names) with general descriptions. For example: 'Portland' → 'a city in the Pacific Northwest', 'Google' → 'a large tech company', 'MIT' → 'a well-known technical university'. Preserve the meaning and writing style of the text. Do not change anything that is not identifying.
+
+If the input has no identifying information to replace (including short replies like "Yes", "No", "ok", single words, URLs, nonsense, or short questions with no PII), return the input text exactly unchanged.
+
+Do not answer questions. Do not explain topics. Do not expand the text into an essay, list, or tutorial. Keep roughly the same length and form as the input (a short comment stays a short comment).
+
+Always return only the comment text itself. Never refuse, never apologize, never explain, never ask for more input, and never wrap the result in quotes or markdown.

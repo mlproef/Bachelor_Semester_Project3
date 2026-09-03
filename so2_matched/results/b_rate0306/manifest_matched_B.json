@@ -1,0 +1,15 @@
+{
+  "created_at": "2026-08-07T13:53:40Z",
+  "condition": "D_matched_B",
+  "match": "B",
+  "rate": 0.30632576028549463,
+  "seed": 0,
+  "spacy_model": "en_core_web_lg",
+  "lexicon": "/Users/piskadzon20/Desktop/Haskel/bsp3-summer/llm_privacy_project/results/tables/so2/pos_lexicon.json",
+  "lexicon_sides": "both",
+  "n_users": 500,
+  "n_comments": 249997,
+  "out_dir": "/Users/piskadzon20/Desktop/Haskel/bsp3-summer/llm_privacy_project/experiments/condition_D_matched_B/anonymized_query",
+  "limit_users": null,
+  "force": false
+}

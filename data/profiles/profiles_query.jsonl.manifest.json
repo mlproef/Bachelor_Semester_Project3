@@ -1,0 +1,23 @@
+{
+  "side": "query",
+  "splits_dir": "data/splits",
+  "out_path": "data/profiles/profiles_query.jsonl",
+  "n_source_files": 500,
+  "n_profiles": 500,
+  "n_comments_total": 249997,
+  "skipped_empty": 0,
+  "max_comments": null,
+  "reviews_reviewer_keys": [
+    "pool_en"
+  ],
+  "reviews_pii_types": [
+    "age",
+    "education",
+    "gender",
+    "income",
+    "location",
+    "married",
+    "occupation",
+    "pobp"
+  ]
+}

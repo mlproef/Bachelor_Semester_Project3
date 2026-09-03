@@ -1,0 +1,8 @@
+{
+  "source_dir": "POOL-EN",
+  "use_symlinks": true,
+  "n_query_files": 500,
+  "n_candidate_files": 1000,
+  "n_ground_truth_pairs": 500,
+  "n_distractor_candidates": 500
+}

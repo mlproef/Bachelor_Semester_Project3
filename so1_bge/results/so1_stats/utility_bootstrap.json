@@ -1,0 +1,677 @@
+{
+  "n_boot": 10000,
+  "seed": 0,
+  "method": "percentile bootstrap 2.5/97.5 on user/pair means; paired difference on overlapping ids; Bonferroni k=3 CIs at 0.833/99.167 percentiles",
+  "hand_csv": "/Users/piskadzon20/Desktop/github-summer/so1_bge/results/a/hand_ratings.csv",
+  "na_coding": "-1 \u2192 nan (unchanged / N/A); full_sample maps nan \u2192 5",
+  "rates": {
+    "A": {
+      "label": "A (spaCy NER)",
+      "n_users_bge": 500,
+      "n_users_token": 500,
+      "n_pairs_hand": 50,
+      "bge_cosine": {
+        "n": 500,
+        "n_used": 500,
+        "mean": 0.9321587252616882,
+        "lo": 0.9300672906070948,
+        "hi": 0.93424560354352
+      },
+      "token_change": {
+        "n": 500,
+        "n_used": 500,
+        "mean": 0.08480899809946209,
+        "lo": 0.08207681368385049,
+        "hi": 0.0876206932463904
+      },
+      "hand_meaning_full": {
+        "n": 50,
+        "n_used": 50,
+        "mean": 3.78,
+        "lo": 3.38,
+        "hi": 4.16
+      },
+      "hand_meaning_given_change": {
+        "n": 50,
+        "n_used": 24,
+        "mean": 2.4583333333333335,
+        "lo": 2.0833333333333335,
+        "hi": 2.8260869565217392
+      },
+      "hand_fluency_full": {
+        "n": 50,
+        "n_used": 50,
+        "mean": 3.9,
+        "lo": 3.5,
+        "hi": 4.28
+      },
+      "hand_fluency_given_change": {
+        "n": 50,
+        "n_used": 24,
+        "mean": 2.7083333333333335,
+        "lo": 2.217391304347826,
+        "hi": 3.2222222222222223
+      },
+      "hand_avg_full": {
+        "n": 50,
+        "n_used": 50,
+        "mean": 3.84,
+        "lo": 3.45,
+        "hi": 4.21
+      },
+      "hand_avg_given_change": {
+        "n": 50,
+        "n_used": 24,
+        "mean": 2.5833333333333335,
+        "lo": 2.1875,
+        "hi": 2.973684210526316
+      }
+    },
+    "B": {
+      "label": "B (LLM generalize)",
+      "n_users_bge": 500,
+      "n_users_token": 500,
+      "n_pairs_hand": 50,
+      "bge_cosine": {
+        "n": 500,
+        "n_used": 500,
+        "mean": 0.9467868139743805,
+        "lo": 0.9450858158737421,
+        "hi": 0.948442889252305
+      },
+      "token_change": {
+        "n": 500,
+        "n_used": 500,
+        "mean": 0.10933542232536979,
+        "lo": 0.10604519489698262,
+        "hi": 0.11269014464434299
+      },
+      "hand_meaning_full": {
+        "n": 50,
+        "n_used": 50,
+        "mean": 4.06,
+        "lo": 3.76,
+        "hi": 4.32
+      },
+      "hand_meaning_given_change": {
+        "n": 50,
+        "n_used": 43,
+        "mean": 3.9069767441860463,
+        "lo": 3.59573201621074,
+        "hi": 4.2
+      },
+      "hand_fluency_full": {
+        "n": 50,
+        "n_used": 50,
+        "mean": 4.56,
+        "lo": 4.34,
+        "hi": 4.76
+      },
+      "hand_fluency_given_change": {
+        "n": 50,
+        "n_used": 43,
+        "mean": 4.488372093023256,
+        "lo": 4.243140423031727,
+        "hi": 4.711111111111111
+      },
+      "hand_avg_full": {
+        "n": 50,
+        "n_used": 50,
+        "mean": 4.31,
+        "lo": 4.08,
+        "hi": 4.53
+      },
+      "hand_avg_given_change": {
+        "n": 50,
+        "n_used": 43,
+        "mean": 4.1976744186046515,
+        "lo": 3.9361702127659575,
+        "hi": 4.436203457446808
+      }
+    },
+    "C": {
+      "label": "C (Staab)",
+      "n_users_bge": 500,
+      "n_users_token": 500,
+      "n_pairs_hand": 50,
+      "bge_cosine": {
+        "n": 500,
+        "n_used": 500,
+        "mean": 0.9280616990327835,
+        "lo": 0.9252767840355635,
+        "hi": 0.9306299352377654
+      },
+      "token_change": {
+        "n": 500,
+        "n_used": 500,
+        "mean": 0.13803875679535127,
+        "lo": 0.13274128969019036,
+        "hi": 0.14375780737606467
+      },
+      "hand_meaning_full": {
+        "n": 50,
+        "n_used": 50,
+        "mean": 4.72,
+        "lo": 4.56,
+        "hi": 4.86
+      },
+      "hand_meaning_given_change": {
+        "n": 50,
+        "n_used": 28,
+        "mean": 4.5,
+        "lo": 4.233333333333333,
+        "hi": 4.741935483870968
+      },
+      "hand_fluency_full": {
+        "n": 50,
+        "n_used": 50,
+        "mean": 4.98,
+        "lo": 4.94,
+        "hi": 5.0
+      },
+      "hand_fluency_given_change": {
+        "n": 50,
+        "n_used": 28,
+        "mean": 4.964285714285714,
+        "lo": 4.88,
+        "hi": 5.0
+      },
+      "hand_avg_full": {
+        "n": 50,
+        "n_used": 50,
+        "mean": 4.85,
+        "lo": 4.76,
+        "hi": 4.93
+      },
+      "hand_avg_given_change": {
+        "n": 50,
+        "n_used": 28,
+        "mean": 4.732142857142857,
+        "lo": 4.589285714285714,
+        "hi": 4.863680069930069
+      }
+    }
+  },
+  "pairs": {
+    "bge_cosine": [
+      {
+        "n_paired": 500,
+        "left_mean": 0.9321587252616882,
+        "right_mean": 0.9467868139743805,
+        "gap": {
+          "n": 500,
+          "n_used": 500,
+          "mean": -0.01462808871269226,
+          "lo": -0.015668443623185157,
+          "hi": -0.013584558707475663
+        },
+        "gap_bonferroni": {
+          "n": 500,
+          "n_used": 500,
+          "mean": -0.01462808871269226,
+          "lo": -0.015890123772621157,
+          "hi": -0.01334241738021373
+        },
+        "k_bonferroni": 3,
+        "ci_excludes_zero": true,
+        "ci_bonf_excludes_zero": true,
+        "left": "A",
+        "right": "B",
+        "title": "A \u2212 B",
+        "metric": "bge_cosine"
+      },
+      {
+        "n_paired": 500,
+        "left_mean": 0.9321587252616882,
+        "right_mean": 0.9280616990327835,
+        "gap": {
+          "n": 500,
+          "n_used": 500,
+          "mean": 0.004097026228904724,
+          "lo": 0.002000619515776634,
+          "hi": 0.006458522543311119
+        },
+        "gap_bonferroni": {
+          "n": 500,
+          "n_used": 500,
+          "mean": 0.004097026228904724,
+          "lo": 0.0016091079890727998,
+          "hi": 0.0070554170966148555
+        },
+        "k_bonferroni": 3,
+        "ci_excludes_zero": true,
+        "ci_bonf_excludes_zero": true,
+        "left": "A",
+        "right": "C",
+        "title": "A \u2212 C",
+        "metric": "bge_cosine"
+      },
+      {
+        "n_paired": 500,
+        "left_mean": 0.9467868139743805,
+        "right_mean": 0.9280616990327835,
+        "gap": {
+          "n": 500,
+          "n_used": 500,
+          "mean": 0.018725114941596985,
+          "lo": 0.01670508948266506,
+          "hi": 0.021030201509594917
+        },
+        "gap_bonferroni": {
+          "n": 500,
+          "n_used": 500,
+          "mean": 0.018725114941596985,
+          "lo": 0.01634892054498196,
+          "hi": 0.02161649004817009
+        },
+        "k_bonferroni": 3,
+        "ci_excludes_zero": true,
+        "ci_bonf_excludes_zero": true,
+        "left": "B",
+        "right": "C",
+        "title": "B \u2212 C",
+        "metric": "bge_cosine"
+      }
+    ],
+    "token_change": [
+      {
+        "n_paired": 500,
+        "left_mean": 0.08480899809946209,
+        "right_mean": 0.10933542232536979,
+        "gap": {
+          "n": 500,
+          "n_used": 500,
+          "mean": -0.024526424225907707,
+          "lo": -0.026618292281950968,
+          "hi": -0.022441550504530054
+        },
+        "gap_bonferroni": {
+          "n": 500,
+          "n_used": 500,
+          "mean": -0.024526424225907707,
+          "lo": -0.027052638011089557,
+          "hi": -0.02198392814507269
+        },
+        "k_bonferroni": 3,
+        "ci_excludes_zero": true,
+        "ci_bonf_excludes_zero": true,
+        "left": "A",
+        "right": "B",
+        "title": "A \u2212 B",
+        "metric": "token_change"
+      },
+      {
+        "n_paired": 500,
+        "left_mean": 0.08480899809946209,
+        "right_mean": 0.13803875679535127,
+        "gap": {
+          "n": 500,
+          "n_used": 500,
+          "mean": -0.05322975869588918,
+          "lo": -0.057724797892978616,
+          "hi": -0.04925603925822716
+        },
+        "gap_bonferroni": {
+          "n": 500,
+          "n_used": 500,
+          "mean": -0.05322975869588918,
+          "lo": -0.05881923309430735,
+          "hi": -0.04860792987193617
+        },
+        "k_bonferroni": 3,
+        "ci_excludes_zero": true,
+        "ci_bonf_excludes_zero": true,
+        "left": "A",
+        "right": "C",
+        "title": "A \u2212 C",
+        "metric": "token_change"
+      },
+      {
+        "n_paired": 500,
+        "left_mean": 0.10933542232536979,
+        "right_mean": 0.13803875679535127,
+        "gap": {
+          "n": 500,
+          "n_used": 500,
+          "mean": -0.028703334469981478,
+          "lo": -0.033326628366526,
+          "hi": -0.024641272384945064
+        },
+        "gap_bonferroni": {
+          "n": 500,
+          "n_used": 500,
+          "mean": -0.028703334469981478,
+          "lo": -0.03437583708981609,
+          "hi": -0.023796007652480838
+        },
+        "k_bonferroni": 3,
+        "ci_excludes_zero": true,
+        "ci_bonf_excludes_zero": true,
+        "left": "B",
+        "right": "C",
+        "title": "B \u2212 C",
+        "metric": "token_change"
+      }
+    ],
+    "hand_avg_full": [
+      {
+        "n_paired": 50,
+        "left_mean": 3.84,
+        "right_mean": 4.31,
+        "gap": {
+          "n": 50,
+          "n_used": 50,
+          "mean": -0.47,
+          "lo": -0.9,
+          "hi": -0.04
+        },
+        "gap_bonferroni": {
+          "n": 50,
+          "n_used": 50,
+          "mean": -0.47,
+          "lo": -1.0,
+          "hi": 0.04
+        },
+        "k_bonferroni": 3,
+        "ci_excludes_zero": true,
+        "ci_bonf_excludes_zero": false,
+        "left": "A",
+        "right": "B",
+        "title": "A \u2212 B",
+        "metric": "hand_avg_full"
+      },
+      {
+        "n_paired": 50,
+        "left_mean": 3.84,
+        "right_mean": 4.85,
+        "gap": {
+          "n": 50,
+          "n_used": 50,
+          "mean": -1.01,
+          "lo": -1.37,
+          "hi": -0.67
+        },
+        "gap_bonferroni": {
+          "n": 50,
+          "n_used": 50,
+          "mean": -1.01,
+          "lo": -1.46,
+          "hi": -0.6
+        },
+        "k_bonferroni": 3,
+        "ci_excludes_zero": true,
+        "ci_bonf_excludes_zero": true,
+        "left": "A",
+        "right": "C",
+        "title": "A \u2212 C",
+        "metric": "hand_avg_full"
+      },
+      {
+        "n_paired": 50,
+        "left_mean": 4.31,
+        "right_mean": 4.85,
+        "gap": {
+          "n": 50,
+          "n_used": 50,
+          "mean": -0.54,
+          "lo": -0.8,
+          "hi": -0.31
+        },
+        "gap_bonferroni": {
+          "n": 50,
+          "n_used": 50,
+          "mean": -0.54,
+          "lo": -0.85,
+          "hi": -0.26
+        },
+        "k_bonferroni": 3,
+        "ci_excludes_zero": true,
+        "ci_bonf_excludes_zero": true,
+        "left": "B",
+        "right": "C",
+        "title": "B \u2212 C",
+        "metric": "hand_avg_full"
+      }
+    ],
+    "hand_avg_given_change": [
+      {
+        "n_paired": 50,
+        "left_mean": 2.5833333333333335,
+        "right_mean": 4.1976744186046515,
+        "gap": {
+          "n": 50,
+          "n_used": 50,
+          "mean": -1.614341085271318,
+          "lo": -2.072748205741626,
+          "hi": -1.159963675213676
+        },
+        "gap_bonferroni": {
+          "n": 50,
+          "n_used": 50,
+          "mean": -1.614341085271318,
+          "lo": -2.1740119317721422,
+          "hi": -1.047996515679441
+        },
+        "k_bonferroni": 3,
+        "ci_excludes_zero": true,
+        "ci_bonf_excludes_zero": true,
+        "left": "A",
+        "right": "B",
+        "title": "A \u2212 B",
+        "metric": "hand_avg_given_change"
+      },
+      {
+        "n_paired": 50,
+        "left_mean": 2.5833333333333335,
+        "right_mean": 4.732142857142857,
+        "gap": {
+          "n": 50,
+          "n_used": 50,
+          "mean": -2.1488095238095233,
+          "lo": -2.52976237124944,
+          "hi": -1.7800000000000002
+        },
+        "gap_bonferroni": {
+          "n": 50,
+          "n_used": 50,
+          "mean": -2.1488095238095233,
+          "lo": -2.6232603686635945,
+          "hi": -1.6973903508771928
+        },
+        "k_bonferroni": 3,
+        "ci_excludes_zero": true,
+        "ci_bonf_excludes_zero": true,
+        "left": "A",
+        "right": "C",
+        "title": "A \u2212 C",
+        "metric": "hand_avg_given_change"
+      },
+      {
+        "n_paired": 50,
+        "left_mean": 4.1976744186046515,
+        "right_mean": 4.732142857142857,
+        "gap": {
+          "n": 50,
+          "n_used": 50,
+          "mean": -0.5344684385382052,
+          "lo": -0.8231711735595617,
+          "hi": -0.2704342532467536
+        },
+        "gap_bonferroni": {
+          "n": 50,
+          "n_used": 50,
+          "mean": -0.5344684385382052,
+          "lo": -0.8931969850170051,
+          "hi": -0.21673701298701306
+        },
+        "k_bonferroni": 3,
+        "ci_excludes_zero": true,
+        "ci_bonf_excludes_zero": true,
+        "left": "B",
+        "right": "C",
+        "title": "B \u2212 C",
+        "metric": "hand_avg_given_change"
+      }
+    ],
+    "hand_meaning_full": [
+      {
+        "n_paired": 50,
+        "left_mean": 3.78,
+        "right_mean": 4.06,
+        "gap": {
+          "n": 50,
+          "n_used": 50,
+          "mean": -0.28,
+          "lo": -0.76,
+          "hi": 0.18
+        },
+        "gap_bonferroni": {
+          "n": 50,
+          "n_used": 50,
+          "mean": -0.28,
+          "lo": -0.86,
+          "hi": 0.28
+        },
+        "k_bonferroni": 3,
+        "ci_excludes_zero": false,
+        "ci_bonf_excludes_zero": false,
+        "left": "A",
+        "right": "B",
+        "title": "A \u2212 B",
+        "metric": "hand_meaning_full"
+      },
+      {
+        "n_paired": 50,
+        "left_mean": 3.78,
+        "right_mean": 4.72,
+        "gap": {
+          "n": 50,
+          "n_used": 50,
+          "mean": -0.94,
+          "lo": -1.3,
+          "hi": -0.58
+        },
+        "gap_bonferroni": {
+          "n": 50,
+          "n_used": 50,
+          "mean": -0.94,
+          "lo": -1.38,
+          "hi": -0.52
+        },
+        "k_bonferroni": 3,
+        "ci_excludes_zero": true,
+        "ci_bonf_excludes_zero": true,
+        "left": "A",
+        "right": "C",
+        "title": "A \u2212 C",
+        "metric": "hand_meaning_full"
+      },
+      {
+        "n_paired": 50,
+        "left_mean": 4.06,
+        "right_mean": 4.72,
+        "gap": {
+          "n": 50,
+          "n_used": 50,
+          "mean": -0.66,
+          "lo": -1.0,
+          "hi": -0.34
+        },
+        "gap_bonferroni": {
+          "n": 50,
+          "n_used": 50,
+          "mean": -0.66,
+          "lo": -1.08,
+          "hi": -0.28
+        },
+        "k_bonferroni": 3,
+        "ci_excludes_zero": true,
+        "ci_bonf_excludes_zero": true,
+        "left": "B",
+        "right": "C",
+        "title": "B \u2212 C",
+        "metric": "hand_meaning_full"
+      }
+    ],
+    "hand_fluency_full": [
+      {
+        "n_paired": 50,
+        "left_mean": 3.9,
+        "right_mean": 4.56,
+        "gap": {
+          "n": 50,
+          "n_used": 50,
+          "mean": -0.66,
+          "lo": -1.12,
+          "hi": -0.24
+        },
+        "gap_bonferroni": {
+          "n": 50,
+          "n_used": 50,
+          "mean": -0.66,
+          "lo": -1.22,
+          "hi": -0.14
+        },
+        "k_bonferroni": 3,
+        "ci_excludes_zero": true,
+        "ci_bonf_excludes_zero": true,
+        "left": "A",
+        "right": "B",
+        "title": "A \u2212 B",
+        "metric": "hand_fluency_full"
+      },
+      {
+        "n_paired": 50,
+        "left_mean": 3.9,
+        "right_mean": 4.98,
+        "gap": {
+          "n": 50,
+          "n_used": 50,
+          "mean": -1.08,
+          "lo": -1.46,
+          "hi": -0.7
+        },
+        "gap_bonferroni": {
+          "n": 50,
+          "n_used": 50,
+          "mean": -1.08,
+          "lo": -1.56,
+          "hi": -0.62
+        },
+        "k_bonferroni": 3,
+        "ci_excludes_zero": true,
+        "ci_bonf_excludes_zero": true,
+        "left": "A",
+        "right": "C",
+        "title": "A \u2212 C",
+        "metric": "hand_fluency_full"
+      },
+      {
+        "n_paired": 50,
+        "left_mean": 4.56,
+        "right_mean": 4.98,
+        "gap": {
+          "n": 50,
+          "n_used": 50,
+          "mean": -0.42,
+          "lo": -0.64,
+          "hi": -0.22
+        },
+        "gap_bonferroni": {
+          "n": 50,
+          "n_used": 50,
+          "mean": -0.42,
+          "lo": -0.7,
+          "hi": -0.18
+        },
+        "k_bonferroni": 3,
+        "ci_excludes_zero": true,
+        "ci_bonf_excludes_zero": true,
+        "left": "B",
+        "right": "C",
+        "title": "B \u2212 C",
+        "metric": "hand_fluency_full"
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "created_at": "2026-08-26T15:10:57Z",
+  "n_pairs": 50,
+  "na_coding": "-1 means unchanged / N/A in raw table",
+  "given_change": "mean over scored pairs only; -1 excluded",
+  "full_sample": "mean over all 50 pairs; -1 mapped to 5 only for this formula (raw table untouched)",
+  "conditions": {
+    "A": {
+      "condition": "A",
+      "n_pairs": 50,
+      "meaning_given_change": 2.458333,
+      "meaning_full_sample": 3.78,
+      "fluency_given_change": 2.708333,
+      "fluency_full_sample": 3.9,
+      "n_meaning_scored": 24,
+      "n_meaning_na": 26,
+      "n_fluency_scored": 24,
+      "n_fluency_na": 26,
+      "avg_given_change": 2.583333,
+      "avg_full_sample": 3.84
+    },
+    "B": {
+      "condition": "B",
+      "n_pairs": 50,
+      "meaning_given_change": 3.906977,
+      "meaning_full_sample": 4.06,
+      "fluency_given_change": 4.488372,
+      "fluency_full_sample": 4.56,
+      "n_meaning_scored": 43,
+      "n_meaning_na": 7,
+      "n_fluency_scored": 43,
+      "n_fluency_na": 7,
+      "avg_given_change": 4.197674,
+      "avg_full_sample": 4.31
+    },
+    "C": {
+      "condition": "C",
+      "n_pairs": 50,
+      "meaning_given_change": 4.5,
+      "meaning_full_sample": 4.72,
+      "fluency_given_change": 4.964286,
+      "fluency_full_sample": 4.98,
+      "n_meaning_scored": 28,
+      "n_meaning_na": 22,
+      "n_fluency_scored": 28,
+      "n_fluency_na": 22,
+      "avg_given_change": 4.732143,
+      "avg_full_sample": 4.85
+    }
+  }
+}

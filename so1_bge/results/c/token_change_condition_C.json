@@ -1,0 +1,3011 @@
+{
+  "created_at": "2026-08-25T09:21:29Z",
+  "condition": "C",
+  "tokenizer": "lower().split()",
+  "metric": "token_edit_distance / max(len_orig, len_anon)",
+  "n_users": 500,
+  "mean_fraction_changed": 0.13803875679535127,
+  "per_user_path": "so1_bge/results/c/token_change_condition_C_per_user.jsonl",
+  "per_user": [
+    {
+      "user_id": "user_0168255c",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.11725975638503032
+    },
+    {
+      "user_id": "user_02016939",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1384414813152519
+    },
+    {
+      "user_id": "user_0285dee3",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.19826646545973192
+    },
+    {
+      "user_id": "user_02d03e8a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.10868288651297436
+    },
+    {
+      "user_id": "user_02d8a1f8",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.28002517318319897
+    },
+    {
+      "user_id": "user_02fecea2",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.24492390650803214
+    },
+    {
+      "user_id": "user_03410579",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.131674284913504
+    },
+    {
+      "user_id": "user_043ea160",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.13192068529690532
+    },
+    {
+      "user_id": "user_04d29f9c",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.19796641055020667
+    },
+    {
+      "user_id": "user_04d8419e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.08360157255740852
+    },
+    {
+      "user_id": "user_0521a7ac",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.14874165720491225
+    },
+    {
+      "user_id": "user_058c1800",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.16791083102549753
+    },
+    {
+      "user_id": "user_0697c470",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12675487788004178
+    },
+    {
+      "user_id": "user_07cb458d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.06851406792761569
+    },
+    {
+      "user_id": "user_07db2c6a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.22388922525224253
+    },
+    {
+      "user_id": "user_07faa0fc",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1890740640541407
+    },
+    {
+      "user_id": "user_08aa624b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.13971713832027818
+    },
+    {
+      "user_id": "user_08c32973",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.11132048438416536
+    },
+    {
+      "user_id": "user_08e9ce6e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.18057940125127442
+    },
+    {
+      "user_id": "user_092e219d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1427016533085317
+    },
+    {
+      "user_id": "user_0a0bcaa6",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.11324025791971404
+    },
+    {
+      "user_id": "user_0a245f61",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.10557339030281476
+    },
+    {
+      "user_id": "user_0b5c256a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.10008133962596362
+    },
+    {
+      "user_id": "user_0b64b183",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.20552809413735879
+    },
+    {
+      "user_id": "user_0c578ab5",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.20544685762223872
+    },
+    {
+      "user_id": "user_0c8c48ac",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.24734310573334228
+    },
+    {
+      "user_id": "user_0cc626ee",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1552173579793426
+    },
+    {
+      "user_id": "user_0cd29f02",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.03332408085988032
+    },
+    {
+      "user_id": "user_0f0ad720",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.2146972922712837
+    },
+    {
+      "user_id": "user_107259c3",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.20896263162663167
+    },
+    {
+      "user_id": "user_10e64e28",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.11393941273421444
+    },
+    {
+      "user_id": "user_111cfe7d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.13531725215937043
+    },
+    {
+      "user_id": "user_11e8421f",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.0771036666703052
+    },
+    {
+      "user_id": "user_1230e05a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1328994545012085
+    },
+    {
+      "user_id": "user_126670d7",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.11844900141378757
+    },
+    {
+      "user_id": "user_1302cb61",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.21436016449717932
+    },
+    {
+      "user_id": "user_13f8ee07",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.06497716630690097
+    },
+    {
+      "user_id": "user_13fb2e34",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.21088228132857106
+    },
+    {
+      "user_id": "user_147d1bbb",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1448822713818222
+    },
+    {
+      "user_id": "user_14a2d3c6",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.22777041257528446
+    },
+    {
+      "user_id": "user_159646d5",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1924564384744732
+    },
+    {
+      "user_id": "user_164057cc",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.15296932596714663
+    },
+    {
+      "user_id": "user_164fe4b8",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.09516491747226692
+    },
+    {
+      "user_id": "user_165a2706",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.16721251407081014
+    },
+    {
+      "user_id": "user_16b87e34",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.09930048476107098
+    },
+    {
+      "user_id": "user_17355c30",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.17620070859970627
+    },
+    {
+      "user_id": "user_17607ebc",
+      "condition": "C",
+      "n_comments": 499,
+      "mean_fraction_changed": 0.549746962413647
+    },
+    {
+      "user_id": "user_183b3783",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1174785664591562
+    },
+    {
+      "user_id": "user_18522854",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.103780860900757
+    },
+    {
+      "user_id": "user_18892460",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.19505955531348326
+    },
+    {
+      "user_id": "user_18c333c6",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1138449704918393
+    },
+    {
+      "user_id": "user_192a215d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1388529130747827
+    },
+    {
+      "user_id": "user_194b92fc",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.08697591678187107
+    },
+    {
+      "user_id": "user_19641691",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.2307340237670319
+    },
+    {
+      "user_id": "user_19952166",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.07857035447056858
+    },
+    {
+      "user_id": "user_1a2755b3",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.053042937177836355
+    },
+    {
+      "user_id": "user_1a4bec69",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.13561199409479577
+    },
+    {
+      "user_id": "user_1a7d6cd5",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.16594554110583332
+    },
+    {
+      "user_id": "user_1b2d69c1",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.18170129750754876
+    },
+    {
+      "user_id": "user_1b7f8c56",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.09503491295428189
+    },
+    {
+      "user_id": "user_1b89f77a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.08410969397262705
+    },
+    {
+      "user_id": "user_1d775dd8",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.17722657063403857
+    },
+    {
+      "user_id": "user_1dc24686",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1333092285638662
+    },
+    {
+      "user_id": "user_1df51301",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.09625194937677248
+    },
+    {
+      "user_id": "user_1e302679",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.0870210883142049
+    },
+    {
+      "user_id": "user_1f1dc5e0",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.09409724846284692
+    },
+    {
+      "user_id": "user_1f636ddc",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1798538315842289
+    },
+    {
+      "user_id": "user_205d25f3",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.0910746958867549
+    },
+    {
+      "user_id": "user_20e741d0",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.23674785008313073
+    },
+    {
+      "user_id": "user_2142b6e1",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.09217209115857168
+    },
+    {
+      "user_id": "user_21b4fa31",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.11728436222078696
+    },
+    {
+      "user_id": "user_226be32f",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.19277254352996087
+    },
+    {
+      "user_id": "user_2373103d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1771947331936588
+    },
+    {
+      "user_id": "user_23e46560",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.21726863560934678
+    },
+    {
+      "user_id": "user_245fd42f",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.08418114511528074
+    },
+    {
+      "user_id": "user_25652863",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.0716814432112619
+    },
+    {
+      "user_id": "user_25798310",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12913977932997467
+    },
+    {
+      "user_id": "user_25b48a9a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.08948059260060821
+    },
+    {
+      "user_id": "user_26565155",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.09067679850756716
+    },
+    {
+      "user_id": "user_26fa9d90",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.183945138777163
+    },
+    {
+      "user_id": "user_27a3fa64",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.04190889751024587
+    },
+    {
+      "user_id": "user_2920b35e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.14365183101265325
+    },
+    {
+      "user_id": "user_29cd4556",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1550819515069738
+    },
+    {
+      "user_id": "user_2a704b9c",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1414571768265257
+    },
+    {
+      "user_id": "user_2a94c885",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.11567563941773638
+    },
+    {
+      "user_id": "user_2b271761",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.08365140123525545
+    },
+    {
+      "user_id": "user_2b750e1c",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.07661418252604288
+    },
+    {
+      "user_id": "user_2b79ef0b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.19276394585764525
+    },
+    {
+      "user_id": "user_2c3eb234",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.14417826482519971
+    },
+    {
+      "user_id": "user_2c69b83e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1164821882879368
+    },
+    {
+      "user_id": "user_2c940ff8",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.08620492213285515
+    },
+    {
+      "user_id": "user_2d74cd4c",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.09570115557903114
+    },
+    {
+      "user_id": "user_2dc10d2d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1134679445606572
+    },
+    {
+      "user_id": "user_2dd189e3",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.14687502965336377
+    },
+    {
+      "user_id": "user_2eaaa117",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.23453857319934604
+    },
+    {
+      "user_id": "user_2eb5d860",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.15432812342448807
+    },
+    {
+      "user_id": "user_2efde048",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1177005872507232
+    },
+    {
+      "user_id": "user_2f1085dd",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12163634125596758
+    },
+    {
+      "user_id": "user_2f766c23",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.08261732201653345
+    },
+    {
+      "user_id": "user_3049510b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.22925764442131616
+    },
+    {
+      "user_id": "user_30802254",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.10746995508627084
+    },
+    {
+      "user_id": "user_3121653d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.15928611754868574
+    },
+    {
+      "user_id": "user_32934d38",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.17817122407880762
+    },
+    {
+      "user_id": "user_32ae32f9",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12330310054677557
+    },
+    {
+      "user_id": "user_32f31383",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1059920047175195
+    },
+    {
+      "user_id": "user_3353b96b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.10939676609435046
+    },
+    {
+      "user_id": "user_338e1332",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.15271048308542093
+    },
+    {
+      "user_id": "user_34b1fb84",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.04439086482436402
+    },
+    {
+      "user_id": "user_364bb955",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.27282063789923433
+    },
+    {
+      "user_id": "user_36dd1253",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.16006242567209195
+    },
+    {
+      "user_id": "user_372c2b3e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.15550068436876227
+    },
+    {
+      "user_id": "user_378003e3",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.06493135020394428
+    },
+    {
+      "user_id": "user_37be663c",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12405681756704522
+    },
+    {
+      "user_id": "user_38390331",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.09285120754064623
+    },
+    {
+      "user_id": "user_3850eb9e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.14256396850743788
+    },
+    {
+      "user_id": "user_38ab51d4",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.19623256861545116
+    },
+    {
+      "user_id": "user_3971c3e6",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.15020147563476413
+    },
+    {
+      "user_id": "user_39939c54",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.06529460976918483
+    },
+    {
+      "user_id": "user_39aad1a2",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1360121203541735
+    },
+    {
+      "user_id": "user_39f8897b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.06032236938116409
+    },
+    {
+      "user_id": "user_3a55606c",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1626310336240526
+    },
+    {
+      "user_id": "user_3b1da5d9",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1607257930909452
+    },
+    {
+      "user_id": "user_3b90fb53",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1734519082185869
+    },
+    {
+      "user_id": "user_3bb7992e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.22108985185434285
+    },
+    {
+      "user_id": "user_3ce4c1f8",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.10587486359853099
+    },
+    {
+      "user_id": "user_3e284ba5",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.11281366563763194
+    },
+    {
+      "user_id": "user_3eb49f37",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.29612305457570337
+    },
+    {
+      "user_id": "user_3f1d04a6",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.2895460707386411
+    },
+    {
+      "user_id": "user_3f2894b5",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1884406784740098
+    },
+    {
+      "user_id": "user_3f798a8b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12862981148958214
+    },
+    {
+      "user_id": "user_3ff3188b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1149359325582356
+    },
+    {
+      "user_id": "user_3ff88cf0",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.10213564751410147
+    },
+    {
+      "user_id": "user_40a0bad3",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.08627527767824743
+    },
+    {
+      "user_id": "user_40efa894",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12954505137740463
+    },
+    {
+      "user_id": "user_41b20ee4",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.08861472429689754
+    },
+    {
+      "user_id": "user_433bdef0",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1427742601358004
+    },
+    {
+      "user_id": "user_434f3511",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.15927822486267065
+    },
+    {
+      "user_id": "user_44567221",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12951876702410248
+    },
+    {
+      "user_id": "user_454733da",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.16132052040284378
+    },
+    {
+      "user_id": "user_45926b89",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1357378749276914
+    },
+    {
+      "user_id": "user_45d008d3",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.14301939034870823
+    },
+    {
+      "user_id": "user_4607d25d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.15167632690222924
+    },
+    {
+      "user_id": "user_46e2e7ec",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.21044582084228994
+    },
+    {
+      "user_id": "user_476670f9",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12410336027171673
+    },
+    {
+      "user_id": "user_4aaa8404",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.16077645537458737
+    },
+    {
+      "user_id": "user_4ab9d510",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.11291522912519115
+    },
+    {
+      "user_id": "user_4b139395",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.14433932148042422
+    },
+    {
+      "user_id": "user_4b8335bd",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.18815991348514677
+    },
+    {
+      "user_id": "user_4bd9303b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.07404010137719617
+    },
+    {
+      "user_id": "user_4cad4295",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1465191509779133
+    },
+    {
+      "user_id": "user_4d4f73a6",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.13156936491395277
+    },
+    {
+      "user_id": "user_4e42bf97",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.11842273907110522
+    },
+    {
+      "user_id": "user_4e54f3d7",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.16741400763658276
+    },
+    {
+      "user_id": "user_4f3b6241",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.08153709971013408
+    },
+    {
+      "user_id": "user_4f8b6987",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.0887379725856511
+    },
+    {
+      "user_id": "user_500badda",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.15607211477115926
+    },
+    {
+      "user_id": "user_5062c872",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.09540286024941061
+    },
+    {
+      "user_id": "user_515ae840",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.120677472635009
+    },
+    {
+      "user_id": "user_524450e9",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.15932364969984109
+    },
+    {
+      "user_id": "user_529e3009",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.13553371768426895
+    },
+    {
+      "user_id": "user_52d3881c",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.03206120295185093
+    },
+    {
+      "user_id": "user_53325367",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.13761331179027142
+    },
+    {
+      "user_id": "user_54c1ebee",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.15368065275136422
+    },
+    {
+      "user_id": "user_56909460",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.21035838791590605
+    },
+    {
+      "user_id": "user_56980aa9",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1302137534046072
+    },
+    {
+      "user_id": "user_5738db35",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.2740160186899385
+    },
+    {
+      "user_id": "user_582ff5b2",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.07095355420833123
+    },
+    {
+      "user_id": "user_586752e4",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.14957638751316613
+    },
+    {
+      "user_id": "user_58892c7c",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.14990097874803146
+    },
+    {
+      "user_id": "user_58bfeaad",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.0834961528788104
+    },
+    {
+      "user_id": "user_59d9db83",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.19537212394824557
+    },
+    {
+      "user_id": "user_5a5bee64",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.08276928943497483
+    },
+    {
+      "user_id": "user_5a6c91dd",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.21344427185198872
+    },
+    {
+      "user_id": "user_5a6f92a6",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.04075345158073354
+    },
+    {
+      "user_id": "user_5ac1a174",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.16691236777768195
+    },
+    {
+      "user_id": "user_5c09bb3d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.18425466351030956
+    },
+    {
+      "user_id": "user_5c5a0b40",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.10438500994014702
+    },
+    {
+      "user_id": "user_5c82df31",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1505648931781222
+    },
+    {
+      "user_id": "user_5d1b0daf",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1221087174122256
+    },
+    {
+      "user_id": "user_5f4ee256",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.14349655787889834
+    },
+    {
+      "user_id": "user_6169d3b8",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.13690706229159388
+    },
+    {
+      "user_id": "user_61f90240",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1253403725829402
+    },
+    {
+      "user_id": "user_63110023",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.07583445908803696
+    },
+    {
+      "user_id": "user_636d1da4",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.20890560802144142
+    },
+    {
+      "user_id": "user_6427334a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.08039213141231537
+    },
+    {
+      "user_id": "user_6476648d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.10529067857283976
+    },
+    {
+      "user_id": "user_649f4327",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1210425464447129
+    },
+    {
+      "user_id": "user_657c72ca",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12932034814945723
+    },
+    {
+      "user_id": "user_6592f2e4",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.07074017762401218
+    },
+    {
+      "user_id": "user_65d73ac1",
+      "condition": "C",
+      "n_comments": 499,
+      "mean_fraction_changed": 0.08817269921819736
+    },
+    {
+      "user_id": "user_68349053",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.26595567472340303
+    },
+    {
+      "user_id": "user_68d19df8",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12771223579528576
+    },
+    {
+      "user_id": "user_69193575",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.062370537086693614
+    },
+    {
+      "user_id": "user_69a4dd06",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.10630769238670947
+    },
+    {
+      "user_id": "user_69df6330",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.06362301074800762
+    },
+    {
+      "user_id": "user_6ab1739a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1820882008857042
+    },
+    {
+      "user_id": "user_6ab8f7d4",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.16752107048926632
+    },
+    {
+      "user_id": "user_6d071251",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.10161158842806989
+    },
+    {
+      "user_id": "user_6d2cb415",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.17481992414541705
+    },
+    {
+      "user_id": "user_6d421600",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.0873249239544367
+    },
+    {
+      "user_id": "user_6f1b0197",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.15696528255022854
+    },
+    {
+      "user_id": "user_6fa47d61",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.0853392895875317
+    },
+    {
+      "user_id": "user_6fc85c06",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1385228961015576
+    },
+    {
+      "user_id": "user_6fccf8b5",
+      "condition": "C",
+      "n_comments": 497,
+      "mean_fraction_changed": 0.11739129363323081
+    },
+    {
+      "user_id": "user_723406a0",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.11114377462577338
+    },
+    {
+      "user_id": "user_72bed676",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.11415475934469439
+    },
+    {
+      "user_id": "user_7322f4ef",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.2029223309541408
+    },
+    {
+      "user_id": "user_737d3148",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.13363074211711445
+    },
+    {
+      "user_id": "user_73a4377d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.192014764244084
+    },
+    {
+      "user_id": "user_73f34c5d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1907670446711045
+    },
+    {
+      "user_id": "user_74025dc0",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.0871726590348
+    },
+    {
+      "user_id": "user_74cfb8ef",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1935728895033223
+    },
+    {
+      "user_id": "user_74e32d78",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.22476688824550362
+    },
+    {
+      "user_id": "user_756e2f00",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.09712256794058051
+    },
+    {
+      "user_id": "user_75905116",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.07094436141177686
+    },
+    {
+      "user_id": "user_7709815a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.0620835265342638
+    },
+    {
+      "user_id": "user_78eff25f",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.18462569986599692
+    },
+    {
+      "user_id": "user_7924afc9",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.10548679752952778
+    },
+    {
+      "user_id": "user_795eb408",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.23181182286056662
+    },
+    {
+      "user_id": "user_79f04645",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.09620528548775426
+    },
+    {
+      "user_id": "user_7a8f7f3e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.11158434926761916
+    },
+    {
+      "user_id": "user_7b052f32",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12331348585024193
+    },
+    {
+      "user_id": "user_7b2d0be1",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12937307434746084
+    },
+    {
+      "user_id": "user_7b4c75ab",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.17186647905253358
+    },
+    {
+      "user_id": "user_7c45fa70",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.14763495404180266
+    },
+    {
+      "user_id": "user_7c7220a4",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.07435608309558234
+    },
+    {
+      "user_id": "user_7f623d19",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.11505606966546057
+    },
+    {
+      "user_id": "user_7fd91653",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.17690885349337532
+    },
+    {
+      "user_id": "user_7fef9da8",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.11615877426492359
+    },
+    {
+      "user_id": "user_8006727d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1307560340973908
+    },
+    {
+      "user_id": "user_80da26a6",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.19960055221098771
+    },
+    {
+      "user_id": "user_80dc757f",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.14633335713063603
+    },
+    {
+      "user_id": "user_81a80789",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.11657306991333088
+    },
+    {
+      "user_id": "user_823846de",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.11548371337599254
+    },
+    {
+      "user_id": "user_8285a696",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12344122622116385
+    },
+    {
+      "user_id": "user_82879210",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.13734779903206557
+    },
+    {
+      "user_id": "user_829844fd",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.11866346306090844
+    },
+    {
+      "user_id": "user_82d93459",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.14815276513749845
+    },
+    {
+      "user_id": "user_83e45cc0",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.07874767633377634
+    },
+    {
+      "user_id": "user_84703a6e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.18201402256834653
+    },
+    {
+      "user_id": "user_84c14a6f",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.11728681633777967
+    },
+    {
+      "user_id": "user_84fe1a7a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12317567244393741
+    },
+    {
+      "user_id": "user_85810097",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.10625933208429071
+    },
+    {
+      "user_id": "user_8663226a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.05349691899999499
+    },
+    {
+      "user_id": "user_86685a27",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1623209057507762
+    },
+    {
+      "user_id": "user_869fcb2b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.11440821287573456
+    },
+    {
+      "user_id": "user_8713f22a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.0988661043299093
+    },
+    {
+      "user_id": "user_87e5d9b0",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.15469481795342443
+    },
+    {
+      "user_id": "user_885e8708",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1868218247893846
+    },
+    {
+      "user_id": "user_88f46c7b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1643724212649731
+    },
+    {
+      "user_id": "user_89f449b4",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.15950711434486578
+    },
+    {
+      "user_id": "user_8a760553",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12621468303464206
+    },
+    {
+      "user_id": "user_8ae8c359",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.14305890218318867
+    },
+    {
+      "user_id": "user_8afa3eba",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.207679436950485
+    },
+    {
+      "user_id": "user_8c6db6ed",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.18034010627017022
+    },
+    {
+      "user_id": "user_8d22714e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12976313537069303
+    },
+    {
+      "user_id": "user_8d85acb5",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.06747899328383915
+    },
+    {
+      "user_id": "user_8d968cfb",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.11669797225896983
+    },
+    {
+      "user_id": "user_8da30894",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.19257431504175596
+    },
+    {
+      "user_id": "user_8dd20d7f",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.09840491431396975
+    },
+    {
+      "user_id": "user_8e48a3f8",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1807776360074087
+    },
+    {
+      "user_id": "user_8e97a154",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.07837231242503143
+    },
+    {
+      "user_id": "user_8eac0a68",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.16804859897863086
+    },
+    {
+      "user_id": "user_8f08aa94",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.09323466496451223
+    },
+    {
+      "user_id": "user_8fe14601",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.10929577143729646
+    },
+    {
+      "user_id": "user_90202189",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.10665003024976596
+    },
+    {
+      "user_id": "user_902af20f",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.09960677253508474
+    },
+    {
+      "user_id": "user_903329bb",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1202465391138403
+    },
+    {
+      "user_id": "user_906e2423",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.0932057579907958
+    },
+    {
+      "user_id": "user_916503d6",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.08393258059631899
+    },
+    {
+      "user_id": "user_920c074a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.15756302764291516
+    },
+    {
+      "user_id": "user_938164a5",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12663361190094746
+    },
+    {
+      "user_id": "user_943e4045",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.0866376197105014
+    },
+    {
+      "user_id": "user_954805d7",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1183606886179214
+    },
+    {
+      "user_id": "user_959adfc8",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.319156297303394
+    },
+    {
+      "user_id": "user_95d648bc",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.16317527067127513
+    },
+    {
+      "user_id": "user_9600e8bf",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1132382648663749
+    },
+    {
+      "user_id": "user_96013176",
+      "condition": "C",
+      "n_comments": 499,
+      "mean_fraction_changed": 0.7378777612665027
+    },
+    {
+      "user_id": "user_9692f077",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.09932135962934213
+    },
+    {
+      "user_id": "user_96c3cc43",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.07176813675363274
+    },
+    {
+      "user_id": "user_96d9cb9a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.07010657115684728
+    },
+    {
+      "user_id": "user_97330742",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.15085617967267573
+    },
+    {
+      "user_id": "user_979ee068",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.09824905394142103
+    },
+    {
+      "user_id": "user_9818dcae",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.13862038005263827
+    },
+    {
+      "user_id": "user_98a676ce",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.2259902559977706
+    },
+    {
+      "user_id": "user_98ca16a6",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.09991158101564199
+    },
+    {
+      "user_id": "user_98f18241",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1191194357380465
+    },
+    {
+      "user_id": "user_9991e1d8",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.05231207960292927
+    },
+    {
+      "user_id": "user_99c67f2f",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1060339637490012
+    },
+    {
+      "user_id": "user_9a307ebe",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1046493350851462
+    },
+    {
+      "user_id": "user_9a5457b0",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.17123310287074106
+    },
+    {
+      "user_id": "user_9b517815",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.18840751478021656
+    },
+    {
+      "user_id": "user_9b6481e4",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.10913257762064166
+    },
+    {
+      "user_id": "user_9bee2a7c",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.13297095637042325
+    },
+    {
+      "user_id": "user_9c5cd7fa",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.0926014318445518
+    },
+    {
+      "user_id": "user_9c5e4782",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12573986276686436
+    },
+    {
+      "user_id": "user_9c7183c8",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.10685116673147167
+    },
+    {
+      "user_id": "user_9ce96cbf",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.09104855323658687
+    },
+    {
+      "user_id": "user_9d8095fc",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.09629189031470244
+    },
+    {
+      "user_id": "user_9d9fba70",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.14497239468192202
+    },
+    {
+      "user_id": "user_9dda4af9",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.16311834910161258
+    },
+    {
+      "user_id": "user_9e328c4e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1271762697042565
+    },
+    {
+      "user_id": "user_9e39a95d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.10089823454438943
+    },
+    {
+      "user_id": "user_9f81cfba",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.11493351023744973
+    },
+    {
+      "user_id": "user_9fc3c829",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.21198960484166277
+    },
+    {
+      "user_id": "user_9ff844ba",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.14603191517474243
+    },
+    {
+      "user_id": "user_a01f16ac",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.18782039114460405
+    },
+    {
+      "user_id": "user_a0fa40f1",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.17321899232865362
+    },
+    {
+      "user_id": "user_a151ddab",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.13033517151473467
+    },
+    {
+      "user_id": "user_a1b097c2",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.14183027849207183
+    },
+    {
+      "user_id": "user_a2825b06",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12905501385703314
+    },
+    {
+      "user_id": "user_a2f8bfd2",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.11470475677410691
+    },
+    {
+      "user_id": "user_a346dfc4",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.10766752640796538
+    },
+    {
+      "user_id": "user_a4893af1",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.2287475612191462
+    },
+    {
+      "user_id": "user_a4a77a7d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.15530711168789657
+    },
+    {
+      "user_id": "user_a4aab257",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12032500298615159
+    },
+    {
+      "user_id": "user_a4ae4e77",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.20600023338482232
+    },
+    {
+      "user_id": "user_a52dd639",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12046592703152606
+    },
+    {
+      "user_id": "user_a57a04fa",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.14769553618029202
+    },
+    {
+      "user_id": "user_a57e47b1",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.11035600990474029
+    },
+    {
+      "user_id": "user_a6a094cf",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.26335971099029176
+    },
+    {
+      "user_id": "user_a743aff9",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.08412886034617699
+    },
+    {
+      "user_id": "user_a8dc91a3",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.06887647341249256
+    },
+    {
+      "user_id": "user_a973cf8e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.10167465298999274
+    },
+    {
+      "user_id": "user_a9ed5193",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12172108979817087
+    },
+    {
+      "user_id": "user_aa4cc34a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.20843073535602377
+    },
+    {
+      "user_id": "user_aaa1e595",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.10541040550384775
+    },
+    {
+      "user_id": "user_ab434739",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.13463388794962936
+    },
+    {
+      "user_id": "user_ab439a92",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.11703123373108727
+    },
+    {
+      "user_id": "user_ab5592eb",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.10827029276015744
+    },
+    {
+      "user_id": "user_ab8e847b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.132607933334257
+    },
+    {
+      "user_id": "user_abde0618",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.17537332654382293
+    },
+    {
+      "user_id": "user_ac6d6bff",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.07144254470462373
+    },
+    {
+      "user_id": "user_ac6e9129",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1329236300069413
+    },
+    {
+      "user_id": "user_acb51eed",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12296811873827261
+    },
+    {
+      "user_id": "user_acb899e9",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12622472122878128
+    },
+    {
+      "user_id": "user_acd6ddfb",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1247766729200243
+    },
+    {
+      "user_id": "user_ad15a0a4",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.2438276862377911
+    },
+    {
+      "user_id": "user_b1c16312",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.10937249328688665
+    },
+    {
+      "user_id": "user_b23aa915",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.09510149355890331
+    },
+    {
+      "user_id": "user_b2aba63a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.09920547179600256
+    },
+    {
+      "user_id": "user_b2dd04c8",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.13581307681923271
+    },
+    {
+      "user_id": "user_b2f3c0d2",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.24088224987024523
+    },
+    {
+      "user_id": "user_b325310b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.08706912102106545
+    },
+    {
+      "user_id": "user_b337cb0c",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.19702114936255583
+    },
+    {
+      "user_id": "user_b49274ca",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.06647712936709067
+    },
+    {
+      "user_id": "user_b4d7e69a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.09413515526575378
+    },
+    {
+      "user_id": "user_b4f295b3",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.18770862313581058
+    },
+    {
+      "user_id": "user_b563e90b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.21068220067794094
+    },
+    {
+      "user_id": "user_b5af9db9",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12398023946835093
+    },
+    {
+      "user_id": "user_b628264a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.17532195188234237
+    },
+    {
+      "user_id": "user_b6350ec1",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.10308514608374704
+    },
+    {
+      "user_id": "user_b63ea1d4",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.06620974187979334
+    },
+    {
+      "user_id": "user_b6b89f00",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.09284809411730112
+    },
+    {
+      "user_id": "user_b7ba6422",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.10065248680820425
+    },
+    {
+      "user_id": "user_b888c512",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1092760248337574
+    },
+    {
+      "user_id": "user_b8f24804",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.13026877714766652
+    },
+    {
+      "user_id": "user_b9036662",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.09417313420081302
+    },
+    {
+      "user_id": "user_ba010eec",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.07454964485182464
+    },
+    {
+      "user_id": "user_ba463257",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.08133997548435362
+    },
+    {
+      "user_id": "user_ba8b1c05",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.09293612063828924
+    },
+    {
+      "user_id": "user_baeb91b3",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12959311132599388
+    },
+    {
+      "user_id": "user_baf68fe9",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.3536593661098792
+    },
+    {
+      "user_id": "user_bb8be7e3",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.10476163080909744
+    },
+    {
+      "user_id": "user_bbcbf015",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.16129334038229237
+    },
+    {
+      "user_id": "user_bbe73426",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1826607704953222
+    },
+    {
+      "user_id": "user_bd19a016",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.11758002397529412
+    },
+    {
+      "user_id": "user_bd47000f",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.25712860654817327
+    },
+    {
+      "user_id": "user_bdcc6e7d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.09989686871401082
+    },
+    {
+      "user_id": "user_be06391b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.11915288797367692
+    },
+    {
+      "user_id": "user_beca29a3",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.11366799787399319
+    },
+    {
+      "user_id": "user_bf30f80d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.05989482149299631
+    },
+    {
+      "user_id": "user_c008345b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12902023616430092
+    },
+    {
+      "user_id": "user_c0392523",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.17376228443366729
+    },
+    {
+      "user_id": "user_c06d9b71",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.16754511092406063
+    },
+    {
+      "user_id": "user_c0eba9f2",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1804350457712133
+    },
+    {
+      "user_id": "user_c130412b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.08224446066417329
+    },
+    {
+      "user_id": "user_c154e834",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.08642581053003895
+    },
+    {
+      "user_id": "user_c157ca97",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.06892120809060119
+    },
+    {
+      "user_id": "user_c204a1dd",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.16107902897064835
+    },
+    {
+      "user_id": "user_c2f18cf7",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.10818532242353905
+    },
+    {
+      "user_id": "user_c3040c7c",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1845290631950827
+    },
+    {
+      "user_id": "user_c39d41d7",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.09696520704160187
+    },
+    {
+      "user_id": "user_c41de62b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.15001828087695748
+    },
+    {
+      "user_id": "user_c4c70447",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.09753505589273334
+    },
+    {
+      "user_id": "user_c50a487d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12392342848642485
+    },
+    {
+      "user_id": "user_c536b01d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.0482999339953356
+    },
+    {
+      "user_id": "user_c59ebe9c",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1591505458708892
+    },
+    {
+      "user_id": "user_c5c57a9d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.11335654680562103
+    },
+    {
+      "user_id": "user_c5f32c0d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.15676249529499808
+    },
+    {
+      "user_id": "user_c60d65b5",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.09113310143251746
+    },
+    {
+      "user_id": "user_c67f26cc",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1094327094889779
+    },
+    {
+      "user_id": "user_c709e252",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.13191061862250084
+    },
+    {
+      "user_id": "user_c809e3d2",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12511857648752397
+    },
+    {
+      "user_id": "user_c81fae29",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.3121996393510271
+    },
+    {
+      "user_id": "user_c883258f",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.26741268090512826
+    },
+    {
+      "user_id": "user_c8e749e2",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1502634471525214
+    },
+    {
+      "user_id": "user_c903d3bb",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.16343243784007644
+    },
+    {
+      "user_id": "user_c96b90fe",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12671583187491303
+    },
+    {
+      "user_id": "user_c994138f",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1466907400400478
+    },
+    {
+      "user_id": "user_caa6a7b6",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.0901439745211351
+    },
+    {
+      "user_id": "user_caebed72",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.09850345161738966
+    },
+    {
+      "user_id": "user_cb2fe204",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1404856110937637
+    },
+    {
+      "user_id": "user_cb8245f7",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.11376132970424746
+    },
+    {
+      "user_id": "user_cdd86523",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.05639824710239686
+    },
+    {
+      "user_id": "user_cf393213",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.10089335809737852
+    },
+    {
+      "user_id": "user_d023a78e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.26048486739702076
+    },
+    {
+      "user_id": "user_d036c911",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12126100566274979
+    },
+    {
+      "user_id": "user_d074356a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1158624339807698
+    },
+    {
+      "user_id": "user_d10d1f24",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.13944326299261905
+    },
+    {
+      "user_id": "user_d14b7d7b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12885001621182846
+    },
+    {
+      "user_id": "user_d1d16d30",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.06738901006110413
+    },
+    {
+      "user_id": "user_d2c97c8e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.06740099120578694
+    },
+    {
+      "user_id": "user_d4b7e22e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.2628282796525743
+    },
+    {
+      "user_id": "user_d50d7985",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1315838981559697
+    },
+    {
+      "user_id": "user_d5d4fc6e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.20417234854060962
+    },
+    {
+      "user_id": "user_d761140c",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12382689921604899
+    },
+    {
+      "user_id": "user_d849ac6e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.10991086878455755
+    },
+    {
+      "user_id": "user_d955d7e2",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1719845847950866
+    },
+    {
+      "user_id": "user_da51dede",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.14673844793810115
+    },
+    {
+      "user_id": "user_dac2c359",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.19307496307870542
+    },
+    {
+      "user_id": "user_daf37424",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.08728954994493156
+    },
+    {
+      "user_id": "user_db4c3fb9",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.15254987965626188
+    },
+    {
+      "user_id": "user_dbbf562e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12574198422930352
+    },
+    {
+      "user_id": "user_dc326993",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.08609619997465633
+    },
+    {
+      "user_id": "user_dc32d458",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.14693732670559076
+    },
+    {
+      "user_id": "user_dca78fea",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12444577862228508
+    },
+    {
+      "user_id": "user_dd0bd02d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.13141210463203726
+    },
+    {
+      "user_id": "user_df8dc9bb",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1985700955323532
+    },
+    {
+      "user_id": "user_dffc0da5",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1546493628296206
+    },
+    {
+      "user_id": "user_e0c65725",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12226061811511303
+    },
+    {
+      "user_id": "user_e10c98bb",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.14646075181764548
+    },
+    {
+      "user_id": "user_e14b88a8",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.07063703079132369
+    },
+    {
+      "user_id": "user_e1730a9c",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12077040097261037
+    },
+    {
+      "user_id": "user_e409a56d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12443414600948967
+    },
+    {
+      "user_id": "user_e4ab67b6",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.20588462250251421
+    },
+    {
+      "user_id": "user_e4f8ab0c",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1196176636318457
+    },
+    {
+      "user_id": "user_e51692a6",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.21900754674855744
+    },
+    {
+      "user_id": "user_e59c000f",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.11458123122595368
+    },
+    {
+      "user_id": "user_e5f67397",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.14324563725677172
+    },
+    {
+      "user_id": "user_e64d80ba",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.18077073136904942
+    },
+    {
+      "user_id": "user_e6dd44b0",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.15551297101911837
+    },
+    {
+      "user_id": "user_e7a55eac",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.18681853812422608
+    },
+    {
+      "user_id": "user_e802076d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.05910507339788902
+    },
+    {
+      "user_id": "user_e838707b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.08876577771994736
+    },
+    {
+      "user_id": "user_e8613813",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.06891029835398182
+    },
+    {
+      "user_id": "user_e88c308b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.07831676292617575
+    },
+    {
+      "user_id": "user_e8a7be73",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.16988255773926816
+    },
+    {
+      "user_id": "user_e8e9acac",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1331398102900733
+    },
+    {
+      "user_id": "user_e9d1886c",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1173459781320134
+    },
+    {
+      "user_id": "user_ea67f9c6",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.20867104432644312
+    },
+    {
+      "user_id": "user_ebe17c78",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.13965987784496808
+    },
+    {
+      "user_id": "user_ec574395",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1683260487418994
+    },
+    {
+      "user_id": "user_ecba8131",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.13331268509412578
+    },
+    {
+      "user_id": "user_ecc1ca0a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.2154510430943511
+    },
+    {
+      "user_id": "user_ed1aaed8",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12132114990282965
+    },
+    {
+      "user_id": "user_ee05ee55",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.14303802935047463
+    },
+    {
+      "user_id": "user_ee14f818",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.08247948404343865
+    },
+    {
+      "user_id": "user_ee8d5ec5",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.08628977901809827
+    },
+    {
+      "user_id": "user_ef954c6e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.09905583259823704
+    },
+    {
+      "user_id": "user_efcacf59",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.0214591440689058
+    },
+    {
+      "user_id": "user_f030b951",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.08815776650762892
+    },
+    {
+      "user_id": "user_f070eee7",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12746375355274142
+    },
+    {
+      "user_id": "user_f0b144fc",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.09743020728654077
+    },
+    {
+      "user_id": "user_f0cf195f",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.13910990404037302
+    },
+    {
+      "user_id": "user_f107081e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.05824818151476377
+    },
+    {
+      "user_id": "user_f27da10a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1100569254365368
+    },
+    {
+      "user_id": "user_f3377028",
+      "condition": "C",
+      "n_comments": 499,
+      "mean_fraction_changed": 0.46986054766421614
+    },
+    {
+      "user_id": "user_f368b9da",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12440216527015001
+    },
+    {
+      "user_id": "user_f43d6008",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1901380550076367
+    },
+    {
+      "user_id": "user_f4f9490d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.13594949394809555
+    },
+    {
+      "user_id": "user_f5138e15",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.07311607428899265
+    },
+    {
+      "user_id": "user_f52ced02",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.11763477844867593
+    },
+    {
+      "user_id": "user_f54058d0",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.07501623193662971
+    },
+    {
+      "user_id": "user_f5e2976e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.14259160807878157
+    },
+    {
+      "user_id": "user_f5fea76f",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.2147369006971489
+    },
+    {
+      "user_id": "user_f60a09b3",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1453402385792078
+    },
+    {
+      "user_id": "user_f7538815",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.07022057009982592
+    },
+    {
+      "user_id": "user_f75c71f0",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.20345976372137461
+    },
+    {
+      "user_id": "user_f7bb8af1",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.17507856132979702
+    },
+    {
+      "user_id": "user_f7fd2885",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.10076073067079548
+    },
+    {
+      "user_id": "user_f827c7dd",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.18408522471330319
+    },
+    {
+      "user_id": "user_f8e2246f",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.11445714666031458
+    },
+    {
+      "user_id": "user_f930e37f",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.09004345133551425
+    },
+    {
+      "user_id": "user_f959eee4",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.034662143172785216
+    },
+    {
+      "user_id": "user_fa60616d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.07033843519999733
+    },
+    {
+      "user_id": "user_fa69a385",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.1504570407743164
+    },
+    {
+      "user_id": "user_fb427339",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.11766532674261707
+    },
+    {
+      "user_id": "user_fb64cb55",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.14821655276777648
+    },
+    {
+      "user_id": "user_fb8f46c8",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.11282917668296416
+    },
+    {
+      "user_id": "user_fbed237d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.18063400148832426
+    },
+    {
+      "user_id": "user_fc1cfe0b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.13220885841610652
+    },
+    {
+      "user_id": "user_fca58a87",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.17639292859291902
+    },
+    {
+      "user_id": "user_fcf93ee8",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12555117613942293
+    },
+    {
+      "user_id": "user_fdc08e26",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.08336966320530267
+    },
+    {
+      "user_id": "user_fdcaaf41",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.16575663626104956
+    },
+    {
+      "user_id": "user_fde2d265",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.11288700771452924
+    },
+    {
+      "user_id": "user_fe922ad0",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.12291158437951523
+    },
+    {
+      "user_id": "user_ff39b6cf",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.16881288092517843
+    },
+    {
+      "user_id": "user_ff591131",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_fraction_changed": 0.10538131356137229
+    }
+  ]
+}

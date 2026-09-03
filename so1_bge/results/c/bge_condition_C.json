@@ -1,0 +1,3513 @@
+{
+  "created_at": "2026-08-25T14:25:00Z",
+  "condition": "C",
+  "model": "BAAI/bge-base-en-v1.5",
+  "device": "cpu",
+  "n_users": 500,
+  "skipped_identical_profiles": 0,
+  "mean_cosine_similarity": 0.9280616990327835,
+  "mean_cosine_distance": 0.07193830096721654,
+  "per_user_path": "so1_bge/results/c/bge_condition_C_per_user.jsonl",
+  "per_user": [
+    {
+      "user_id": "user_0168255c",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9469865560531616,
+      "mean_cosine_distance": 0.05301344394683838
+    },
+    {
+      "user_id": "user_02016939",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9346530437469482,
+      "mean_cosine_distance": 0.06534695625305176
+    },
+    {
+      "user_id": "user_0285dee3",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9068194627761841,
+      "mean_cosine_distance": 0.09318053722381592
+    },
+    {
+      "user_id": "user_02d03e8a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9395996928215027,
+      "mean_cosine_distance": 0.060400307178497314
+    },
+    {
+      "user_id": "user_02d8a1f8",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8743963837623596,
+      "mean_cosine_distance": 0.12560361623764038
+    },
+    {
+      "user_id": "user_02fecea2",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8782951831817627,
+      "mean_cosine_distance": 0.1217048168182373
+    },
+    {
+      "user_id": "user_03410579",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9382486343383789,
+      "mean_cosine_distance": 0.061751365661621094
+    },
+    {
+      "user_id": "user_043ea160",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9363412261009216,
+      "mean_cosine_distance": 0.06365877389907837
+    },
+    {
+      "user_id": "user_04d29f9c",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9046486616134644,
+      "mean_cosine_distance": 0.09535133838653564
+    },
+    {
+      "user_id": "user_04d8419e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9508854746818542,
+      "mean_cosine_distance": 0.04911452531814575
+    },
+    {
+      "user_id": "user_0521a7ac",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9228137135505676,
+      "mean_cosine_distance": 0.07718628644943237
+    },
+    {
+      "user_id": "user_058c1800",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9225746989250183,
+      "mean_cosine_distance": 0.07742530107498169
+    },
+    {
+      "user_id": "user_0697c470",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9362463355064392,
+      "mean_cosine_distance": 0.06375366449356079
+    },
+    {
+      "user_id": "user_07cb458d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9569094181060791,
+      "mean_cosine_distance": 0.0430905818939209
+    },
+    {
+      "user_id": "user_07db2c6a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8939980268478394,
+      "mean_cosine_distance": 0.10600197315216064
+    },
+    {
+      "user_id": "user_07faa0fc",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8983012437820435,
+      "mean_cosine_distance": 0.10169875621795654
+    },
+    {
+      "user_id": "user_08aa624b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9274014830589294,
+      "mean_cosine_distance": 0.07259851694107056
+    },
+    {
+      "user_id": "user_08c32973",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9413428902626038,
+      "mean_cosine_distance": 0.05865710973739624
+    },
+    {
+      "user_id": "user_08e9ce6e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9040915369987488,
+      "mean_cosine_distance": 0.09590846300125122
+    },
+    {
+      "user_id": "user_092e219d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9265837073326111,
+      "mean_cosine_distance": 0.07341629266738892
+    },
+    {
+      "user_id": "user_0a0bcaa6",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.937989354133606,
+      "mean_cosine_distance": 0.06201064586639404
+    },
+    {
+      "user_id": "user_0a245f61",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9506255388259888,
+      "mean_cosine_distance": 0.04937446117401123
+    },
+    {
+      "user_id": "user_0b5c256a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.945648729801178,
+      "mean_cosine_distance": 0.05435127019882202
+    },
+    {
+      "user_id": "user_0b64b183",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8952090740203857,
+      "mean_cosine_distance": 0.10479092597961426
+    },
+    {
+      "user_id": "user_0c578ab5",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.912509560585022,
+      "mean_cosine_distance": 0.08749043941497803
+    },
+    {
+      "user_id": "user_0c8c48ac",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8659176230430603,
+      "mean_cosine_distance": 0.1340823769569397
+    },
+    {
+      "user_id": "user_0cc626ee",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9200097918510437,
+      "mean_cosine_distance": 0.0799902081489563
+    },
+    {
+      "user_id": "user_0cd29f02",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9781767725944519,
+      "mean_cosine_distance": 0.021823227405548096
+    },
+    {
+      "user_id": "user_0f0ad720",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.906416654586792,
+      "mean_cosine_distance": 0.09358334541320801
+    },
+    {
+      "user_id": "user_107259c3",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8705806136131287,
+      "mean_cosine_distance": 0.12941938638687134
+    },
+    {
+      "user_id": "user_10e64e28",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9501129388809204,
+      "mean_cosine_distance": 0.04988706111907959
+    },
+    {
+      "user_id": "user_111cfe7d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9246439337730408,
+      "mean_cosine_distance": 0.07535606622695923
+    },
+    {
+      "user_id": "user_11e8421f",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.957392692565918,
+      "mean_cosine_distance": 0.04260730743408203
+    },
+    {
+      "user_id": "user_1230e05a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9337967038154602,
+      "mean_cosine_distance": 0.0662032961845398
+    },
+    {
+      "user_id": "user_126670d7",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9372388124465942,
+      "mean_cosine_distance": 0.06276118755340576
+    },
+    {
+      "user_id": "user_1302cb61",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8745909333229065,
+      "mean_cosine_distance": 0.1254090666770935
+    },
+    {
+      "user_id": "user_13f8ee07",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9679678678512573,
+      "mean_cosine_distance": 0.032032132148742676
+    },
+    {
+      "user_id": "user_13fb2e34",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8936271071434021,
+      "mean_cosine_distance": 0.1063728928565979
+    },
+    {
+      "user_id": "user_147d1bbb",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9229693412780762,
+      "mean_cosine_distance": 0.07703065872192383
+    },
+    {
+      "user_id": "user_14a2d3c6",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8766119480133057,
+      "mean_cosine_distance": 0.12338805198669434
+    },
+    {
+      "user_id": "user_159646d5",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8899401426315308,
+      "mean_cosine_distance": 0.11005985736846924
+    },
+    {
+      "user_id": "user_164057cc",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9223446249961853,
+      "mean_cosine_distance": 0.0776553750038147
+    },
+    {
+      "user_id": "user_164fe4b8",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9504858255386353,
+      "mean_cosine_distance": 0.049514174461364746
+    },
+    {
+      "user_id": "user_165a2706",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9145849943161011,
+      "mean_cosine_distance": 0.08541500568389893
+    },
+    {
+      "user_id": "user_16b87e34",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9451512694358826,
+      "mean_cosine_distance": 0.05484873056411743
+    },
+    {
+      "user_id": "user_17355c30",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9009094834327698,
+      "mean_cosine_distance": 0.09909051656723022
+    },
+    {
+      "user_id": "user_17607ebc",
+      "condition": "C",
+      "n_comments": 499,
+      "mean_cosine": 0.7354236245155334,
+      "mean_cosine_distance": 0.26457637548446655
+    },
+    {
+      "user_id": "user_183b3783",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9354715347290039,
+      "mean_cosine_distance": 0.0645284652709961
+    },
+    {
+      "user_id": "user_18522854",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9504179954528809,
+      "mean_cosine_distance": 0.04958200454711914
+    },
+    {
+      "user_id": "user_18892460",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9059744477272034,
+      "mean_cosine_distance": 0.09402555227279663
+    },
+    {
+      "user_id": "user_18c333c6",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9404005408287048,
+      "mean_cosine_distance": 0.059599459171295166
+    },
+    {
+      "user_id": "user_192a215d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9325854778289795,
+      "mean_cosine_distance": 0.06741452217102051
+    },
+    {
+      "user_id": "user_194b92fc",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9478460550308228,
+      "mean_cosine_distance": 0.052153944969177246
+    },
+    {
+      "user_id": "user_19641691",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8884609341621399,
+      "mean_cosine_distance": 0.11153906583786011
+    },
+    {
+      "user_id": "user_19952166",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9602881073951721,
+      "mean_cosine_distance": 0.03971189260482788
+    },
+    {
+      "user_id": "user_1a2755b3",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9715040922164917,
+      "mean_cosine_distance": 0.0284959077835083
+    },
+    {
+      "user_id": "user_1a4bec69",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9154641032218933,
+      "mean_cosine_distance": 0.08453589677810669
+    },
+    {
+      "user_id": "user_1a7d6cd5",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9129403233528137,
+      "mean_cosine_distance": 0.08705967664718628
+    },
+    {
+      "user_id": "user_1b2d69c1",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8984074592590332,
+      "mean_cosine_distance": 0.1015925407409668
+    },
+    {
+      "user_id": "user_1b7f8c56",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9501703977584839,
+      "mean_cosine_distance": 0.04982960224151611
+    },
+    {
+      "user_id": "user_1b89f77a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9561945199966431,
+      "mean_cosine_distance": 0.043805480003356934
+    },
+    {
+      "user_id": "user_1d775dd8",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.911849856376648,
+      "mean_cosine_distance": 0.08815014362335205
+    },
+    {
+      "user_id": "user_1dc24686",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9346679449081421,
+      "mean_cosine_distance": 0.06533205509185791
+    },
+    {
+      "user_id": "user_1df51301",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9491628408432007,
+      "mean_cosine_distance": 0.050837159156799316
+    },
+    {
+      "user_id": "user_1e302679",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9477604031562805,
+      "mean_cosine_distance": 0.05223959684371948
+    },
+    {
+      "user_id": "user_1f1dc5e0",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9541318416595459,
+      "mean_cosine_distance": 0.0458681583404541
+    },
+    {
+      "user_id": "user_1f636ddc",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9065483808517456,
+      "mean_cosine_distance": 0.0934516191482544
+    },
+    {
+      "user_id": "user_205d25f3",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9479564428329468,
+      "mean_cosine_distance": 0.05204355716705322
+    },
+    {
+      "user_id": "user_20e741d0",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8777188658714294,
+      "mean_cosine_distance": 0.12228113412857056
+    },
+    {
+      "user_id": "user_2142b6e1",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9508283734321594,
+      "mean_cosine_distance": 0.049171626567840576
+    },
+    {
+      "user_id": "user_21b4fa31",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9424123764038086,
+      "mean_cosine_distance": 0.057587623596191406
+    },
+    {
+      "user_id": "user_226be32f",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9061385989189148,
+      "mean_cosine_distance": 0.0938614010810852
+    },
+    {
+      "user_id": "user_2373103d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9231516718864441,
+      "mean_cosine_distance": 0.07684832811355591
+    },
+    {
+      "user_id": "user_23e46560",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8897542953491211,
+      "mean_cosine_distance": 0.1102457046508789
+    },
+    {
+      "user_id": "user_245fd42f",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9527941942214966,
+      "mean_cosine_distance": 0.04720580577850342
+    },
+    {
+      "user_id": "user_25652863",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9581676125526428,
+      "mean_cosine_distance": 0.04183238744735718
+    },
+    {
+      "user_id": "user_25798310",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9316644072532654,
+      "mean_cosine_distance": 0.06833559274673462
+    },
+    {
+      "user_id": "user_25b48a9a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9521588683128357,
+      "mean_cosine_distance": 0.04784113168716431
+    },
+    {
+      "user_id": "user_26565155",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9455612897872925,
+      "mean_cosine_distance": 0.05443871021270752
+    },
+    {
+      "user_id": "user_26fa9d90",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9242204427719116,
+      "mean_cosine_distance": 0.07577955722808838
+    },
+    {
+      "user_id": "user_27a3fa64",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9772382974624634,
+      "mean_cosine_distance": 0.02276170253753662
+    },
+    {
+      "user_id": "user_2920b35e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9235168695449829,
+      "mean_cosine_distance": 0.07648313045501709
+    },
+    {
+      "user_id": "user_29cd4556",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9012102484703064,
+      "mean_cosine_distance": 0.0987897515296936
+    },
+    {
+      "user_id": "user_2a704b9c",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9220987558364868,
+      "mean_cosine_distance": 0.07790124416351318
+    },
+    {
+      "user_id": "user_2a94c885",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.941576361656189,
+      "mean_cosine_distance": 0.058423638343811035
+    },
+    {
+      "user_id": "user_2b271761",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9563049077987671,
+      "mean_cosine_distance": 0.04369509220123291
+    },
+    {
+      "user_id": "user_2b750e1c",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9619080424308777,
+      "mean_cosine_distance": 0.038091957569122314
+    },
+    {
+      "user_id": "user_2b79ef0b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9047951102256775,
+      "mean_cosine_distance": 0.09520488977432251
+    },
+    {
+      "user_id": "user_2c3eb234",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9225306510925293,
+      "mean_cosine_distance": 0.0774693489074707
+    },
+    {
+      "user_id": "user_2c69b83e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9373027682304382,
+      "mean_cosine_distance": 0.06269723176956177
+    },
+    {
+      "user_id": "user_2c940ff8",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9563021659851074,
+      "mean_cosine_distance": 0.04369783401489258
+    },
+    {
+      "user_id": "user_2d74cd4c",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9565325975418091,
+      "mean_cosine_distance": 0.04346740245819092
+    },
+    {
+      "user_id": "user_2dc10d2d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9391472935676575,
+      "mean_cosine_distance": 0.06085270643234253
+    },
+    {
+      "user_id": "user_2dd189e3",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9286677241325378,
+      "mean_cosine_distance": 0.07133227586746216
+    },
+    {
+      "user_id": "user_2eaaa117",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8873472809791565,
+      "mean_cosine_distance": 0.1126527190208435
+    },
+    {
+      "user_id": "user_2eb5d860",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9168915152549744,
+      "mean_cosine_distance": 0.08310848474502563
+    },
+    {
+      "user_id": "user_2efde048",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9420210123062134,
+      "mean_cosine_distance": 0.05797898769378662
+    },
+    {
+      "user_id": "user_2f1085dd",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9300011992454529,
+      "mean_cosine_distance": 0.06999880075454712
+    },
+    {
+      "user_id": "user_2f766c23",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9550265073776245,
+      "mean_cosine_distance": 0.04497349262237549
+    },
+    {
+      "user_id": "user_3049510b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8802753686904907,
+      "mean_cosine_distance": 0.11972463130950928
+    },
+    {
+      "user_id": "user_30802254",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.947097659111023,
+      "mean_cosine_distance": 0.05290234088897705
+    },
+    {
+      "user_id": "user_3121653d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9181365966796875,
+      "mean_cosine_distance": 0.0818634033203125
+    },
+    {
+      "user_id": "user_32934d38",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9179159998893738,
+      "mean_cosine_distance": 0.08208400011062622
+    },
+    {
+      "user_id": "user_32ae32f9",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9442517161369324,
+      "mean_cosine_distance": 0.05574828386306763
+    },
+    {
+      "user_id": "user_32f31383",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9438847303390503,
+      "mean_cosine_distance": 0.05611526966094971
+    },
+    {
+      "user_id": "user_3353b96b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9371313452720642,
+      "mean_cosine_distance": 0.06286865472793579
+    },
+    {
+      "user_id": "user_338e1332",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9132928252220154,
+      "mean_cosine_distance": 0.08670717477798462
+    },
+    {
+      "user_id": "user_34b1fb84",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9788260459899902,
+      "mean_cosine_distance": 0.021173954010009766
+    },
+    {
+      "user_id": "user_364bb955",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8738515973091125,
+      "mean_cosine_distance": 0.12614840269088745
+    },
+    {
+      "user_id": "user_36dd1253",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9237715005874634,
+      "mean_cosine_distance": 0.07622849941253662
+    },
+    {
+      "user_id": "user_372c2b3e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9287682771682739,
+      "mean_cosine_distance": 0.07123172283172607
+    },
+    {
+      "user_id": "user_378003e3",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9614928960800171,
+      "mean_cosine_distance": 0.03850710391998291
+    },
+    {
+      "user_id": "user_37be663c",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9343684315681458,
+      "mean_cosine_distance": 0.06563156843185425
+    },
+    {
+      "user_id": "user_38390331",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9475048184394836,
+      "mean_cosine_distance": 0.05249518156051636
+    },
+    {
+      "user_id": "user_3850eb9e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9240326285362244,
+      "mean_cosine_distance": 0.07596737146377563
+    },
+    {
+      "user_id": "user_38ab51d4",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8991057276725769,
+      "mean_cosine_distance": 0.1008942723274231
+    },
+    {
+      "user_id": "user_3971c3e6",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9159733653068542,
+      "mean_cosine_distance": 0.08402663469314575
+    },
+    {
+      "user_id": "user_39939c54",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9670877456665039,
+      "mean_cosine_distance": 0.032912254333496094
+    },
+    {
+      "user_id": "user_39aad1a2",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9223983883857727,
+      "mean_cosine_distance": 0.0776016116142273
+    },
+    {
+      "user_id": "user_39f8897b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9672647714614868,
+      "mean_cosine_distance": 0.032735228538513184
+    },
+    {
+      "user_id": "user_3a55606c",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9076631665229797,
+      "mean_cosine_distance": 0.09233683347702026
+    },
+    {
+      "user_id": "user_3b1da5d9",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9197384119033813,
+      "mean_cosine_distance": 0.08026158809661865
+    },
+    {
+      "user_id": "user_3b90fb53",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9197902679443359,
+      "mean_cosine_distance": 0.08020973205566406
+    },
+    {
+      "user_id": "user_3bb7992e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8870206475257874,
+      "mean_cosine_distance": 0.11297935247421265
+    },
+    {
+      "user_id": "user_3ce4c1f8",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9463675022125244,
+      "mean_cosine_distance": 0.053632497787475586
+    },
+    {
+      "user_id": "user_3e284ba5",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.933510959148407,
+      "mean_cosine_distance": 0.06648904085159302
+    },
+    {
+      "user_id": "user_3eb49f37",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8364162445068359,
+      "mean_cosine_distance": 0.16358375549316406
+    },
+    {
+      "user_id": "user_3f1d04a6",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8603923916816711,
+      "mean_cosine_distance": 0.13960760831832886
+    },
+    {
+      "user_id": "user_3f2894b5",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9028393030166626,
+      "mean_cosine_distance": 0.0971606969833374
+    },
+    {
+      "user_id": "user_3f798a8b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9271215796470642,
+      "mean_cosine_distance": 0.07287842035293579
+    },
+    {
+      "user_id": "user_3ff3188b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9430125951766968,
+      "mean_cosine_distance": 0.05698740482330322
+    },
+    {
+      "user_id": "user_3ff88cf0",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9397817254066467,
+      "mean_cosine_distance": 0.06021827459335327
+    },
+    {
+      "user_id": "user_40a0bad3",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9531150460243225,
+      "mean_cosine_distance": 0.04688495397567749
+    },
+    {
+      "user_id": "user_40efa894",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9254687428474426,
+      "mean_cosine_distance": 0.07453125715255737
+    },
+    {
+      "user_id": "user_41b20ee4",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9495042562484741,
+      "mean_cosine_distance": 0.05049574375152588
+    },
+    {
+      "user_id": "user_433bdef0",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9369500875473022,
+      "mean_cosine_distance": 0.06304991245269775
+    },
+    {
+      "user_id": "user_434f3511",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9225284457206726,
+      "mean_cosine_distance": 0.07747155427932739
+    },
+    {
+      "user_id": "user_44567221",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9233440160751343,
+      "mean_cosine_distance": 0.07665598392486572
+    },
+    {
+      "user_id": "user_454733da",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9125061631202698,
+      "mean_cosine_distance": 0.08749383687973022
+    },
+    {
+      "user_id": "user_45926b89",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9344905614852905,
+      "mean_cosine_distance": 0.06550943851470947
+    },
+    {
+      "user_id": "user_45d008d3",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.909764289855957,
+      "mean_cosine_distance": 0.09023571014404297
+    },
+    {
+      "user_id": "user_4607d25d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9273747205734253,
+      "mean_cosine_distance": 0.07262527942657471
+    },
+    {
+      "user_id": "user_46e2e7ec",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9016057252883911,
+      "mean_cosine_distance": 0.09839427471160889
+    },
+    {
+      "user_id": "user_476670f9",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9296501278877258,
+      "mean_cosine_distance": 0.07034987211227417
+    },
+    {
+      "user_id": "user_4aaa8404",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9122752547264099,
+      "mean_cosine_distance": 0.08772474527359009
+    },
+    {
+      "user_id": "user_4ab9d510",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9409716725349426,
+      "mean_cosine_distance": 0.05902832746505737
+    },
+    {
+      "user_id": "user_4b139395",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9175809621810913,
+      "mean_cosine_distance": 0.08241903781890869
+    },
+    {
+      "user_id": "user_4b8335bd",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9008485674858093,
+      "mean_cosine_distance": 0.09915143251419067
+    },
+    {
+      "user_id": "user_4bd9303b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9600586891174316,
+      "mean_cosine_distance": 0.03994131088256836
+    },
+    {
+      "user_id": "user_4cad4295",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9263330101966858,
+      "mean_cosine_distance": 0.07366698980331421
+    },
+    {
+      "user_id": "user_4d4f73a6",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9305776953697205,
+      "mean_cosine_distance": 0.06942230463027954
+    },
+    {
+      "user_id": "user_4e42bf97",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9331539273262024,
+      "mean_cosine_distance": 0.06684607267379761
+    },
+    {
+      "user_id": "user_4e54f3d7",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9169259071350098,
+      "mean_cosine_distance": 0.08307409286499023
+    },
+    {
+      "user_id": "user_4f3b6241",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9426983594894409,
+      "mean_cosine_distance": 0.05730164051055908
+    },
+    {
+      "user_id": "user_4f8b6987",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.95708167552948,
+      "mean_cosine_distance": 0.04291832447052002
+    },
+    {
+      "user_id": "user_500badda",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9190874099731445,
+      "mean_cosine_distance": 0.08091259002685547
+    },
+    {
+      "user_id": "user_5062c872",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9493436813354492,
+      "mean_cosine_distance": 0.05065631866455078
+    },
+    {
+      "user_id": "user_515ae840",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9399195909500122,
+      "mean_cosine_distance": 0.06008040904998779
+    },
+    {
+      "user_id": "user_524450e9",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9183388948440552,
+      "mean_cosine_distance": 0.08166110515594482
+    },
+    {
+      "user_id": "user_529e3009",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9280021786689758,
+      "mean_cosine_distance": 0.07199782133102417
+    },
+    {
+      "user_id": "user_52d3881c",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9822390675544739,
+      "mean_cosine_distance": 0.017760932445526123
+    },
+    {
+      "user_id": "user_53325367",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9405062794685364,
+      "mean_cosine_distance": 0.05949372053146362
+    },
+    {
+      "user_id": "user_54c1ebee",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.923919677734375,
+      "mean_cosine_distance": 0.076080322265625
+    },
+    {
+      "user_id": "user_56909460",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8997243642807007,
+      "mean_cosine_distance": 0.10027563571929932
+    },
+    {
+      "user_id": "user_56980aa9",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9220002293586731,
+      "mean_cosine_distance": 0.0779997706413269
+    },
+    {
+      "user_id": "user_5738db35",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8667271733283997,
+      "mean_cosine_distance": 0.13327282667160034
+    },
+    {
+      "user_id": "user_582ff5b2",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9598367214202881,
+      "mean_cosine_distance": 0.040163278579711914
+    },
+    {
+      "user_id": "user_586752e4",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9134143590927124,
+      "mean_cosine_distance": 0.0865856409072876
+    },
+    {
+      "user_id": "user_58892c7c",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9182577133178711,
+      "mean_cosine_distance": 0.0817422866821289
+    },
+    {
+      "user_id": "user_58bfeaad",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9484145641326904,
+      "mean_cosine_distance": 0.05158543586730957
+    },
+    {
+      "user_id": "user_59d9db83",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9073461890220642,
+      "mean_cosine_distance": 0.09265381097793579
+    },
+    {
+      "user_id": "user_5a5bee64",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9564688801765442,
+      "mean_cosine_distance": 0.04353111982345581
+    },
+    {
+      "user_id": "user_5a6c91dd",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8996282815933228,
+      "mean_cosine_distance": 0.10037171840667725
+    },
+    {
+      "user_id": "user_5a6f92a6",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9770200848579407,
+      "mean_cosine_distance": 0.022979915142059326
+    },
+    {
+      "user_id": "user_5ac1a174",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9002719521522522,
+      "mean_cosine_distance": 0.0997280478477478
+    },
+    {
+      "user_id": "user_5c09bb3d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9160124063491821,
+      "mean_cosine_distance": 0.08398759365081787
+    },
+    {
+      "user_id": "user_5c5a0b40",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9493827223777771,
+      "mean_cosine_distance": 0.0506172776222229
+    },
+    {
+      "user_id": "user_5c82df31",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9188038110733032,
+      "mean_cosine_distance": 0.08119618892669678
+    },
+    {
+      "user_id": "user_5d1b0daf",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9424815773963928,
+      "mean_cosine_distance": 0.05751842260360718
+    },
+    {
+      "user_id": "user_5f4ee256",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9251512289047241,
+      "mean_cosine_distance": 0.07484877109527588
+    },
+    {
+      "user_id": "user_6169d3b8",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9298310279846191,
+      "mean_cosine_distance": 0.07016897201538086
+    },
+    {
+      "user_id": "user_61f90240",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9320288896560669,
+      "mean_cosine_distance": 0.0679711103439331
+    },
+    {
+      "user_id": "user_63110023",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9600057601928711,
+      "mean_cosine_distance": 0.039994239807128906
+    },
+    {
+      "user_id": "user_636d1da4",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.907412588596344,
+      "mean_cosine_distance": 0.092587411403656
+    },
+    {
+      "user_id": "user_6427334a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9533224701881409,
+      "mean_cosine_distance": 0.04667752981185913
+    },
+    {
+      "user_id": "user_6476648d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9448772072792053,
+      "mean_cosine_distance": 0.05512279272079468
+    },
+    {
+      "user_id": "user_649f4327",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.940136730670929,
+      "mean_cosine_distance": 0.059863269329071045
+    },
+    {
+      "user_id": "user_657c72ca",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9376115202903748,
+      "mean_cosine_distance": 0.062388479709625244
+    },
+    {
+      "user_id": "user_6592f2e4",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9615697264671326,
+      "mean_cosine_distance": 0.03843027353286743
+    },
+    {
+      "user_id": "user_65d73ac1",
+      "condition": "C",
+      "n_comments": 499,
+      "mean_cosine": 0.955498993396759,
+      "mean_cosine_distance": 0.04450100660324097
+    },
+    {
+      "user_id": "user_68349053",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8900144100189209,
+      "mean_cosine_distance": 0.1099855899810791
+    },
+    {
+      "user_id": "user_68d19df8",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9282359480857849,
+      "mean_cosine_distance": 0.07176405191421509
+    },
+    {
+      "user_id": "user_69193575",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9680097699165344,
+      "mean_cosine_distance": 0.031990230083465576
+    },
+    {
+      "user_id": "user_69a4dd06",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9398601055145264,
+      "mean_cosine_distance": 0.06013989448547363
+    },
+    {
+      "user_id": "user_69df6330",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.96794593334198,
+      "mean_cosine_distance": 0.03205406665802002
+    },
+    {
+      "user_id": "user_6ab1739a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9059959053993225,
+      "mean_cosine_distance": 0.09400409460067749
+    },
+    {
+      "user_id": "user_6ab8f7d4",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9166114330291748,
+      "mean_cosine_distance": 0.0833885669708252
+    },
+    {
+      "user_id": "user_6d071251",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9477788209915161,
+      "mean_cosine_distance": 0.05222117900848389
+    },
+    {
+      "user_id": "user_6d2cb415",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9081502556800842,
+      "mean_cosine_distance": 0.09184974431991577
+    },
+    {
+      "user_id": "user_6d421600",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9556949734687805,
+      "mean_cosine_distance": 0.04430502653121948
+    },
+    {
+      "user_id": "user_6f1b0197",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9299271702766418,
+      "mean_cosine_distance": 0.07007282972335815
+    },
+    {
+      "user_id": "user_6fa47d61",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9550687074661255,
+      "mean_cosine_distance": 0.04493129253387451
+    },
+    {
+      "user_id": "user_6fc85c06",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9230078458786011,
+      "mean_cosine_distance": 0.07699215412139893
+    },
+    {
+      "user_id": "user_6fccf8b5",
+      "condition": "C",
+      "n_comments": 497,
+      "mean_cosine": 0.9334583878517151,
+      "mean_cosine_distance": 0.06654161214828491
+    },
+    {
+      "user_id": "user_723406a0",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9340959191322327,
+      "mean_cosine_distance": 0.06590408086776733
+    },
+    {
+      "user_id": "user_72bed676",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9298781752586365,
+      "mean_cosine_distance": 0.07012182474136353
+    },
+    {
+      "user_id": "user_7322f4ef",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8968588709831238,
+      "mean_cosine_distance": 0.10314112901687622
+    },
+    {
+      "user_id": "user_737d3148",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9219499230384827,
+      "mean_cosine_distance": 0.07805007696151733
+    },
+    {
+      "user_id": "user_73a4377d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8945612907409668,
+      "mean_cosine_distance": 0.1054387092590332
+    },
+    {
+      "user_id": "user_73f34c5d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8934292793273926,
+      "mean_cosine_distance": 0.10657072067260742
+    },
+    {
+      "user_id": "user_74025dc0",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9499191641807556,
+      "mean_cosine_distance": 0.050080835819244385
+    },
+    {
+      "user_id": "user_74cfb8ef",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9067975878715515,
+      "mean_cosine_distance": 0.09320241212844849
+    },
+    {
+      "user_id": "user_74e32d78",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8796430826187134,
+      "mean_cosine_distance": 0.12035691738128662
+    },
+    {
+      "user_id": "user_756e2f00",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9505404233932495,
+      "mean_cosine_distance": 0.04945957660675049
+    },
+    {
+      "user_id": "user_75905116",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9574116468429565,
+      "mean_cosine_distance": 0.04258835315704346
+    },
+    {
+      "user_id": "user_7709815a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9747186899185181,
+      "mean_cosine_distance": 0.025281310081481934
+    },
+    {
+      "user_id": "user_78eff25f",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8945561051368713,
+      "mean_cosine_distance": 0.10544389486312866
+    },
+    {
+      "user_id": "user_7924afc9",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9484481811523438,
+      "mean_cosine_distance": 0.05155181884765625
+    },
+    {
+      "user_id": "user_795eb408",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8913493752479553,
+      "mean_cosine_distance": 0.10865062475204468
+    },
+    {
+      "user_id": "user_79f04645",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9481763243675232,
+      "mean_cosine_distance": 0.05182367563247681
+    },
+    {
+      "user_id": "user_7a8f7f3e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9372923970222473,
+      "mean_cosine_distance": 0.06270760297775269
+    },
+    {
+      "user_id": "user_7b052f32",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9475290775299072,
+      "mean_cosine_distance": 0.05247092247009277
+    },
+    {
+      "user_id": "user_7b2d0be1",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9384137392044067,
+      "mean_cosine_distance": 0.06158626079559326
+    },
+    {
+      "user_id": "user_7b4c75ab",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.908998966217041,
+      "mean_cosine_distance": 0.09100103378295898
+    },
+    {
+      "user_id": "user_7c45fa70",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8966221809387207,
+      "mean_cosine_distance": 0.1033778190612793
+    },
+    {
+      "user_id": "user_7c7220a4",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9559366106987,
+      "mean_cosine_distance": 0.04406338930130005
+    },
+    {
+      "user_id": "user_7f623d19",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9313070178031921,
+      "mean_cosine_distance": 0.06869298219680786
+    },
+    {
+      "user_id": "user_7fd91653",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9122987985610962,
+      "mean_cosine_distance": 0.08770120143890381
+    },
+    {
+      "user_id": "user_7fef9da8",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9447042346000671,
+      "mean_cosine_distance": 0.05529576539993286
+    },
+    {
+      "user_id": "user_8006727d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9325931668281555,
+      "mean_cosine_distance": 0.06740683317184448
+    },
+    {
+      "user_id": "user_80da26a6",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9083992838859558,
+      "mean_cosine_distance": 0.09160071611404419
+    },
+    {
+      "user_id": "user_80dc757f",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9290831685066223,
+      "mean_cosine_distance": 0.07091683149337769
+    },
+    {
+      "user_id": "user_81a80789",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9393416047096252,
+      "mean_cosine_distance": 0.060658395290374756
+    },
+    {
+      "user_id": "user_823846de",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9353962540626526,
+      "mean_cosine_distance": 0.06460374593734741
+    },
+    {
+      "user_id": "user_8285a696",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9336052536964417,
+      "mean_cosine_distance": 0.06639474630355835
+    },
+    {
+      "user_id": "user_82879210",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.930000364780426,
+      "mean_cosine_distance": 0.06999963521957397
+    },
+    {
+      "user_id": "user_829844fd",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9436009526252747,
+      "mean_cosine_distance": 0.05639904737472534
+    },
+    {
+      "user_id": "user_82d93459",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9217602610588074,
+      "mean_cosine_distance": 0.07823973894119263
+    },
+    {
+      "user_id": "user_83e45cc0",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.958729088306427,
+      "mean_cosine_distance": 0.041270911693573
+    },
+    {
+      "user_id": "user_84703a6e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9051435589790344,
+      "mean_cosine_distance": 0.09485644102096558
+    },
+    {
+      "user_id": "user_84c14a6f",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.946474015712738,
+      "mean_cosine_distance": 0.05352598428726196
+    },
+    {
+      "user_id": "user_84fe1a7a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9504714012145996,
+      "mean_cosine_distance": 0.04952859878540039
+    },
+    {
+      "user_id": "user_85810097",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9445270299911499,
+      "mean_cosine_distance": 0.0554729700088501
+    },
+    {
+      "user_id": "user_8663226a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9721110463142395,
+      "mean_cosine_distance": 0.027888953685760498
+    },
+    {
+      "user_id": "user_86685a27",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8949887752532959,
+      "mean_cosine_distance": 0.1050112247467041
+    },
+    {
+      "user_id": "user_869fcb2b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9321862459182739,
+      "mean_cosine_distance": 0.06781375408172607
+    },
+    {
+      "user_id": "user_8713f22a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9484246969223022,
+      "mean_cosine_distance": 0.051575303077697754
+    },
+    {
+      "user_id": "user_87e5d9b0",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9121976494789124,
+      "mean_cosine_distance": 0.08780235052108765
+    },
+    {
+      "user_id": "user_885e8708",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9019890427589417,
+      "mean_cosine_distance": 0.09801095724105835
+    },
+    {
+      "user_id": "user_88f46c7b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9139166474342346,
+      "mean_cosine_distance": 0.08608335256576538
+    },
+    {
+      "user_id": "user_89f449b4",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9251689314842224,
+      "mean_cosine_distance": 0.07483106851577759
+    },
+    {
+      "user_id": "user_8a760553",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9393497109413147,
+      "mean_cosine_distance": 0.0606502890586853
+    },
+    {
+      "user_id": "user_8ae8c359",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9240102767944336,
+      "mean_cosine_distance": 0.0759897232055664
+    },
+    {
+      "user_id": "user_8afa3eba",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8995208144187927,
+      "mean_cosine_distance": 0.10047918558120728
+    },
+    {
+      "user_id": "user_8c6db6ed",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9059280157089233,
+      "mean_cosine_distance": 0.09407198429107666
+    },
+    {
+      "user_id": "user_8d22714e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9280810356140137,
+      "mean_cosine_distance": 0.07191896438598633
+    },
+    {
+      "user_id": "user_8d85acb5",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9641022682189941,
+      "mean_cosine_distance": 0.03589773178100586
+    },
+    {
+      "user_id": "user_8d968cfb",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9414960741996765,
+      "mean_cosine_distance": 0.058503925800323486
+    },
+    {
+      "user_id": "user_8da30894",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9059823155403137,
+      "mean_cosine_distance": 0.09401768445968628
+    },
+    {
+      "user_id": "user_8dd20d7f",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9503601789474487,
+      "mean_cosine_distance": 0.04963982105255127
+    },
+    {
+      "user_id": "user_8e48a3f8",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9043116569519043,
+      "mean_cosine_distance": 0.0956883430480957
+    },
+    {
+      "user_id": "user_8e97a154",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9439734816551208,
+      "mean_cosine_distance": 0.05602651834487915
+    },
+    {
+      "user_id": "user_8eac0a68",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9148823022842407,
+      "mean_cosine_distance": 0.08511769771575928
+    },
+    {
+      "user_id": "user_8f08aa94",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9479918479919434,
+      "mean_cosine_distance": 0.05200815200805664
+    },
+    {
+      "user_id": "user_8fe14601",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9459851980209351,
+      "mean_cosine_distance": 0.05401480197906494
+    },
+    {
+      "user_id": "user_90202189",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.943943977355957,
+      "mean_cosine_distance": 0.05605602264404297
+    },
+    {
+      "user_id": "user_902af20f",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9378803968429565,
+      "mean_cosine_distance": 0.06211960315704346
+    },
+    {
+      "user_id": "user_903329bb",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9324951171875,
+      "mean_cosine_distance": 0.0675048828125
+    },
+    {
+      "user_id": "user_906e2423",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9525119662284851,
+      "mean_cosine_distance": 0.04748803377151489
+    },
+    {
+      "user_id": "user_916503d6",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9568193554878235,
+      "mean_cosine_distance": 0.043180644512176514
+    },
+    {
+      "user_id": "user_920c074a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9207066297531128,
+      "mean_cosine_distance": 0.07929337024688721
+    },
+    {
+      "user_id": "user_938164a5",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9340233206748962,
+      "mean_cosine_distance": 0.06597667932510376
+    },
+    {
+      "user_id": "user_943e4045",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9554932713508606,
+      "mean_cosine_distance": 0.044506728649139404
+    },
+    {
+      "user_id": "user_954805d7",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9399344325065613,
+      "mean_cosine_distance": 0.06006556749343872
+    },
+    {
+      "user_id": "user_959adfc8",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8657459616661072,
+      "mean_cosine_distance": 0.13425403833389282
+    },
+    {
+      "user_id": "user_95d648bc",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9225559234619141,
+      "mean_cosine_distance": 0.07744407653808594
+    },
+    {
+      "user_id": "user_9600e8bf",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9408439993858337,
+      "mean_cosine_distance": 0.05915600061416626
+    },
+    {
+      "user_id": "user_96013176",
+      "condition": "C",
+      "n_comments": 499,
+      "mean_cosine": 0.6072835326194763,
+      "mean_cosine_distance": 0.3927164673805237
+    },
+    {
+      "user_id": "user_9692f077",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9516275525093079,
+      "mean_cosine_distance": 0.04837244749069214
+    },
+    {
+      "user_id": "user_96c3cc43",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.964189350605011,
+      "mean_cosine_distance": 0.035810649394989014
+    },
+    {
+      "user_id": "user_96d9cb9a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9619812369346619,
+      "mean_cosine_distance": 0.038018763065338135
+    },
+    {
+      "user_id": "user_97330742",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9247055649757385,
+      "mean_cosine_distance": 0.07529443502426147
+    },
+    {
+      "user_id": "user_979ee068",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9427979588508606,
+      "mean_cosine_distance": 0.057202041149139404
+    },
+    {
+      "user_id": "user_9818dcae",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9310372471809387,
+      "mean_cosine_distance": 0.06896275281906128
+    },
+    {
+      "user_id": "user_98a676ce",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8859350681304932,
+      "mean_cosine_distance": 0.11406493186950684
+    },
+    {
+      "user_id": "user_98ca16a6",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9489668011665344,
+      "mean_cosine_distance": 0.051033198833465576
+    },
+    {
+      "user_id": "user_98f18241",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9414173364639282,
+      "mean_cosine_distance": 0.05858266353607178
+    },
+    {
+      "user_id": "user_9991e1d8",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9746519923210144,
+      "mean_cosine_distance": 0.025348007678985596
+    },
+    {
+      "user_id": "user_99c67f2f",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9484802484512329,
+      "mean_cosine_distance": 0.05151975154876709
+    },
+    {
+      "user_id": "user_9a307ebe",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9468041062355042,
+      "mean_cosine_distance": 0.05319589376449585
+    },
+    {
+      "user_id": "user_9a5457b0",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9130401611328125,
+      "mean_cosine_distance": 0.0869598388671875
+    },
+    {
+      "user_id": "user_9b517815",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8855111598968506,
+      "mean_cosine_distance": 0.11448884010314941
+    },
+    {
+      "user_id": "user_9b6481e4",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9537171721458435,
+      "mean_cosine_distance": 0.046282827854156494
+    },
+    {
+      "user_id": "user_9bee2a7c",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9291881322860718,
+      "mean_cosine_distance": 0.07081186771392822
+    },
+    {
+      "user_id": "user_9c5cd7fa",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9543806314468384,
+      "mean_cosine_distance": 0.04561936855316162
+    },
+    {
+      "user_id": "user_9c5e4782",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9393492341041565,
+      "mean_cosine_distance": 0.060650765895843506
+    },
+    {
+      "user_id": "user_9c7183c8",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9440712332725525,
+      "mean_cosine_distance": 0.05592876672744751
+    },
+    {
+      "user_id": "user_9ce96cbf",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9493409395217896,
+      "mean_cosine_distance": 0.05065906047821045
+    },
+    {
+      "user_id": "user_9d8095fc",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9435971975326538,
+      "mean_cosine_distance": 0.05640280246734619
+    },
+    {
+      "user_id": "user_9d9fba70",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9202238917350769,
+      "mean_cosine_distance": 0.0797761082649231
+    },
+    {
+      "user_id": "user_9dda4af9",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9179763197898865,
+      "mean_cosine_distance": 0.08202368021011353
+    },
+    {
+      "user_id": "user_9e328c4e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9200085997581482,
+      "mean_cosine_distance": 0.0799914002418518
+    },
+    {
+      "user_id": "user_9e39a95d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9416996836662292,
+      "mean_cosine_distance": 0.05830031633377075
+    },
+    {
+      "user_id": "user_9f81cfba",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9466022849082947,
+      "mean_cosine_distance": 0.05339771509170532
+    },
+    {
+      "user_id": "user_9fc3c829",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8835757374763489,
+      "mean_cosine_distance": 0.11642426252365112
+    },
+    {
+      "user_id": "user_9ff844ba",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9386566281318665,
+      "mean_cosine_distance": 0.061343371868133545
+    },
+    {
+      "user_id": "user_a01f16ac",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9085262417793274,
+      "mean_cosine_distance": 0.09147375822067261
+    },
+    {
+      "user_id": "user_a0fa40f1",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.919121265411377,
+      "mean_cosine_distance": 0.08087873458862305
+    },
+    {
+      "user_id": "user_a151ddab",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9293991923332214,
+      "mean_cosine_distance": 0.07060080766677856
+    },
+    {
+      "user_id": "user_a1b097c2",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.929418683052063,
+      "mean_cosine_distance": 0.07058131694793701
+    },
+    {
+      "user_id": "user_a2825b06",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9290050268173218,
+      "mean_cosine_distance": 0.07099497318267822
+    },
+    {
+      "user_id": "user_a2f8bfd2",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9230534434318542,
+      "mean_cosine_distance": 0.07694655656814575
+    },
+    {
+      "user_id": "user_a346dfc4",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9293555021286011,
+      "mean_cosine_distance": 0.07064449787139893
+    },
+    {
+      "user_id": "user_a4893af1",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8855652809143066,
+      "mean_cosine_distance": 0.11443471908569336
+    },
+    {
+      "user_id": "user_a4a77a7d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9122473001480103,
+      "mean_cosine_distance": 0.08775269985198975
+    },
+    {
+      "user_id": "user_a4aab257",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9361394643783569,
+      "mean_cosine_distance": 0.06386053562164307
+    },
+    {
+      "user_id": "user_a4ae4e77",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8919731378555298,
+      "mean_cosine_distance": 0.10802686214447021
+    },
+    {
+      "user_id": "user_a52dd639",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.931758463382721,
+      "mean_cosine_distance": 0.06824153661727905
+    },
+    {
+      "user_id": "user_a57a04fa",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9244166612625122,
+      "mean_cosine_distance": 0.07558333873748779
+    },
+    {
+      "user_id": "user_a57e47b1",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9430136680603027,
+      "mean_cosine_distance": 0.056986331939697266
+    },
+    {
+      "user_id": "user_a6a094cf",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8635628819465637,
+      "mean_cosine_distance": 0.13643711805343628
+    },
+    {
+      "user_id": "user_a743aff9",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9542971253395081,
+      "mean_cosine_distance": 0.04570287466049194
+    },
+    {
+      "user_id": "user_a8dc91a3",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9627135396003723,
+      "mean_cosine_distance": 0.037286460399627686
+    },
+    {
+      "user_id": "user_a973cf8e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9436309933662415,
+      "mean_cosine_distance": 0.056369006633758545
+    },
+    {
+      "user_id": "user_a9ed5193",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9275259971618652,
+      "mean_cosine_distance": 0.07247400283813477
+    },
+    {
+      "user_id": "user_aa4cc34a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8867379426956177,
+      "mean_cosine_distance": 0.11326205730438232
+    },
+    {
+      "user_id": "user_aaa1e595",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9410598278045654,
+      "mean_cosine_distance": 0.05894017219543457
+    },
+    {
+      "user_id": "user_ab434739",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9288399815559387,
+      "mean_cosine_distance": 0.07116001844406128
+    },
+    {
+      "user_id": "user_ab439a92",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9479928612709045,
+      "mean_cosine_distance": 0.05200713872909546
+    },
+    {
+      "user_id": "user_ab5592eb",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9475719928741455,
+      "mean_cosine_distance": 0.05242800712585449
+    },
+    {
+      "user_id": "user_ab8e847b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9257205128669739,
+      "mean_cosine_distance": 0.07427948713302612
+    },
+    {
+      "user_id": "user_abde0618",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9076586961746216,
+      "mean_cosine_distance": 0.09234130382537842
+    },
+    {
+      "user_id": "user_ac6d6bff",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9630396962165833,
+      "mean_cosine_distance": 0.03696030378341675
+    },
+    {
+      "user_id": "user_ac6e9129",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9239912033081055,
+      "mean_cosine_distance": 0.07600879669189453
+    },
+    {
+      "user_id": "user_acb51eed",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9379944801330566,
+      "mean_cosine_distance": 0.06200551986694336
+    },
+    {
+      "user_id": "user_acb899e9",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.938444972038269,
+      "mean_cosine_distance": 0.06155502796173096
+    },
+    {
+      "user_id": "user_acd6ddfb",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9361280798912048,
+      "mean_cosine_distance": 0.06387192010879517
+    },
+    {
+      "user_id": "user_ad15a0a4",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8776863813400269,
+      "mean_cosine_distance": 0.12231361865997314
+    },
+    {
+      "user_id": "user_b1c16312",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9383957386016846,
+      "mean_cosine_distance": 0.06160426139831543
+    },
+    {
+      "user_id": "user_b23aa915",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9454153180122375,
+      "mean_cosine_distance": 0.05458468198776245
+    },
+    {
+      "user_id": "user_b2aba63a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9450346827507019,
+      "mean_cosine_distance": 0.054965317249298096
+    },
+    {
+      "user_id": "user_b2dd04c8",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9238208532333374,
+      "mean_cosine_distance": 0.0761791467666626
+    },
+    {
+      "user_id": "user_b2f3c0d2",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8714087009429932,
+      "mean_cosine_distance": 0.12859129905700684
+    },
+    {
+      "user_id": "user_b325310b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9526033997535706,
+      "mean_cosine_distance": 0.04739660024642944
+    },
+    {
+      "user_id": "user_b337cb0c",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9126092195510864,
+      "mean_cosine_distance": 0.08739078044891357
+    },
+    {
+      "user_id": "user_b49274ca",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.963519811630249,
+      "mean_cosine_distance": 0.03648018836975098
+    },
+    {
+      "user_id": "user_b4d7e69a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9529479742050171,
+      "mean_cosine_distance": 0.04705202579498291
+    },
+    {
+      "user_id": "user_b4f295b3",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8934863209724426,
+      "mean_cosine_distance": 0.10651367902755737
+    },
+    {
+      "user_id": "user_b563e90b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8852828145027161,
+      "mean_cosine_distance": 0.11471718549728394
+    },
+    {
+      "user_id": "user_b5af9db9",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9314428567886353,
+      "mean_cosine_distance": 0.06855714321136475
+    },
+    {
+      "user_id": "user_b628264a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8939550518989563,
+      "mean_cosine_distance": 0.1060449481010437
+    },
+    {
+      "user_id": "user_b6350ec1",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9429083466529846,
+      "mean_cosine_distance": 0.05709165334701538
+    },
+    {
+      "user_id": "user_b63ea1d4",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9536643028259277,
+      "mean_cosine_distance": 0.046335697174072266
+    },
+    {
+      "user_id": "user_b6b89f00",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9482499957084656,
+      "mean_cosine_distance": 0.051750004291534424
+    },
+    {
+      "user_id": "user_b7ba6422",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9518641233444214,
+      "mean_cosine_distance": 0.04813587665557861
+    },
+    {
+      "user_id": "user_b888c512",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9359403252601624,
+      "mean_cosine_distance": 0.06405967473983765
+    },
+    {
+      "user_id": "user_b8f24804",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9264640212059021,
+      "mean_cosine_distance": 0.0735359787940979
+    },
+    {
+      "user_id": "user_b9036662",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9472364187240601,
+      "mean_cosine_distance": 0.05276358127593994
+    },
+    {
+      "user_id": "user_ba010eec",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9523065090179443,
+      "mean_cosine_distance": 0.047693490982055664
+    },
+    {
+      "user_id": "user_ba463257",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.96247398853302,
+      "mean_cosine_distance": 0.03752601146697998
+    },
+    {
+      "user_id": "user_ba8b1c05",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9495998620986938,
+      "mean_cosine_distance": 0.05040013790130615
+    },
+    {
+      "user_id": "user_baeb91b3",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9292798042297363,
+      "mean_cosine_distance": 0.07072019577026367
+    },
+    {
+      "user_id": "user_baf68fe9",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8951134085655212,
+      "mean_cosine_distance": 0.10488659143447876
+    },
+    {
+      "user_id": "user_bb8be7e3",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9333943128585815,
+      "mean_cosine_distance": 0.06660568714141846
+    },
+    {
+      "user_id": "user_bbcbf015",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9056277871131897,
+      "mean_cosine_distance": 0.0943722128868103
+    },
+    {
+      "user_id": "user_bbe73426",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9041665196418762,
+      "mean_cosine_distance": 0.09583348035812378
+    },
+    {
+      "user_id": "user_bd19a016",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9389422535896301,
+      "mean_cosine_distance": 0.06105774641036987
+    },
+    {
+      "user_id": "user_bd47000f",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8888481855392456,
+      "mean_cosine_distance": 0.1111518144607544
+    },
+    {
+      "user_id": "user_bdcc6e7d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9535438418388367,
+      "mean_cosine_distance": 0.04645615816116333
+    },
+    {
+      "user_id": "user_be06391b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9396499991416931,
+      "mean_cosine_distance": 0.060350000858306885
+    },
+    {
+      "user_id": "user_beca29a3",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9518346786499023,
+      "mean_cosine_distance": 0.048165321350097656
+    },
+    {
+      "user_id": "user_bf30f80d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9613721966743469,
+      "mean_cosine_distance": 0.038627803325653076
+    },
+    {
+      "user_id": "user_c008345b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9346743226051331,
+      "mean_cosine_distance": 0.06532567739486694
+    },
+    {
+      "user_id": "user_c0392523",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9147243499755859,
+      "mean_cosine_distance": 0.08527565002441406
+    },
+    {
+      "user_id": "user_c06d9b71",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9186758995056152,
+      "mean_cosine_distance": 0.08132410049438477
+    },
+    {
+      "user_id": "user_c0eba9f2",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9130122661590576,
+      "mean_cosine_distance": 0.08698773384094238
+    },
+    {
+      "user_id": "user_c130412b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9522855281829834,
+      "mean_cosine_distance": 0.0477144718170166
+    },
+    {
+      "user_id": "user_c154e834",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.955187201499939,
+      "mean_cosine_distance": 0.044812798500061035
+    },
+    {
+      "user_id": "user_c157ca97",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9610571265220642,
+      "mean_cosine_distance": 0.03894287347793579
+    },
+    {
+      "user_id": "user_c204a1dd",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9188035726547241,
+      "mean_cosine_distance": 0.08119642734527588
+    },
+    {
+      "user_id": "user_c2f18cf7",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9347551465034485,
+      "mean_cosine_distance": 0.06524485349655151
+    },
+    {
+      "user_id": "user_c3040c7c",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9012565016746521,
+      "mean_cosine_distance": 0.0987434983253479
+    },
+    {
+      "user_id": "user_c39d41d7",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9437684416770935,
+      "mean_cosine_distance": 0.056231558322906494
+    },
+    {
+      "user_id": "user_c41de62b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9098774194717407,
+      "mean_cosine_distance": 0.09012258052825928
+    },
+    {
+      "user_id": "user_c4c70447",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9534123539924622,
+      "mean_cosine_distance": 0.04658764600753784
+    },
+    {
+      "user_id": "user_c50a487d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9211002588272095,
+      "mean_cosine_distance": 0.07889974117279053
+    },
+    {
+      "user_id": "user_c536b01d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9777895212173462,
+      "mean_cosine_distance": 0.02221047878265381
+    },
+    {
+      "user_id": "user_c59ebe9c",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9100449681282043,
+      "mean_cosine_distance": 0.08995503187179565
+    },
+    {
+      "user_id": "user_c5c57a9d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.924412190914154,
+      "mean_cosine_distance": 0.07558780908584595
+    },
+    {
+      "user_id": "user_c5f32c0d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.921851634979248,
+      "mean_cosine_distance": 0.07814836502075195
+    },
+    {
+      "user_id": "user_c60d65b5",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9489339590072632,
+      "mean_cosine_distance": 0.051066040992736816
+    },
+    {
+      "user_id": "user_c67f26cc",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9462568163871765,
+      "mean_cosine_distance": 0.053743183612823486
+    },
+    {
+      "user_id": "user_c709e252",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9196081161499023,
+      "mean_cosine_distance": 0.08039188385009766
+    },
+    {
+      "user_id": "user_c809e3d2",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.942462146282196,
+      "mean_cosine_distance": 0.057537853717803955
+    },
+    {
+      "user_id": "user_c81fae29",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8399052619934082,
+      "mean_cosine_distance": 0.1600947380065918
+    },
+    {
+      "user_id": "user_c883258f",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8659151792526245,
+      "mean_cosine_distance": 0.1340848207473755
+    },
+    {
+      "user_id": "user_c8e749e2",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9186519980430603,
+      "mean_cosine_distance": 0.0813480019569397
+    },
+    {
+      "user_id": "user_c903d3bb",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9169310331344604,
+      "mean_cosine_distance": 0.08306896686553955
+    },
+    {
+      "user_id": "user_c96b90fe",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9321434497833252,
+      "mean_cosine_distance": 0.0678565502166748
+    },
+    {
+      "user_id": "user_c994138f",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9221742749214172,
+      "mean_cosine_distance": 0.07782572507858276
+    },
+    {
+      "user_id": "user_caa6a7b6",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9530767798423767,
+      "mean_cosine_distance": 0.04692322015762329
+    },
+    {
+      "user_id": "user_caebed72",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9380539655685425,
+      "mean_cosine_distance": 0.06194603443145752
+    },
+    {
+      "user_id": "user_cb2fe204",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9292454719543457,
+      "mean_cosine_distance": 0.0707545280456543
+    },
+    {
+      "user_id": "user_cb8245f7",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.940299928188324,
+      "mean_cosine_distance": 0.059700071811676025
+    },
+    {
+      "user_id": "user_cdd86523",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9649699926376343,
+      "mean_cosine_distance": 0.03503000736236572
+    },
+    {
+      "user_id": "user_cf393213",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9520000219345093,
+      "mean_cosine_distance": 0.04799997806549072
+    },
+    {
+      "user_id": "user_d023a78e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8885220885276794,
+      "mean_cosine_distance": 0.11147791147232056
+    },
+    {
+      "user_id": "user_d036c911",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9338194727897644,
+      "mean_cosine_distance": 0.0661805272102356
+    },
+    {
+      "user_id": "user_d074356a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9401376843452454,
+      "mean_cosine_distance": 0.05986231565475464
+    },
+    {
+      "user_id": "user_d10d1f24",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9223792552947998,
+      "mean_cosine_distance": 0.0776207447052002
+    },
+    {
+      "user_id": "user_d14b7d7b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9312350749969482,
+      "mean_cosine_distance": 0.06876492500305176
+    },
+    {
+      "user_id": "user_d1d16d30",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9688063859939575,
+      "mean_cosine_distance": 0.03119361400604248
+    },
+    {
+      "user_id": "user_d2c97c8e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9622898697853088,
+      "mean_cosine_distance": 0.03771013021469116
+    },
+    {
+      "user_id": "user_d4b7e22e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8590300679206848,
+      "mean_cosine_distance": 0.14096993207931519
+    },
+    {
+      "user_id": "user_d50d7985",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9271622896194458,
+      "mean_cosine_distance": 0.0728377103805542
+    },
+    {
+      "user_id": "user_d5d4fc6e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8897700309753418,
+      "mean_cosine_distance": 0.1102299690246582
+    },
+    {
+      "user_id": "user_d761140c",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9343607425689697,
+      "mean_cosine_distance": 0.06563925743103027
+    },
+    {
+      "user_id": "user_d849ac6e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9401402473449707,
+      "mean_cosine_distance": 0.0598597526550293
+    },
+    {
+      "user_id": "user_d955d7e2",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9139834046363831,
+      "mean_cosine_distance": 0.08601659536361694
+    },
+    {
+      "user_id": "user_da51dede",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9254435896873474,
+      "mean_cosine_distance": 0.07455641031265259
+    },
+    {
+      "user_id": "user_dac2c359",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.899577260017395,
+      "mean_cosine_distance": 0.10042273998260498
+    },
+    {
+      "user_id": "user_daf37424",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9458625316619873,
+      "mean_cosine_distance": 0.054137468338012695
+    },
+    {
+      "user_id": "user_db4c3fb9",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9201143980026245,
+      "mean_cosine_distance": 0.07988560199737549
+    },
+    {
+      "user_id": "user_dbbf562e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9395910501480103,
+      "mean_cosine_distance": 0.060408949851989746
+    },
+    {
+      "user_id": "user_dc326993",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9512811303138733,
+      "mean_cosine_distance": 0.04871886968612671
+    },
+    {
+      "user_id": "user_dc32d458",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9148097634315491,
+      "mean_cosine_distance": 0.08519023656845093
+    },
+    {
+      "user_id": "user_dca78fea",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.937440812587738,
+      "mean_cosine_distance": 0.06255918741226196
+    },
+    {
+      "user_id": "user_dd0bd02d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9312213659286499,
+      "mean_cosine_distance": 0.0687786340713501
+    },
+    {
+      "user_id": "user_df8dc9bb",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8984793424606323,
+      "mean_cosine_distance": 0.10152065753936768
+    },
+    {
+      "user_id": "user_dffc0da5",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9170894026756287,
+      "mean_cosine_distance": 0.08291059732437134
+    },
+    {
+      "user_id": "user_e0c65725",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9351494312286377,
+      "mean_cosine_distance": 0.0648505687713623
+    },
+    {
+      "user_id": "user_e10c98bb",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9228866696357727,
+      "mean_cosine_distance": 0.0771133303642273
+    },
+    {
+      "user_id": "user_e14b88a8",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9603009223937988,
+      "mean_cosine_distance": 0.03969907760620117
+    },
+    {
+      "user_id": "user_e1730a9c",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9423164129257202,
+      "mean_cosine_distance": 0.057683587074279785
+    },
+    {
+      "user_id": "user_e409a56d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9314704537391663,
+      "mean_cosine_distance": 0.06852954626083374
+    },
+    {
+      "user_id": "user_e4ab67b6",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8789272308349609,
+      "mean_cosine_distance": 0.12107276916503906
+    },
+    {
+      "user_id": "user_e4f8ab0c",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9413121938705444,
+      "mean_cosine_distance": 0.058687806129455566
+    },
+    {
+      "user_id": "user_e51692a6",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9047609567642212,
+      "mean_cosine_distance": 0.09523904323577881
+    },
+    {
+      "user_id": "user_e59c000f",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9367097020149231,
+      "mean_cosine_distance": 0.0632902979850769
+    },
+    {
+      "user_id": "user_e5f67397",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9225134253501892,
+      "mean_cosine_distance": 0.07748657464981079
+    },
+    {
+      "user_id": "user_e64d80ba",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9137000441551208,
+      "mean_cosine_distance": 0.08629995584487915
+    },
+    {
+      "user_id": "user_e6dd44b0",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9421186447143555,
+      "mean_cosine_distance": 0.05788135528564453
+    },
+    {
+      "user_id": "user_e7a55eac",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9128221273422241,
+      "mean_cosine_distance": 0.08717787265777588
+    },
+    {
+      "user_id": "user_e802076d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9650898575782776,
+      "mean_cosine_distance": 0.03491014242172241
+    },
+    {
+      "user_id": "user_e838707b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9614459276199341,
+      "mean_cosine_distance": 0.03855407238006592
+    },
+    {
+      "user_id": "user_e8613813",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9594597220420837,
+      "mean_cosine_distance": 0.04054027795791626
+    },
+    {
+      "user_id": "user_e88c308b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9622896313667297,
+      "mean_cosine_distance": 0.037710368633270264
+    },
+    {
+      "user_id": "user_e8a7be73",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9045475125312805,
+      "mean_cosine_distance": 0.09545248746871948
+    },
+    {
+      "user_id": "user_e8e9acac",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9222196340560913,
+      "mean_cosine_distance": 0.07778036594390869
+    },
+    {
+      "user_id": "user_e9d1886c",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.945514976978302,
+      "mean_cosine_distance": 0.054485023021698
+    },
+    {
+      "user_id": "user_ea67f9c6",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.881454348564148,
+      "mean_cosine_distance": 0.11854565143585205
+    },
+    {
+      "user_id": "user_ebe17c78",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9349942803382874,
+      "mean_cosine_distance": 0.06500571966171265
+    },
+    {
+      "user_id": "user_ec574395",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.91517573595047,
+      "mean_cosine_distance": 0.08482426404953003
+    },
+    {
+      "user_id": "user_ecba8131",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9387434720993042,
+      "mean_cosine_distance": 0.0612565279006958
+    },
+    {
+      "user_id": "user_ecc1ca0a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8895003795623779,
+      "mean_cosine_distance": 0.11049962043762207
+    },
+    {
+      "user_id": "user_ed1aaed8",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9309234619140625,
+      "mean_cosine_distance": 0.0690765380859375
+    },
+    {
+      "user_id": "user_ee05ee55",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9203817248344421,
+      "mean_cosine_distance": 0.07961827516555786
+    },
+    {
+      "user_id": "user_ee14f818",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.953835129737854,
+      "mean_cosine_distance": 0.046164870262145996
+    },
+    {
+      "user_id": "user_ee8d5ec5",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.956612765789032,
+      "mean_cosine_distance": 0.04338723421096802
+    },
+    {
+      "user_id": "user_ef954c6e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9483579397201538,
+      "mean_cosine_distance": 0.05164206027984619
+    },
+    {
+      "user_id": "user_efcacf59",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9889153838157654,
+      "mean_cosine_distance": 0.01108461618423462
+    },
+    {
+      "user_id": "user_f030b951",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9511575698852539,
+      "mean_cosine_distance": 0.048842430114746094
+    },
+    {
+      "user_id": "user_f070eee7",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9294888973236084,
+      "mean_cosine_distance": 0.0705111026763916
+    },
+    {
+      "user_id": "user_f0b144fc",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9371718764305115,
+      "mean_cosine_distance": 0.06282812356948853
+    },
+    {
+      "user_id": "user_f0cf195f",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9257099628448486,
+      "mean_cosine_distance": 0.07429003715515137
+    },
+    {
+      "user_id": "user_f107081e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9686938524246216,
+      "mean_cosine_distance": 0.03130614757537842
+    },
+    {
+      "user_id": "user_f27da10a",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9418289661407471,
+      "mean_cosine_distance": 0.05817103385925293
+    },
+    {
+      "user_id": "user_f3377028",
+      "condition": "C",
+      "n_comments": 499,
+      "mean_cosine": 0.763931155204773,
+      "mean_cosine_distance": 0.23606884479522705
+    },
+    {
+      "user_id": "user_f368b9da",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9409551024436951,
+      "mean_cosine_distance": 0.05904489755630493
+    },
+    {
+      "user_id": "user_f43d6008",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8971567749977112,
+      "mean_cosine_distance": 0.10284322500228882
+    },
+    {
+      "user_id": "user_f4f9490d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9224618077278137,
+      "mean_cosine_distance": 0.07753819227218628
+    },
+    {
+      "user_id": "user_f5138e15",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9671416878700256,
+      "mean_cosine_distance": 0.032858312129974365
+    },
+    {
+      "user_id": "user_f52ced02",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9366754293441772,
+      "mean_cosine_distance": 0.06332457065582275
+    },
+    {
+      "user_id": "user_f54058d0",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9562796354293823,
+      "mean_cosine_distance": 0.043720364570617676
+    },
+    {
+      "user_id": "user_f5e2976e",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9350337982177734,
+      "mean_cosine_distance": 0.06496620178222656
+    },
+    {
+      "user_id": "user_f5fea76f",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8790314793586731,
+      "mean_cosine_distance": 0.1209685206413269
+    },
+    {
+      "user_id": "user_f60a09b3",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9251750707626343,
+      "mean_cosine_distance": 0.07482492923736572
+    },
+    {
+      "user_id": "user_f7538815",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9477686882019043,
+      "mean_cosine_distance": 0.0522313117980957
+    },
+    {
+      "user_id": "user_f75c71f0",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9092987179756165,
+      "mean_cosine_distance": 0.09070128202438354
+    },
+    {
+      "user_id": "user_f7bb8af1",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9162512421607971,
+      "mean_cosine_distance": 0.08374875783920288
+    },
+    {
+      "user_id": "user_f7fd2885",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9469020366668701,
+      "mean_cosine_distance": 0.05309796333312988
+    },
+    {
+      "user_id": "user_f827c7dd",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9017654061317444,
+      "mean_cosine_distance": 0.09823459386825562
+    },
+    {
+      "user_id": "user_f8e2246f",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.939805269241333,
+      "mean_cosine_distance": 0.06019473075866699
+    },
+    {
+      "user_id": "user_f930e37f",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9542841911315918,
+      "mean_cosine_distance": 0.0457158088684082
+    },
+    {
+      "user_id": "user_f959eee4",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9838467836380005,
+      "mean_cosine_distance": 0.01615321636199951
+    },
+    {
+      "user_id": "user_fa60616d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9634499549865723,
+      "mean_cosine_distance": 0.036550045013427734
+    },
+    {
+      "user_id": "user_fa69a385",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9090315699577332,
+      "mean_cosine_distance": 0.09096843004226685
+    },
+    {
+      "user_id": "user_fb427339",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9345799684524536,
+      "mean_cosine_distance": 0.06542003154754639
+    },
+    {
+      "user_id": "user_fb64cb55",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9106277227401733,
+      "mean_cosine_distance": 0.08937227725982666
+    },
+    {
+      "user_id": "user_fb8f46c8",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9366970062255859,
+      "mean_cosine_distance": 0.06330299377441406
+    },
+    {
+      "user_id": "user_fbed237d",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8948352932929993,
+      "mean_cosine_distance": 0.10516470670700073
+    },
+    {
+      "user_id": "user_fc1cfe0b",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9056157469749451,
+      "mean_cosine_distance": 0.09438425302505493
+    },
+    {
+      "user_id": "user_fca58a87",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.8975314497947693,
+      "mean_cosine_distance": 0.10246855020523071
+    },
+    {
+      "user_id": "user_fcf93ee8",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9266725778579712,
+      "mean_cosine_distance": 0.07332742214202881
+    },
+    {
+      "user_id": "user_fdc08e26",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9564844369888306,
+      "mean_cosine_distance": 0.043515563011169434
+    },
+    {
+      "user_id": "user_fdcaaf41",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9150209426879883,
+      "mean_cosine_distance": 0.08497905731201172
+    },
+    {
+      "user_id": "user_fde2d265",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9423626661300659,
+      "mean_cosine_distance": 0.05763733386993408
+    },
+    {
+      "user_id": "user_fe922ad0",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9316386580467224,
+      "mean_cosine_distance": 0.06836134195327759
+    },
+    {
+      "user_id": "user_ff39b6cf",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9135838747024536,
+      "mean_cosine_distance": 0.08641612529754639
+    },
+    {
+      "user_id": "user_ff591131",
+      "condition": "C",
+      "n_comments": 500,
+      "mean_cosine": 0.9508455395698547,
+      "mean_cosine_distance": 0.049154460430145264
+    }
+  ]
+}

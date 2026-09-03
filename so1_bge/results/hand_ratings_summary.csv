@@ -1,0 +1,4 @@
+condition,n_pairs,meaning_given_change,meaning_full_sample,fluency_given_change,fluency_full_sample,n_meaning_scored,n_meaning_na,n_fluency_scored,n_fluency_na,avg_given_change,avg_full_sample
+A,50,2.458333,3.78,2.708333,3.9,24,26,24,26,2.583333,3.84
+B,50,3.906977,4.06,4.488372,4.56,43,7,43,7,4.197674,4.31
+C,50,4.5,4.72,4.964286,4.98,28,22,28,22,4.732143,4.85
